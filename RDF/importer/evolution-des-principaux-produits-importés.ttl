@@ -1,0 +1,740 @@
+@prefix : <http://www.w3.org/2002/07/owl#> .
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix ont: <http://www.co-ode.org/ontologies/ont.owl#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix adms: <http://www.w3.org/ns/adms#> .
+@prefix dcat: <http://www.w3.org/ns/dcat#> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix time: <http://www.w3.org/2006/time#> .
+@prefix vcard: <http://www.w3.org/2006/vcard/ns#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@base <http://www.w3.org/2002/07/owl#> .
+
+[ rdf:type owl:Ontology
+ ] .
+
+#################################################################
+#    Annotation properties
+#################################################################
+
+###  http://purl.org/dc/terms/description
+dcterms:description rdf:type owl:AnnotationProperty .
+
+
+###  http://purl.org/dc/terms/format
+dcterms:format rdf:type owl:AnnotationProperty .
+
+
+###  http://purl.org/dc/terms/identifier
+dcterms:identifier rdf:type owl:AnnotationProperty .
+
+
+###  http://purl.org/dc/terms/issued
+dcterms:issued rdf:type owl:AnnotationProperty .
+
+
+###  http://purl.org/dc/terms/modified
+dcterms:modified rdf:type owl:AnnotationProperty .
+
+
+###  http://purl.org/dc/terms/publisher
+dcterms:publisher rdf:type owl:AnnotationProperty .
+
+
+###  http://purl.org/dc/terms/title
+dcterms:title rdf:type owl:AnnotationProperty .
+
+
+###  http://purl.org/dc/terms/type
+dcterms:type rdf:type owl:AnnotationProperty .
+
+
+###  http://www.co-ode.org/ontologies/ont.owl#valeur1999
+ont:valeur1999 rdf:type owl:AnnotationProperty .
+
+
+###  http://www.co-ode.org/ontologies/ont.owl#valeur2000
+ont:valeur2000 rdf:type owl:AnnotationProperty .
+
+
+###  http://www.co-ode.org/ontologies/ont.owl#valeur2001
+ont:valeur2001 rdf:type owl:AnnotationProperty .
+
+
+###  http://www.co-ode.org/ontologies/ont.owl#valeur2002
+ont:valeur2002 rdf:type owl:AnnotationProperty .
+
+
+###  http://www.co-ode.org/ontologies/ont.owl#valeur2003
+ont:valeur2003 rdf:type owl:AnnotationProperty .
+
+
+###  http://www.co-ode.org/ontologies/ont.owl#valeur2004
+ont:valeur2004 rdf:type owl:AnnotationProperty .
+
+
+###  http://www.co-ode.org/ontologies/ont.owl#valeur2005
+ont:valeur2005 rdf:type owl:AnnotationProperty .
+
+
+###  http://www.co-ode.org/ontologies/ont.owl#valeur2006
+ont:valeur2006 rdf:type owl:AnnotationProperty .
+
+
+###  http://www.co-ode.org/ontologies/ont.owl#valeur2007
+ont:valeur2007 rdf:type owl:AnnotationProperty .
+
+
+###  http://www.co-ode.org/ontologies/ont.owl#valeur2008
+ont:valeur2008 rdf:type owl:AnnotationProperty .
+
+
+###  http://www.co-ode.org/ontologies/ont.owl#valeur2009
+ont:valeur2009 rdf:type owl:AnnotationProperty .
+
+
+###  http://www.co-ode.org/ontologies/ont.owl#valeur2010
+ont:valeur2010 rdf:type owl:AnnotationProperty .
+
+
+###  http://www.co-ode.org/ontologies/ont.owl#valeur2011
+ont:valeur2011 rdf:type owl:AnnotationProperty .
+
+
+###  http://www.co-ode.org/ontologies/ont.owl#valeur2012
+ont:valeur2012 rdf:type owl:AnnotationProperty .
+
+
+###  http://www.co-ode.org/ontologies/ont.owl#valeur2013
+ont:valeur2013 rdf:type owl:AnnotationProperty .
+
+
+###  http://www.w3.org/ns/dcat#accessURL
+dcat:accessURL rdf:type owl:AnnotationProperty .
+
+
+###  http://www.w3.org/ns/dcat#byteSize
+dcat:byteSize rdf:type owl:AnnotationProperty .
+
+
+###  http://www.w3.org/ns/dcat#distribution
+dcat:distribution rdf:type owl:AnnotationProperty .
+
+
+###  http://www.w3.org/ns/dcat#downloadURL
+dcat:downloadURL rdf:type owl:AnnotationProperty .
+
+
+###  http://www.w3.org/ns/dcat#keyword
+dcat:keyword rdf:type owl:AnnotationProperty .
+
+
+###  http://www.w3.org/ns/dcat#mediaType
+dcat:mediaType rdf:type owl:AnnotationProperty .
+
+
+###  http://www.w3.org/ns/dcat#theme
+dcat:theme rdf:type owl:AnnotationProperty .
+
+
+###  http://xmlns.com/foaf/0.1/homepage
+foaf:homepage rdf:type owl:AnnotationProperty .
+
+
+###  http://xmlns.com/foaf/0.1/name
+foaf:name rdf:type owl:AnnotationProperty .
+
+
+###  http://xmlns.com/foaf/0.1/page
+foaf:page rdf:type owl:AnnotationProperty .
+
+
+#################################################################
+#    Classes
+#################################################################
+
+###  http://www.co-ode.org/ontologies/ont.owl#ProduitsDimportation
+ont:ProduitsDimportation rdf:type owl:Class .
+
+
+#################################################################
+#    Individuals
+#################################################################
+
+###  http://www.co-ode.org/ontologies/ont.owl#Autres_appareils_du_n_85.36_pour_tension_nexcédant
+ont:Autres_appareils_du_n_85.36_pour_tension_nexcédant rdf:type owl:NamedIndividual ,
+                                                                ont:ProduitsDimportation ;
+                                                       ont:valeur1999 "1085,672561" ;
+                                                       ont:valeur2000 "1181,941282" ;
+                                                       ont:valeur2001 "1175,990875" ;
+                                                       ont:valeur2002 "4906,338967" ;
+                                                       ont:valeur2003 "3540,93569" ;
+                                                       ont:valeur2004 "3616,719399" ;
+                                                       rdfs:comment "" .
+
+
+###  http://www.co-ode.org/ontologies/ont.owl#Autres_ciments_portlands
+ont:Autres_ciments_portlands rdf:type owl:NamedIndividual ,
+                                      ont:ProduitsDimportation ;
+                             ont:valeur1999 "1300,240273" ;
+                             ont:valeur2000 "2060,93098" ;
+                             ont:valeur2001 "6983,394006" ;
+                             ont:valeur2002 "14441,81675" ;
+                             ont:valeur2003 "11485,01736" ;
+                             ont:valeur2004 "15147,52143" ;
+                             ont:valeur2005 "14313,58436" ;
+                             ont:valeur2006 "11565,2224" ;
+                             ont:valeur2007 "13237,88437" ;
+                             ont:valeur2008 "11800,72155" ;
+                             ont:valeur2009 "10391,58325" ;
+                             ont:valeur2010 "11435,42487" ;
+                             ont:valeur2011 "10814,55515" ;
+                             ont:valeur2012 "16346,9126" ;
+                             ont:valeur2013 "27810,11786" .
+
+
+###  http://www.co-ode.org/ontologies/ont.owl#Autres_froment__blé__et_méteil
+ont:Autres_froment__blé__et_méteil rdf:type owl:NamedIndividual ,
+                                            ont:ProduitsDimportation ;
+                                   ont:valeur1999 "3111,46521" ;
+                                   ont:valeur2000 "3089,627534" ;
+                                   ont:valeur2001 "3043,661081" ;
+                                   ont:valeur2002 "2672,49121" ;
+                                   ont:valeur2003 "1239,422948" ;
+                                   ont:valeur2004 "1212,956187" ;
+                                   ont:valeur2005 "1126,50047" ;
+                                   ont:valeur2006 "2328,643725" ;
+                                   ont:valeur2007 "9439,305366" ;
+                                   ont:valeur2008 "14262,76571" ;
+                                   ont:valeur2009 "11599,26429" ;
+                                   ont:valeur2010 "9867,900983" ;
+                                   ont:valeur2011 "13504,28002" ;
+                                   ont:valeur2012 "13898,25047" ;
+                                   ont:valeur2013 "17046,73797" .
+
+
+###  http://www.co-ode.org/ontologies/ont.owl#Autres_fruits_à_coques_frais_ou_secs_même_décortiqués
+ont:Autres_fruits_à_coques_frais_ou_secs_même_décortiqués rdf:type owl:NamedIndividual ,
+                                                                   ont:ProduitsDimportation ;
+                                                          ont:valeur1999 "3111,46521" ;
+                                                          ont:valeur2000 "3089,627534" ;
+                                                          ont:valeur2001 "3043,661081" ;
+                                                          ont:valeur2002 "2672,49121" ;
+                                                          ont:valeur2003 "1239,422948" ;
+                                                          ont:valeur2004 "1212,956187" ;
+                                                          ont:valeur2005 "1126,50047" ;
+                                                          ont:valeur2006 "2328,643725" ;
+                                                          ont:valeur2007 "9439,305366" ;
+                                                          ont:valeur2008 "14262,76571" ;
+                                                          ont:valeur2009 "11599,26429" ;
+                                                          ont:valeur2010 "9867,900983" ;
+                                                          ont:valeur2011 "13504,28002" ;
+                                                          ont:valeur2012 "13898,25047" ;
+                                                          ont:valeur2013 "17046,73797" .
+
+
+###  http://www.co-ode.org/ontologies/ont.owl#Autres_huile_de_palme_et__fractions_non_chimiquement
+ont:Autres_huile_de_palme_et__fractions_non_chimiquement rdf:type owl:NamedIndividual ,
+                                                                  ont:ProduitsDimportation ;
+                                                         ont:valeur1999 "4768,226125" ;
+                                                         ont:valeur2000 "2671,998455" ;
+                                                         ont:valeur2001 "3190,838795" ;
+                                                         ont:valeur2002 "3762,84776" ;
+                                                         ont:valeur2003 "1938,040781" ;
+                                                         ont:valeur2004 "1720,394347" ;
+                                                         ont:valeur2005 "6675,512228" ;
+                                                         ont:valeur2006 "6239,290631" ;
+                                                         ont:valeur2007 "6821,370611" ;
+                                                         ont:valeur2008 "7052,349646" ;
+                                                         ont:valeur2009 "8761,018921" ;
+                                                         ont:valeur2010 "8439,042429" ;
+                                                         ont:valeur2011 "9772,830457" ;
+                                                         ont:valeur2012 "12371,44424" ;
+                                                         ont:valeur2013 "14357,42634" .
+
+
+###  http://www.co-ode.org/ontologies/ont.owl#Autres_médicaments_en_doses__produits_des_n_30_02_30
+ont:Autres_médicaments_en_doses__produits_des_n_30_02_30 rdf:type owl:NamedIndividual ,
+                                                                  ont:ProduitsDimportation ;
+                                                         ont:valeur1999 "11819,859" ;
+                                                         ont:valeur2000 "14807,72114" ;
+                                                         ont:valeur2001 "12973,26325" ;
+                                                         ont:valeur2002 "17874,86389" ;
+                                                         ont:valeur2003 "22032,0875" ;
+                                                         ont:valeur2004 "18930,18627" ;
+                                                         ont:valeur2005 "21171,64235" ;
+                                                         ont:valeur2006 "22948,38064" ;
+                                                         ont:valeur2007 "25368,23223" ;
+                                                         ont:valeur2008 "33586,13647" ;
+                                                         ont:valeur2009 "39554,93621" ;
+                                                         ont:valeur2010 "38653,12763" ;
+                                                         ont:valeur2011 "52607,636" ;
+                                                         ont:valeur2012 "50613,71715" ;
+                                                         ont:valeur2013 "86593,65422" .
+
+
+###  http://www.co-ode.org/ontologies/ont.owl#Autres_préparations_alimentaires_n_d_c_a
+ont:Autres_préparations_alimentaires_n_d_c_a rdf:type owl:NamedIndividual ,
+                                                      ont:ProduitsDimportation ;
+                                             ont:valeur1999 "2939,202958" ;
+                                             ont:valeur2000 "3975,685153" ;
+                                             ont:valeur2001 "4814,762151" ;
+                                             ont:valeur2002 "5702,312138" ;
+                                             ont:valeur2003 "3850,725647" ;
+                                             ont:valeur2004 "3782,15488" ;
+                                             ont:valeur2005 "3783,035372" ;
+                                             ont:valeur2006 "4027,210997" ;
+                                             ont:valeur2007 "4112,834162" ;
+                                             ont:valeur2008 "7107,935167" ;
+                                             ont:valeur2009 "6474,913883" ;
+                                             ont:valeur2010 "5997,110481" ;
+                                             ont:valeur2011 "5324,548999" ;
+                                             ont:valeur2012 "8311,472695" ;
+                                             ont:valeur2013 "9842,761816" .
+
+
+###  http://www.co-ode.org/ontologies/ont.owl#Butanes_liquéfiés
+ont:Butanes_liquéfiés rdf:type owl:NamedIndividual ,
+                               ont:ProduitsDimportation ;
+                      ont:valeur1999 "1778,731625" ;
+                      ont:valeur2000 "2247,674395" ;
+                      ont:valeur2001 "2568,986206" ;
+                      ont:valeur2002 "2720,79019" ;
+                      ont:valeur2003 "3013,019352" ;
+                      ont:valeur2004 "4044,874947" ;
+                      ont:valeur2005 "4655,499449" ;
+                      ont:valeur2006 "7126,292726" ;
+                      ont:valeur2007 "7628,485175" ;
+                      ont:valeur2008 "11746,28391" ;
+                      ont:valeur2009 "8722,726298" ;
+                      ont:valeur2010 "10343,96802" ;
+                      ont:valeur2011 "14663,33317" ;
+                      ont:valeur2012 "26121,29303" ;
+                      ont:valeur2013 "27115,70005" .
+
+
+###  http://www.co-ode.org/ontologies/ont.owl#Ciments_non_pulvérisés_dits__clinkers__même_colorés
+ont:Ciments_non_pulvérisés_dits__clinkers__même_colorés rdf:type owl:NamedIndividual ,
+                                                                 ont:ProduitsDimportation ;
+                                                        ont:valeur1999 "6642,341087" ;
+                                                        ont:valeur2000 "2763,358866" ;
+                                                        ont:valeur2001 "1138,421554" ;
+                                                        ont:valeur2002 "1301,395596" ;
+                                                        ont:valeur2003 "9021,440096" ;
+                                                        ont:valeur2004 "5466,811424" ;
+                                                        ont:valeur2005 "9177,250445" ;
+                                                        ont:valeur2006 "12065,5884" ;
+                                                        ont:valeur2007 "13957,95139" ;
+                                                        ont:valeur2008 "17519,77067" ;
+                                                        ont:valeur2009 "21928,81171" ;
+                                                        ont:valeur2010 "20919,52409" ;
+                                                        ont:valeur2011 "22349,80342" ;
+                                                        ont:valeur2012 "30750,17802" ;
+                                                        ont:valeur2013 "24337,26943" .
+
+
+###  http://www.co-ode.org/ontologies/ont.owl#Engrais_minéraux_ou_chimiques_avec_azote_phosphore
+ont:Engrais_minéraux_ou_chimiques_avec_azote_phosphore rdf:type owl:NamedIndividual ,
+                                                                ont:ProduitsDimportation ;
+                                                       ont:valeur1999 "11557,67563" ;
+                                                       ont:valeur2000 "8218,338872" ;
+                                                       ont:valeur2001 "11042,08706" ;
+                                                       ont:valeur2002 "18960,23941" ;
+                                                       ont:valeur2003 "20644,09855" ;
+                                                       ont:valeur2004 "19720,2068" ;
+                                                       ont:valeur2005 "14833,86715" ;
+                                                       ont:valeur2006 "13114,37034" ;
+                                                       ont:valeur2007 "9328,35416" ;
+                                                       ont:valeur2008 "19756,77574" ;
+                                                       ont:valeur2009 "13897,22332" ;
+                                                       ont:valeur2010 "14159,06856" ;
+                                                       ont:valeur2011 "23148,77851" ;
+                                                       ont:valeur2012 "41473,4969" ;
+                                                       ont:valeur2013 "47745,59363" .
+
+
+###  http://www.co-ode.org/ontologies/ont.owl#Farines_de_froment__blé__ou_de_méteil
+ont:Farines_de_froment__blé__ou_de_méteil rdf:type owl:NamedIndividual ,
+                                                   ont:ProduitsDimportation ;
+                                          ont:valeur1999 "1214,686823" ;
+                                          ont:valeur2000 "1980,099176" ;
+                                          ont:valeur2001 "3754,050839" ;
+                                          ont:valeur2002 "3942,484016" ;
+                                          ont:valeur2003 "6392,718258" ;
+                                          ont:valeur2004 "3634,708882" ;
+                                          ont:valeur2005 "6800,428487" ;
+                                          ont:valeur2006 "6067,756716" ;
+                                          ont:valeur2007 "3761,549365" ;
+                                          ont:valeur2008 "2843,401031" ;
+                                          ont:valeur2009 "5469,924826" ;
+                                          ont:valeur2010 "8958,596547" ;
+                                          ont:valeur2011 "8275,050602" ;
+                                          ont:valeur2012 "12143,93712" ;
+                                          ont:valeur2013 "9783,785992" .
+
+
+###  http://www.co-ode.org/ontologies/ont.owl#Fil_de_section_circulaire_d_un_diamètre_inferieur_à_1_mm
+ont:Fil_de_section_circulaire_d_un_diamètre_inferieur_à_1_mm rdf:type owl:NamedIndividual ,
+                                                                      ont:ProduitsDimportation ;
+                                                             ont:valeur1999 "648,569512" ;
+                                                             ont:valeur2000 "1709,802259" ;
+                                                             ont:valeur2001 "1738,939316" ;
+                                                             ont:valeur2002 "1736,513013" ;
+                                                             ont:valeur2003 "4111,141835" ;
+                                                             ont:valeur2004 "3681,948167" ;
+                                                             ont:valeur2005 "4420,689616" ;
+                                                             ont:valeur2006 "4271,184626" ;
+                                                             ont:valeur2007 "7206,104586" ;
+                                                             ont:valeur2008 "12679,01553" ;
+                                                             ont:valeur2009 "10349,80581" ;
+                                                             ont:valeur2010 "12333,09511" ;
+                                                             ont:valeur2011 "13017,13093" ;
+                                                             ont:valeur2012 "18720,00056" ;
+                                                             ont:valeur2013 "14664,5217" .
+
+
+###  http://www.co-ode.org/ontologies/ont.owl#Huiles_et_préparations_de_pétrole
+ont:Huiles_et_préparations_de_pétrole rdf:type owl:NamedIndividual ,
+                                               ont:ProduitsDimportation ;
+                                      ont:valeur1999 "38136,76502" ;
+                                      ont:valeur2000 "69874,28618" ;
+                                      ont:valeur2001 "79364,3841" ;
+                                      ont:valeur2002 "67907,92528" ;
+                                      ont:valeur2003 "78694,42189" ;
+                                      ont:valeur2004 "88189,19475" ;
+                                      ont:valeur2005 "106591,7706" ;
+                                      ont:valeur2006 "144215,4404" ;
+                                      ont:valeur2007 "150683,6942" ;
+                                      ont:valeur2008 "188089,2993" ;
+                                      ont:valeur2009 "197010,239" ;
+                                      ont:valeur2010 "210187,2575" ;
+                                      ont:valeur2011 "253256,3288" ;
+                                      ont:valeur2012 "403485,6662" ;
+                                      ont:valeur2013 "465361,5744" .
+
+
+###  http://www.co-ode.org/ontologies/ont.owl#Insecticides
+ont:Insecticides rdf:type owl:NamedIndividual ,
+                          ont:ProduitsDimportation ;
+                 ont:valeur1999 "8525,380055" ;
+                 ont:valeur2000 "2504,612171" ;
+                 ont:valeur2001 "2596,828532" ;
+                 ont:valeur2002 "3554,827111" ;
+                 ont:valeur2003 "4126,437544" ;
+                 ont:valeur2004 "8996,275865" ;
+                 ont:valeur2005 "8187,283121" ;
+                 ont:valeur2006 "8950,037754" ;
+                 ont:valeur2007 "8363,884575" ;
+                 ont:valeur2008 "1607,59376" ;
+                 ont:valeur2009 0 ;
+                 ont:valeur2010 0 ;
+                 ont:valeur2011 0 ;
+                 ont:valeur2012 0 ;
+                 ont:valeur2013 0 .
+
+
+###  http://www.co-ode.org/ontologies/ont.owl#Malt_non_torréfié
+ont:Malt_non_torréfié rdf:type owl:NamedIndividual ,
+                               ont:ProduitsDimportation ;
+                      ont:valeur1999 "2192,069188" ;
+                      ont:valeur2000 "1925,554732" ;
+                      ont:valeur2001 "2650,609527" ;
+                      ont:valeur2002 "2782,775716" ;
+                      ont:valeur2003 "3846,515467" ;
+                      ont:valeur2004 "2850,32691" ;
+                      ont:valeur2005 "3129,28234" ;
+                      ont:valeur2006 "3494,781277" ;
+                      ont:valeur2007 "4516,108063" ;
+                      ont:valeur2008 "5277,502025" ;
+                      ont:valeur2009 "4725,580364" ;
+                      ont:valeur2010 "3950,559508" ;
+                      ont:valeur2011 "4943,334578" ;
+                      ont:valeur2012 "5812,036786" ;
+                      ont:valeur2013 "6800,521561" .
+
+
+###  http://www.co-ode.org/ontologies/ont.owl#Motocycles_à_piston_alternatif_de_50_cm3_ou_moins
+ont:Motocycles_à_piston_alternatif_de_50_cm3_ou_moins rdf:type owl:NamedIndividual ,
+                                                               ont:ProduitsDimportation ;
+                                                      ont:valeur1999 "5892,399742" ;
+                                                      ont:valeur2000 "3878,068447" ;
+                                                      ont:valeur2001 "5514,400281" ;
+                                                      ont:valeur2002 "5393,468422" ;
+                                                      ont:valeur2003 "7089,020487" ;
+                                                      ont:valeur2004 "4555,102027" ;
+                                                      ont:valeur2005 "2925,968708" ;
+                                                      ont:valeur2006 "806,549529" ;
+                                                      ont:valeur2007 "1163,895338" ;
+                                                      ont:valeur2008 "2184,894196" ;
+                                                      ont:valeur2009 "180,231431" ;
+                                                      ont:valeur2010 "1108,836299" ;
+                                                      ont:valeur2011 "482,436307" ;
+                                                      ont:valeur2012 "165,989405" ;
+                                                      ont:valeur2013 "734,402889" .
+
+
+###  http://www.co-ode.org/ontologies/ont.owl#Motocycles_à_piston_alternatif_de__50_à_250_cm3
+ont:Motocycles_à_piston_alternatif_de__50_à_250_cm3 rdf:type owl:NamedIndividual ,
+                                                             ont:ProduitsDimportation ;
+                                                    ont:valeur1999 "4778,07124" ;
+                                                    ont:valeur2000 "2877,953123" ;
+                                                    ont:valeur2001 "4481,988834" ;
+                                                    ont:valeur2002 "7524,63894" ;
+                                                    ont:valeur2003 "12302,10354" ;
+                                                    ont:valeur2004 "9884,469673" ;
+                                                    ont:valeur2005 "9021,465255" ;
+                                                    ont:valeur2006 "8634,060533" ;
+                                                    ont:valeur2007 "12895,1594" ;
+                                                    ont:valeur2008 "15460,39526" ;
+                                                    ont:valeur2009 "17794,44542" ;
+                                                    ont:valeur2010 "24304,46574" ;
+                                                    ont:valeur2011 "30362,5873" ;
+                                                    ont:valeur2012 "36253,9676" ;
+                                                    ont:valeur2013 "34203,90119" .
+
+
+###  http://www.co-ode.org/ontologies/ont.owl#Produits_plats__zingués_en_fer_aciers_non_alliés
+ont:Produits_plats__zingués_en_fer_aciers_non_alliés rdf:type owl:NamedIndividual ,
+                                                              ont:ProduitsDimportation ;
+                                                     ont:valeur1999 "2238,029717" ;
+                                                     ont:valeur2000 "3564,530328" ;
+                                                     ont:valeur2001 "3549,168004" ;
+                                                     ont:valeur2002 "4206,69442" ;
+                                                     ont:valeur2003 "4554,366243" ;
+                                                     ont:valeur2004 "4126,420793" ;
+                                                     ont:valeur2005 "4158,533128" ;
+                                                     ont:valeur2006 "4635,255221" ;
+                                                     ont:valeur2007 "6590,195593" ;
+                                                     ont:valeur2008 "7049,5536" ;
+                                                     ont:valeur2009 "5014,411333" ;
+                                                     ont:valeur2010 "8823,14874" ;
+                                                     ont:valeur2011 "8561,675699" ;
+                                                     ont:valeur2012 "9138,422668" ;
+                                                     ont:valeur2013 "9635,474905" .
+
+
+###  http://www.co-ode.org/ontologies/ont.owl#Riz_en_brisures
+ont:Riz_en_brisures rdf:type owl:NamedIndividual ,
+                             ont:ProduitsDimportation ;
+                    ont:valeur1999 "7069,46048" ;
+                    ont:valeur2000 "6672,859398" ;
+                    ont:valeur2001 "13084,019" ;
+                    ont:valeur2002 "13033,57495" ;
+                    ont:valeur2003 "13846,63945" ;
+                    ont:valeur2004 "10361,83185" ;
+                    ont:valeur2005 "16325,13229" ;
+                    ont:valeur2006 "21396,29867" ;
+                    ont:valeur2007 "14399,70693" ;
+                    ont:valeur2008 "15458,05392" ;
+                    ont:valeur2009 "11416,86029" ;
+                    ont:valeur2010 "16377,30603" ;
+                    ont:valeur2011 "24809,42378" ;
+                    ont:valeur2012 "32707,24756" ;
+                    ont:valeur2013 "31085,7291" .
+
+
+###  http://www.co-ode.org/ontologies/ont.owl#Riz_semi_blanchi_ou_blanchi_même_poli_ou_glacé
+ont:Riz_semi_blanchi_ou_blanchi_même_poli_ou_glacé rdf:type owl:NamedIndividual ,
+                                                            ont:ProduitsDimportation ;
+                                                   ont:valeur1999 "12269,37092" ;
+                                                   ont:valeur2000 "7187,012233" ;
+                                                   ont:valeur2001 "12311,14684" ;
+                                                   ont:valeur2002 "13196,78641" ;
+                                                   ont:valeur2003 "9103,208467" ;
+                                                   ont:valeur2004 "12651,47826" ;
+                                                   ont:valeur2005 "17226,94429" ;
+                                                   ont:valeur2006 "16390,07011" ;
+                                                   ont:valeur2007 "18693,63369" ;
+                                                   ont:valeur2008 "24834,37618" ;
+                                                   ont:valeur2009 "20716,37942" ;
+                                                   ont:valeur2010 "13636,60454" ;
+                                                   ont:valeur2011 "14774,24885" ;
+                                                   ont:valeur2012 "25248,60096" ;
+                                                   ont:valeur2013 "28749,34014" .
+
+
+###  http://www.co-ode.org/ontologies/ont.owl#Saccharose_chimiquement_pur__à_létat_solide
+ont:Saccharose_chimiquement_pur__à_létat_solide rdf:type owl:NamedIndividual ,
+                                                         ont:ProduitsDimportation ;
+                                                ont:valeur1999 "2854,603247" ;
+                                                ont:valeur2000 "292,01244" ;
+                                                ont:valeur2001 "2246,199929" ;
+                                                ont:valeur2002 "3396,317124" ;
+                                                ont:valeur2003 "6510,989388" ;
+                                                ont:valeur2004 "1285,400041" ;
+                                                ont:valeur2005 "3018,601162" ;
+                                                ont:valeur2006 "4146,501799" ;
+                                                ont:valeur2007 "4876,151885" ;
+                                                ont:valeur2008 "807,223063" ;
+                                                ont:valeur2009 "6339,594195" ;
+                                                ont:valeur2010 "1283,617941" ;
+                                                ont:valeur2011 "11174,77096" ;
+                                                ont:valeur2012 "14050,08469" ;
+                                                ont:valeur2013 "22341,35901" .
+
+
+###  http://www.co-ode.org/ontologies/ont.owl#Tabacs_à_fumer__même_contenant_des_succédanés_du_tabac
+ont:Tabacs_à_fumer__même_contenant_des_succédanés_du_tabac rdf:type owl:NamedIndividual ,
+                                                                    ont:ProduitsDimportation ;
+                                                           ont:valeur1999 "382,625848" ;
+                                                           ont:valeur2000 "3209,575804" ;
+                                                           ont:valeur2001 "5948,703166" ;
+                                                           ont:valeur2002 "7175,357584" ;
+                                                           ont:valeur2003 "8521,496204" ;
+                                                           ont:valeur2004 "19098,42371" ;
+                                                           ont:valeur2005 "12864,36767" ;
+                                                           ont:valeur2006 "11601,86985" ;
+                                                           ont:valeur2007 "11860,53814" ;
+                                                           ont:valeur2008 "14752,46739" ;
+                                                           ont:valeur2009 "16198,82472" ;
+                                                           ont:valeur2010 "18244,02672" ;
+                                                           ont:valeur2011 "19099,00566" ;
+                                                           ont:valeur2012 "22239,26326" ;
+                                                           ont:valeur2013 "25534,81241" .
+
+
+###  http://www.co-ode.org/ontologies/ont.owl#Tombereaux_automoteurs_à_utilisation_hors_du_réseau_routier
+ont:Tombereaux_automoteurs_à_utilisation_hors_du_réseau_routier rdf:type owl:NamedIndividual ,
+                                                                         ont:ProduitsDimportation ;
+                                                                ont:valeur1999 "10,305519" ;
+                                                                ont:valeur2000 "1,085" ;
+                                                                ont:valeur2001 0 ;
+                                                                ont:valeur2002 "12,913496" ;
+                                                                ont:valeur2003 "2,8015" ;
+                                                                ont:valeur2004 "28,577425" ;
+                                                                ont:valeur2005 "2336,630892" ;
+                                                                ont:valeur2006 "2848,386997" ;
+                                                                ont:valeur2007 "284,754756" ;
+                                                                ont:valeur2008 "8426,742897" ;
+                                                                ont:valeur2009 "19644,25292" ;
+                                                                ont:valeur2010 "5654,860453" ;
+                                                                ont:valeur2011 "5307,826893" ;
+                                                                ont:valeur2012 "19785,48454" ;
+                                                                ont:valeur2013 "20807,3053" .
+
+
+###  http://www.co-ode.org/ontologies/ont.owl#Urée_même_en_solution_aqueuse
+ont:Urée_même_en_solution_aqueuse rdf:type owl:NamedIndividual ,
+                                           ont:ProduitsDimportation ;
+                                  ont:valeur1999 "5136,652981" ;
+                                  ont:valeur2000 "323,527135" ;
+                                  ont:valeur2001 "1459,031787" ;
+                                  ont:valeur2002 "2066,342921" ;
+                                  ont:valeur2003 "5300,516194" ;
+                                  ont:valeur2004 "5098,076873" ;
+                                  ont:valeur2005 "7169,058532" ;
+                                  ont:valeur2006 "9868,849735" ;
+                                  ont:valeur2007 "6757,618932" ;
+                                  ont:valeur2008 "5279,245233" ;
+                                  ont:valeur2009 "7350,803891" ;
+                                  ont:valeur2010 "16458,09444" ;
+                                  ont:valeur2011 "7571,081677" ;
+                                  ont:valeur2012 "19467,9968" ;
+                                  ont:valeur2013 "15527,50984" .
+
+
+###  http://www.co-ode.org/ontologies/ont.owl#Vaccins_pour_la_médecine_humaine
+ont:Vaccins_pour_la_médecine_humaine rdf:type owl:NamedIndividual ,
+                                              ont:ProduitsDimportation ;
+                                     ont:valeur1999 "1178,547759" ;
+                                     ont:valeur2000 "1422,408007" ;
+                                     ont:valeur2001 "2202,300267" ;
+                                     ont:valeur2002 "3073,071467" ;
+                                     ont:valeur2003 "3777,975713" ;
+                                     ont:valeur2004 "4081,962584" ;
+                                     ont:valeur2005 "5393,844739" ;
+                                     ont:valeur2006 "4894,303447" ;
+                                     ont:valeur2007 "6737,918427" ;
+                                     ont:valeur2008 "10316,43031" ;
+                                     ont:valeur2009 "9237,645035" ;
+                                     ont:valeur2010 "5378,130866" ;
+                                     ont:valeur2011 "8170,020451" ;
+                                     ont:valeur2012 "6421,345732" ;
+                                     ont:valeur2013 "9502,034704" .
+
+
+###  http://www.co-ode.org/ontologies/ont.owl#Véhicules_diesels_de__1500_à_2500_cm3
+ont:Véhicules_diesels_de__1500_à_2500_cm3 rdf:type owl:NamedIndividual ,
+                                                   ont:ProduitsDimportation ;
+                                          ont:valeur1999 "2174,309781" ;
+                                          ont:valeur2000 "2633,010948" ;
+                                          ont:valeur2001 "3110,255492" ;
+                                          ont:valeur2002 "3309,520521" ;
+                                          ont:valeur2003 "3948,191819" ;
+                                          ont:valeur2004 "3171,467708" ;
+                                          ont:valeur2005 "3573,342721" ;
+                                          ont:valeur2006 "4656,663991" ;
+                                          ont:valeur2007 "4614,486672" ;
+                                          ont:valeur2008 "5271,242598" ;
+                                          ont:valeur2009 "4444,043906" ;
+                                          ont:valeur2010 "5997,099566" ;
+                                          ont:valeur2011 "8239,44906" ;
+                                          ont:valeur2012 "10625,53882" ;
+                                          ont:valeur2013 "7420,678317" .
+
+
+###  http://www.co-ode.org/ontologies/ont.owl#Véhicules_diesels_de__2500_cm3
+ont:Véhicules_diesels_de__2500_cm3 rdf:type owl:NamedIndividual ,
+                                            ont:ProduitsDimportation ;
+                                   ont:valeur1999 "4606,596634" ;
+                                   ont:valeur2000 "2971,142288" ;
+                                   ont:valeur2001 "4062,895782" ;
+                                   ont:valeur2002 "5330,179365" ;
+                                   ont:valeur2003 "7335,711412" ;
+                                   ont:valeur2004 "5595,374566" ;
+                                   ont:valeur2005 "7245,431145" ;
+                                   ont:valeur2006 "8147,086853" ;
+                                   ont:valeur2007 "9445,305304" ;
+                                   ont:valeur2008 "11504,6411" ;
+                                   ont:valeur2009 "11582,34706" ;
+                                   ont:valeur2010 "11325,95571" ;
+                                   ont:valeur2011 "10624,84436" ;
+                                   ont:valeur2012 "12424,8243" ;
+                                   ont:valeur2013 "15761,63161" .
+
+
+###  http://www.co-ode.org/ontologies/ont.owl#Véhicules_à_essence_de__1000_à_1500_cm3
+ont:Véhicules_à_essence_de__1000_à_1500_cm3 rdf:type owl:NamedIndividual ,
+                                                     ont:ProduitsDimportation ;
+                                            ont:valeur1999 "3057,63364" ;
+                                            ont:valeur2000 "2531,908176" ;
+                                            ont:valeur2001 "2688,3665" ;
+                                            ont:valeur2002 "2599,163029" ;
+                                            ont:valeur2003 "3152,693512" ;
+                                            ont:valeur2004 "3522,88721" ;
+                                            ont:valeur2005 "2635,592839" ;
+                                            ont:valeur2006 "2889,266526" ;
+                                            ont:valeur2007 "2773,150635" ;
+                                            ont:valeur2008 "3895,720624" ;
+                                            ont:valeur2009 "7488,057955" ;
+                                            ont:valeur2010 "3887,763166" ;
+                                            ont:valeur2011 "4670,307891" ;
+                                            ont:valeur2012 "4859,121429" ;
+                                            ont:valeur2013 "6223,336565" .
+
+
+###  http://www.co-ode.org/ontologies/ont.owl#Véhicules_à_essence_de__1500_à_3000_cm3
+ont:Véhicules_à_essence_de__1500_à_3000_cm3 rdf:type owl:NamedIndividual ,
+                                                     ont:ProduitsDimportation ;
+                                            ont:valeur1999 "3057,63364" ;
+                                            ont:valeur2000 "2531,908176" ;
+                                            ont:valeur2001 "2688,3665" ;
+                                            ont:valeur2002 "2599,163029" ;
+                                            ont:valeur2003 "3152,693512" ;
+                                            ont:valeur2004 "3522,88721" ;
+                                            ont:valeur2005 "2635,592839" ;
+                                            ont:valeur2006 "2889,266526" ;
+                                            ont:valeur2007 "2773,150635" ;
+                                            ont:valeur2008 "3895,720624" ;
+                                            ont:valeur2009 "7488,057955" ;
+                                            ont:valeur2010 "3887,763166" ;
+                                            ont:valeur2011 "4670,307891" ;
+                                            ont:valeur2012 "4859,121429" ;
+                                            ont:valeur2013 "6223,336565" .
+
+
+###  Generated by the OWL API (version 4.2.8.20170104-2310) https://github.com/owlcs/owlapi

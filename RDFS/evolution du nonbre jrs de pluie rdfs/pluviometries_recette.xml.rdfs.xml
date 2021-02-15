@@ -1,0 +1,67 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+        xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+          xml:base="http://www.data.gov.bf/2007/09/11/pluviometries_recette.rdfs">
+         <rdfs:Class rdf:ID="RecettesBudgetaire">
+                <label xml:lang="en">Budget revenu</label>
+                <comment xml:lang="en">Corresponds to recipe budget</comment>
+                <label xml:lang="fr">Recettes Budgetaire</label>
+                <comment xml:lang="fr">Correspond  au recette budgetaire.</comment>
+        </Class>
+        <rdfs:Class rdf:ID="Stations">
+                <label xml:lang="en">City</label>
+                <comment xml:lang="en">Corresponds to a city where it rained</comment>
+                <label xml:lang="fr">Stations</label>
+                <comment xml:lang="fr">Correspond  à une ville ou il a plu.</comment>
+        </Class>        
+        <rdfs:Property rdf:ID="valeur2007">
+                <rdfs:domain rdf:resource="#Stations"/>
+                <rdfs:domain rdf:resource="#RecettesBudgetaire"/>
+                <rdfs:range rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Literal"/>
+        </rdfs:Property>
+        <rdfs:Property rdf:ID="valeur2008">
+                <rdfs:domain rdf:resource="#Stations"/>
+                <rdfs:domain rdf:resource="#RecettesBudgetaire"/>
+                <rdfs:range rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Literal"/>
+        </rdfs:Property>
+        <rdfs:Property rdf:ID="valeur2009">
+                  <rdfs:domain rdf:resource="#Stations"/>
+                  <rdfs:domain rdf:resource="#RecettesBudgetaire"/>
+                <rdfs:range rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Literal"/>
+        </rdfs:Property>
+        <rdfs:Property rdf:ID="valeur2010">
+                  <rdfs:domain rdf:resource="#Stations"/>
+                  <rdfs:domain rdf:resource="#RecettesBudgetaire"/>
+                <rdfs:range rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Literal"/>
+        </rdfs:Property>
+        <rdfs:Property rdf:ID="valeur2011">
+                  <rdfs:domain rdf:resource="#Stations"/>
+                  <rdfs:domain rdf:resource="#RecettesBudgetaire"/>
+                <rdfs:range rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Literal"/>
+        </rdfs:Property>
+        <rdfs:Property rdf:ID="valeur2012">
+                  <rdfs:domain rdf:resource="#Stations"/>
+                  <rdfs:domain rdf:resource="#RecettesBudgetaire"/>
+                <rdfs:range rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Literal"/>
+        </rdfs:Property>
+        <rdfs:Property rdf:ID="valeur2013">
+                  <rdfs:domain rdf:resource="#Stations"/>
+                  <rdfs:domain rdf:resource="#RecettesBudgetaire"/>
+                <rdfs:range rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Literal"/>
+        </rdfs:Property>
+        <rdfs:Property rdf:ID="valeur2014">
+                <rdfs:domain rdf:resource="#Stations"/>
+                <rdfs:domain rdf:resource="#RecettesBudgetaire"/>
+                <rdfs:range rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Literal"/>
+        </rdfs:Property>
+        <rdfs:Property rdf:ID="valeur2015">
+                <rdfs:domain rdf:resource="#Stations"/>
+                <rdfs:domain rdf:resource="#RecettesBudgetaire"/>
+                <rdfs:range rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Literal"/>
+        </rdfs:Property>
+        <rdfs:Property rdf:ID="valeur2016">
+                <rdfs:domain rdf:resource="#Stations"/>
+                <rdfs:domain rdf:resource="#RecettesBudgetaire"/>
+                <rdfs:range rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Literal"/>
+        </rdfs:Property>
+</rdf:RDF>

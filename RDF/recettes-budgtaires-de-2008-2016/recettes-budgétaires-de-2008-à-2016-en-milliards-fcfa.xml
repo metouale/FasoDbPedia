@@ -1,0 +1,360 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns="http://www.w3.org/2002/07/owl#"
+     xml:base="http://www.w3.org/2002/07/owl"
+     xmlns:adms="http://www.w3.org/ns/adms#"
+     xmlns:owl="http://www.w3.org/2002/07/owl#"
+     xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+     xmlns:vcard="http://www.w3.org/2006/vcard/ns#"
+     xmlns:ont="http://www.co-ode.org/ontologies/ont.owl#"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:xml="http://www.w3.org/XML/1998/namespace"
+     xmlns:dcterms="http://purl.org/dc/terms/"
+     xmlns:time="http://www.w3.org/2006/time#"
+     xmlns:dcat="http://www.w3.org/ns/dcat#"
+     xmlns:foaf="http://xmlns.com/foaf/0.1/"
+     xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <Ontology/>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Annotation properties
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://purl.org/dc/terms/description -->
+
+    <AnnotationProperty rdf:about="http://purl.org/dc/terms/description"/>
+    
+
+
+    <!-- http://purl.org/dc/terms/format -->
+
+    <AnnotationProperty rdf:about="http://purl.org/dc/terms/format"/>
+    
+
+
+    <!-- http://purl.org/dc/terms/identifier -->
+
+    <AnnotationProperty rdf:about="http://purl.org/dc/terms/identifier"/>
+    
+
+
+    <!-- http://purl.org/dc/terms/issued -->
+
+    <AnnotationProperty rdf:about="http://purl.org/dc/terms/issued"/>
+    
+
+
+    <!-- http://purl.org/dc/terms/modified -->
+
+    <AnnotationProperty rdf:about="http://purl.org/dc/terms/modified"/>
+    
+
+
+    <!-- http://purl.org/dc/terms/publisher -->
+
+    <AnnotationProperty rdf:about="http://purl.org/dc/terms/publisher"/>
+    
+
+
+    <!-- http://purl.org/dc/terms/title -->
+
+    <AnnotationProperty rdf:about="http://purl.org/dc/terms/title"/>
+    
+
+
+    <!-- http://purl.org/dc/terms/type -->
+
+    <AnnotationProperty rdf:about="http://purl.org/dc/terms/type"/>
+    
+
+
+    <!-- http://www.co-ode.org/ontologies/ont.owl#montant_en_2008 -->
+
+    <AnnotationProperty rdf:about="http://www.co-ode.org/ontologies/ont.owl#montant_en_2008"/>
+    
+
+
+    <!-- http://www.co-ode.org/ontologies/ont.owl#montant_en_2009 -->
+
+    <AnnotationProperty rdf:about="http://www.co-ode.org/ontologies/ont.owl#montant_en_2009"/>
+    
+
+
+    <!-- http://www.co-ode.org/ontologies/ont.owl#montant_en_2010 -->
+
+    <AnnotationProperty rdf:about="http://www.co-ode.org/ontologies/ont.owl#montant_en_2010"/>
+    
+
+
+    <!-- http://www.co-ode.org/ontologies/ont.owl#montant_en_2011 -->
+
+    <AnnotationProperty rdf:about="http://www.co-ode.org/ontologies/ont.owl#montant_en_2011"/>
+    
+
+
+    <!-- http://www.co-ode.org/ontologies/ont.owl#montant_en_2012 -->
+
+    <AnnotationProperty rdf:about="http://www.co-ode.org/ontologies/ont.owl#montant_en_2012"/>
+    
+
+
+    <!-- http://www.co-ode.org/ontologies/ont.owl#montant_en_2013 -->
+
+    <AnnotationProperty rdf:about="http://www.co-ode.org/ontologies/ont.owl#montant_en_2013"/>
+    
+
+
+    <!-- http://www.co-ode.org/ontologies/ont.owl#montant_en_2014 -->
+
+    <AnnotationProperty rdf:about="http://www.co-ode.org/ontologies/ont.owl#montant_en_2014"/>
+    
+
+
+    <!-- http://www.co-ode.org/ontologies/ont.owl#montant_en_2015 -->
+
+    <AnnotationProperty rdf:about="http://www.co-ode.org/ontologies/ont.owl#montant_en_2015"/>
+    
+
+
+    <!-- http://www.co-ode.org/ontologies/ont.owl#montant_en_2016 -->
+
+    <AnnotationProperty rdf:about="http://www.co-ode.org/ontologies/ont.owl#montant_en_2016"/>
+    
+
+
+    <!-- http://www.w3.org/ns/dcat#accessURL -->
+
+    <AnnotationProperty rdf:about="http://www.w3.org/ns/dcat#accessURL"/>
+    
+
+
+    <!-- http://www.w3.org/ns/dcat#byteSize -->
+
+    <AnnotationProperty rdf:about="http://www.w3.org/ns/dcat#byteSize"/>
+    
+
+
+    <!-- http://www.w3.org/ns/dcat#distribution -->
+
+    <AnnotationProperty rdf:about="http://www.w3.org/ns/dcat#distribution"/>
+    
+
+
+    <!-- http://www.w3.org/ns/dcat#downloadURL -->
+
+    <AnnotationProperty rdf:about="http://www.w3.org/ns/dcat#downloadURL"/>
+    
+
+
+    <!-- http://www.w3.org/ns/dcat#keyword -->
+
+    <AnnotationProperty rdf:about="http://www.w3.org/ns/dcat#keyword"/>
+    
+
+
+    <!-- http://www.w3.org/ns/dcat#mediaType -->
+
+    <AnnotationProperty rdf:about="http://www.w3.org/ns/dcat#mediaType"/>
+    
+
+
+    <!-- http://www.w3.org/ns/dcat#theme -->
+
+    <AnnotationProperty rdf:about="http://www.w3.org/ns/dcat#theme"/>
+    
+
+
+    <!-- http://xmlns.com/foaf/0.1/homepage -->
+
+    <AnnotationProperty rdf:about="http://xmlns.com/foaf/0.1/homepage"/>
+    
+
+
+    <!-- http://xmlns.com/foaf/0.1/name -->
+
+    <AnnotationProperty rdf:about="http://xmlns.com/foaf/0.1/name"/>
+    
+
+
+    <!-- http://xmlns.com/foaf/0.1/page -->
+
+    <AnnotationProperty rdf:about="http://xmlns.com/foaf/0.1/page"/>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Classes
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://www.co-ode.org/ontologies/ont.owl#RecettesBudgetaire -->
+
+    <Class rdf:about="http://www.co-ode.org/ontologies/ont.owl#RecettesBudgetaire"/>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Individuals
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://www.co-ode.org/ontologies/ont.owl#Dons_en_milliards_FCFA -->
+
+    <NamedIndividual rdf:about="http://www.co-ode.org/ontologies/ont.owl#Dons_en_milliards_FCFA">
+        <rdf:type rdf:resource="http://www.co-ode.org/ontologies/ont.owl#RecettesBudgetaire"/>
+        <ont:montant_en_2008>91,4</ont:montant_en_2008>
+        <ont:montant_en_2009>139,08</ont:montant_en_2009>
+        <ont:montant_en_2010>148,15</ont:montant_en_2010>
+        <ont:montant_en_2011>180,96</ont:montant_en_2011>
+        <ont:montant_en_2012>187,75</ont:montant_en_2012>
+        <ont:montant_en_2013>203,98</ont:montant_en_2013>
+        <ont:montant_en_2014>134,6</ont:montant_en_2014>
+        <ont:montant_en_2015>229,78</ont:montant_en_2015>
+        <ont:montant_en_2016>170,09</ont:montant_en_2016>
+    </NamedIndividual>
+    
+
+
+    <!-- http://www.co-ode.org/ontologies/ont.owl#Emprunts_en_milliards_FCFA -->
+
+    <NamedIndividual rdf:about="http://www.co-ode.org/ontologies/ont.owl#Emprunts_en_milliards_FCFA">
+        <rdf:type rdf:resource="http://www.co-ode.org/ontologies/ont.owl#RecettesBudgetaire"/>
+        <ont:montant_en_2008>92,46</ont:montant_en_2008>
+        <ont:montant_en_2009>130,71</ont:montant_en_2009>
+        <ont:montant_en_2010>85,85</ont:montant_en_2010>
+        <ont:montant_en_2011>42,75</ont:montant_en_2011>
+        <ont:montant_en_2012>140,73</ont:montant_en_2012>
+        <ont:montant_en_2013>174,44</ont:montant_en_2013>
+        <ont:montant_en_2014>134,44</ont:montant_en_2014>
+        <ont:montant_en_2015>173,36</ont:montant_en_2015>
+        <ont:montant_en_2016>295,8</ont:montant_en_2016>
+    </NamedIndividual>
+    
+
+
+    <!-- http://www.co-ode.org/ontologies/ont.owl#Recettes_budgétaires_en_milliards_FCFA -->
+
+    <NamedIndividual rdf:about="http://www.co-ode.org/ontologies/ont.owl#Recettes_budgétaires_en_milliards_FCFA">
+        <rdf:type rdf:resource="http://www.co-ode.org/ontologies/ont.owl#RecettesBudgetaire"/>
+        <ont:montant_en_2008>667,92</ont:montant_en_2008>
+        <ont:montant_en_2009>793,23</ont:montant_en_2009>
+        <ont:montant_en_2010>881,54</ont:montant_en_2010>
+        <ont:montant_en_2011>1056,06</ont:montant_en_2011>
+        <ont:montant_en_2012>1326,24</ont:montant_en_2012>
+        <ont:montant_en_2013>1474,88</ont:montant_en_2013>
+        <ont:montant_en_2014>1320,28</ont:montant_en_2014>
+        <ont:montant_en_2015>1436,53</ont:montant_en_2015>
+        <ont:montant_en_2016>1667,68</ont:montant_en_2016>
+    </NamedIndividual>
+    
+
+
+    <!-- http://www.co-ode.org/ontologies/ont.owl#Recettes_en_capital_en_milliards_FCFA -->
+
+    <NamedIndividual rdf:about="http://www.co-ode.org/ontologies/ont.owl#Recettes_en_capital_en_milliards_FCFA">
+        <rdf:type rdf:resource="http://www.co-ode.org/ontologies/ont.owl#RecettesBudgetaire"/>
+        <ont:montant_en_2008>6,38</ont:montant_en_2008>
+        <ont:montant_en_2009>32,83</ont:montant_en_2009>
+        <ont:montant_en_2010>11,62</ont:montant_en_2010>
+        <ont:montant_en_2011>7,14</ont:montant_en_2011>
+        <ont:montant_en_2012>5,59</ont:montant_en_2012>
+        <ont:montant_en_2013>3,67</ont:montant_en_2013>
+        <ont:montant_en_2014>1,81</ont:montant_en_2014>
+        <ont:montant_en_2015>4,39</ont:montant_en_2015>
+        <ont:montant_en_2016>1,45</ont:montant_en_2016>
+    </NamedIndividual>
+    
+
+
+    <!-- http://www.co-ode.org/ontologies/ont.owl#Recettes_extraordinaires_en_milliards_FCFA -->
+
+    <NamedIndividual rdf:about="http://www.co-ode.org/ontologies/ont.owl#Recettes_extraordinaires_en_milliards_FCFA">
+        <rdf:type rdf:resource="http://www.co-ode.org/ontologies/ont.owl#RecettesBudgetaire"/>
+        <ont:montant_en_2008>183,86</ont:montant_en_2008>
+        <ont:montant_en_2009>269,79</ont:montant_en_2009>
+        <ont:montant_en_2010>233,99</ont:montant_en_2010>
+        <ont:montant_en_2011>223,71</ont:montant_en_2011>
+        <ont:montant_en_2012>328,49</ont:montant_en_2012>
+        <ont:montant_en_2013>378,42</ont:montant_en_2013>
+        <ont:montant_en_2014>269,04</ont:montant_en_2014>
+        <ont:montant_en_2015>403,13</ont:montant_en_2015>
+        <ont:montant_en_2016>465,89</ont:montant_en_2016>
+    </NamedIndividual>
+    
+
+
+    <!-- http://www.co-ode.org/ontologies/ont.owl#Recettes_fiscales_en_milliards_FCFA -->
+
+    <NamedIndividual rdf:about="http://www.co-ode.org/ontologies/ont.owl#Recettes_fiscales_en_milliards_FCFA">
+        <rdf:type rdf:resource="http://www.co-ode.org/ontologies/ont.owl#RecettesBudgetaire"/>
+        <ont:montant_en_2008>439,65</ont:montant_en_2008>
+        <ont:montant_en_2009>445,21</ont:montant_en_2009>
+        <ont:montant_en_2010>524,9</ont:montant_en_2010>
+        <ont:montant_en_2011>728,36</ont:montant_en_2011>
+        <ont:montant_en_2012>885,39</ont:montant_en_2012>
+        <ont:montant_en_2013>971,26</ont:montant_en_2013>
+        <ont:montant_en_2014>927,91</ont:montant_en_2014>
+        <ont:montant_en_2015>913,66</ont:montant_en_2015>
+        <ont:montant_en_2016>1040,29</ont:montant_en_2016>
+    </NamedIndividual>
+    
+
+
+    <!-- http://www.co-ode.org/ontologies/ont.owl#Recettes_non_fiscales_en_milliards_FCFA -->
+
+    <NamedIndividual rdf:about="http://www.co-ode.org/ontologies/ont.owl#Recettes_non_fiscales_en_milliards_FCFA">
+        <rdf:type rdf:resource="http://www.co-ode.org/ontologies/ont.owl#RecettesBudgetaire"/>
+        <ont:montant_en_2008>38,04</ont:montant_en_2008>
+        <ont:montant_en_2009>45,4</ont:montant_en_2009>
+        <ont:montant_en_2010>111,03</ont:montant_en_2010>
+        <ont:montant_en_2011>96,84</ont:montant_en_2011>
+        <ont:montant_en_2012>106,78</ont:montant_en_2012>
+        <ont:montant_en_2013>121,53</ont:montant_en_2013>
+        <ont:montant_en_2014>121,51</ont:montant_en_2014>
+        <ont:montant_en_2015>115,34</ont:montant_en_2015>
+        <ont:montant_en_2016>160,05</ont:montant_en_2016>
+    </NamedIndividual>
+    
+
+
+    <!-- http://www.co-ode.org/ontologies/ont.owl#Recettes_ordinaires_en_milliards_FCFA -->
+
+    <NamedIndividual rdf:about="http://www.co-ode.org/ontologies/ont.owl#Recettes_ordinaires_en_milliards_FCFA">
+        <rdf:type rdf:resource="http://www.co-ode.org/ontologies/ont.owl#RecettesBudgetaire"/>
+        <ont:montant_en_2008>484,06</ont:montant_en_2008>
+        <ont:montant_en_2009>523,44</ont:montant_en_2009>
+        <ont:montant_en_2010>647,55</ont:montant_en_2010>
+        <ont:montant_en_2011>832,34</ont:montant_en_2011>
+        <ont:montant_en_2012>997,76</ont:montant_en_2012>
+        <ont:montant_en_2013>1096,46</ont:montant_en_2013>
+        <ont:montant_en_2014>1051,23</ont:montant_en_2014>
+        <ont:montant_en_2015>1033,4</ont:montant_en_2015>
+        <ont:montant_en_2016>1201,79</ont:montant_en_2016>
+    </NamedIndividual>
+</rdf:RDF>
+
+
+
+<!-- Generated by the OWL API (version 4.2.8.20170104-2310) https://github.com/owlcs/owlapi -->
+

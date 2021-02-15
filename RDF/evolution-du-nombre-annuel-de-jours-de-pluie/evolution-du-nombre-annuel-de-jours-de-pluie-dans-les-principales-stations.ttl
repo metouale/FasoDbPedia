@@ -1,0 +1,294 @@
+@prefix : <http://www.w3.org/2002/07/owl#> .
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix ont: <http://www.co-ode.org/ontologies/ont.owl#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix adms: <http://www.w3.org/ns/adms#> .
+@prefix dcat: <http://www.w3.org/ns/dcat#> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix time: <http://www.w3.org/2006/time#> .
+@prefix vcard: <http://www.w3.org/2006/vcard/ns#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@base <http://www.w3.org/2002/07/owl#> .
+
+[ rdf:type owl:Ontology
+ ] .
+
+#################################################################
+#    Annotation properties
+#################################################################
+
+###  http://purl.org/dc/terms/description
+dcterms:description rdf:type owl:AnnotationProperty .
+
+
+###  http://purl.org/dc/terms/format
+dcterms:format rdf:type owl:AnnotationProperty .
+
+
+###  http://purl.org/dc/terms/identifier
+dcterms:identifier rdf:type owl:AnnotationProperty .
+
+
+###  http://purl.org/dc/terms/issued
+dcterms:issued rdf:type owl:AnnotationProperty .
+
+
+###  http://purl.org/dc/terms/modified
+dcterms:modified rdf:type owl:AnnotationProperty .
+
+
+###  http://purl.org/dc/terms/publisher
+dcterms:publisher rdf:type owl:AnnotationProperty .
+
+
+###  http://purl.org/dc/terms/title
+dcterms:title rdf:type owl:AnnotationProperty .
+
+
+###  http://purl.org/dc/terms/type
+dcterms:type rdf:type owl:AnnotationProperty .
+
+
+###  http://www.co-ode.org/ontologies/ont.owl#valeur2007
+ont:valeur2007 rdf:type owl:AnnotationProperty .
+
+
+###  http://www.co-ode.org/ontologies/ont.owl#valeur2008
+ont:valeur2008 rdf:type owl:AnnotationProperty .
+
+
+###  http://www.co-ode.org/ontologies/ont.owl#valeur2009
+ont:valeur2009 rdf:type owl:AnnotationProperty .
+
+
+###  http://www.co-ode.org/ontologies/ont.owl#valeur2010
+ont:valeur2010 rdf:type owl:AnnotationProperty .
+
+
+###  http://www.co-ode.org/ontologies/ont.owl#valeur2011
+ont:valeur2011 rdf:type owl:AnnotationProperty .
+
+
+###  http://www.co-ode.org/ontologies/ont.owl#valeur2012
+ont:valeur2012 rdf:type owl:AnnotationProperty .
+
+
+###  http://www.co-ode.org/ontologies/ont.owl#valeur2013
+ont:valeur2013 rdf:type owl:AnnotationProperty .
+
+
+###  http://www.co-ode.org/ontologies/ont.owl#valeur2014
+ont:valeur2014 rdf:type owl:AnnotationProperty .
+
+
+###  http://www.co-ode.org/ontologies/ont.owl#valeur2015
+ont:valeur2015 rdf:type owl:AnnotationProperty .
+
+
+###  http://www.co-ode.org/ontologies/ont.owl#valeur2016
+ont:valeur2016 rdf:type owl:AnnotationProperty .
+
+
+###  http://www.w3.org/ns/dcat#accessURL
+dcat:accessURL rdf:type owl:AnnotationProperty .
+
+
+###  http://www.w3.org/ns/dcat#byteSize
+dcat:byteSize rdf:type owl:AnnotationProperty .
+
+
+###  http://www.w3.org/ns/dcat#distribution
+dcat:distribution rdf:type owl:AnnotationProperty .
+
+
+###  http://www.w3.org/ns/dcat#downloadURL
+dcat:downloadURL rdf:type owl:AnnotationProperty .
+
+
+###  http://www.w3.org/ns/dcat#mediaType
+dcat:mediaType rdf:type owl:AnnotationProperty .
+
+
+###  http://www.w3.org/ns/dcat#theme
+dcat:theme rdf:type owl:AnnotationProperty .
+
+
+###  http://xmlns.com/foaf/0.1/homepage
+foaf:homepage rdf:type owl:AnnotationProperty .
+
+
+###  http://xmlns.com/foaf/0.1/name
+foaf:name rdf:type owl:AnnotationProperty .
+
+
+###  http://xmlns.com/foaf/0.1/page
+foaf:page rdf:type owl:AnnotationProperty .
+
+
+#################################################################
+#    Classes
+#################################################################
+
+###  http://www.co-ode.org/ontologies/ont.owl#Stations
+ont:Stations rdf:type owl:Class .
+
+
+#################################################################
+#    Individuals
+#################################################################
+
+###  http://www.co-ode.org/ontologies/ont.owl#Bobo-Dioulasso
+ont:Bobo-Dioulasso rdf:type owl:NamedIndividual ,
+                            ont:Stations ;
+                   ont:valeur2007 85 ;
+                   ont:valeur2008 83 ;
+                   ont:valeur2009 88 ;
+                   ont:valeur2010 98 ;
+                   ont:valeur2011 100 ;
+                   ont:valeur2012 94 ;
+                   ont:valeur2013 89 ;
+                   ont:valeur2014 96 ;
+                   ont:valeur2015 80 ;
+                   ont:valeur2016 85 .
+
+
+###  http://www.co-ode.org/ontologies/ont.owl#Bogandé
+ont:Bogandé rdf:type owl:NamedIndividual ,
+                     ont:Stations ;
+            ont:valeur2007 55 ;
+            ont:valeur2008 56 ;
+            ont:valeur2009 55 ;
+            ont:valeur2010 68 ;
+            ont:valeur2011 47 ;
+            ont:valeur2012 52 ;
+            ont:valeur2013 58 ;
+            ont:valeur2014 51 ;
+            ont:valeur2015 51 ;
+            ont:valeur2016 68 .
+
+
+###  http://www.co-ode.org/ontologies/ont.owl#Boromo
+ont:Boromo rdf:type owl:NamedIndividual ,
+                    ont:Stations ;
+           ont:valeur2007 78 ;
+           ont:valeur2008 86 ;
+           ont:valeur2009 80 ;
+           ont:valeur2010 88 ;
+           ont:valeur2011 69 ;
+           ont:valeur2012 79 ;
+           ont:valeur2013 82 ;
+           ont:valeur2014 82 ;
+           ont:valeur2015 77 ;
+           ont:valeur2016 77 .
+
+
+###  http://www.co-ode.org/ontologies/ont.owl#Dori
+ont:Dori rdf:type owl:NamedIndividual ,
+                  ont:Stations ;
+         ont:valeur2007 46 ;
+         ont:valeur2008 46 ;
+         ont:valeur2009 40 ;
+         ont:valeur2010 46 ;
+         ont:valeur2011 40 ;
+         ont:valeur2012 52 ;
+         ont:valeur2013 49 ;
+         ont:valeur2014 43 ;
+         ont:valeur2015 42 ;
+         ont:valeur2016 46 .
+
+
+###  http://www.co-ode.org/ontologies/ont.owl#Dédougou
+ont:Dédougou rdf:type owl:NamedIndividual ,
+                      ont:Stations ;
+             ont:valeur2007 70 ;
+             ont:valeur2008 63 ;
+             ont:valeur2009 79 ;
+             ont:valeur2010 87 ;
+             ont:valeur2011 72 ;
+             ont:valeur2012 77 ;
+             ont:valeur2013 65 ;
+             ont:valeur2014 74 ;
+             ont:valeur2015 68 ;
+             ont:valeur2016 71 .
+
+
+###  http://www.co-ode.org/ontologies/ont.owl#Gaoua
+ont:Gaoua rdf:type owl:NamedIndividual ,
+                   ont:Stations ;
+          ont:valeur2007 82 ;
+          ont:valeur2008 91 ;
+          ont:valeur2009 99 ;
+          ont:valeur2010 96 ;
+          ont:valeur2011 96 ;
+          ont:valeur2012 96 ;
+          ont:valeur2013 80 ;
+          ont:valeur2014 87 ;
+          ont:valeur2015 81 ;
+          ont:valeur2016 85 .
+
+
+###  http://www.co-ode.org/ontologies/ont.owl#Ouagadougou_Aéro
+ont:Ouagadougou_Aéro rdf:type owl:NamedIndividual ,
+                              ont:Stations ;
+                     ont:valeur2007 54 ;
+                     ont:valeur2008 71 ;
+                     ont:valeur2009 67 ;
+                     ont:valeur2010 70 ;
+                     ont:valeur2011 67 ;
+                     ont:valeur2012 67 ;
+                     ont:valeur2013 63 ;
+                     ont:valeur2014 75 ;
+                     ont:valeur2015 73 ;
+                     ont:valeur2016 68 .
+
+
+###  http://www.co-ode.org/ontologies/ont.owl#Ouahigouya
+ont:Ouahigouya rdf:type owl:NamedIndividual ,
+                        ont:Stations ;
+               ont:valeur2007 59 ;
+               ont:valeur2008 58 ;
+               ont:valeur2009 54 ;
+               ont:valeur2010 63 ;
+               ont:valeur2011 53 ;
+               ont:valeur2012 72 ;
+               ont:valeur2013 63 ;
+               ont:valeur2014 62 ;
+               ont:valeur2015 60 ;
+               ont:valeur2016 58 .
+
+
+###  http://www.co-ode.org/ontologies/ont.owl#Po
+ont:Po rdf:type owl:NamedIndividual ,
+                ont:Stations ;
+       ont:valeur2007 75 ;
+       ont:valeur2008 77 ;
+       ont:valeur2009 87 ;
+       ont:valeur2010 80 ;
+       ont:valeur2011 75 ;
+       ont:valeur2012 86 ;
+       ont:valeur2013 77 ;
+       ont:valeur2014 90 ;
+       ont:valeur2015 76 ;
+       ont:valeur2016 81 .
+
+
+###  http://www.co-ode.org/ontologies/ont.owl#Fada_N'Gourma
+ont:Gourma rdf:type owl:NamedIndividual ,
+                    ont:Stations ;
+           ont:valeur2007 65 ;
+           ont:valeur2008 74 ;
+           ont:valeur2009 65 ;
+           ont:valeur2010 77 ;
+           ont:valeur2011 68 ;
+           ont:valeur2012 68 ;
+           ont:valeur2013 67 ;
+           ont:valeur2014 72 ;
+           ont:valeur2015 72 ;
+           ont:valeur2016 72 .
+
+
+###  Generated by the OWL API (version 4.2.8.20170104-2310) https://github.com/owlcs/owlapi

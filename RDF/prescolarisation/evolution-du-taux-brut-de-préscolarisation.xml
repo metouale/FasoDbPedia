@@ -1,0 +1,297 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns="http://www.w3.org/2002/07/owl#"
+     xml:base="http://www.w3.org/2002/07/owl"
+     xmlns:adms="http://www.w3.org/ns/adms#"
+     xmlns:owl="http://www.w3.org/2002/07/owl#"
+     xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+     xmlns:vcard="http://www.w3.org/2006/vcard/ns#"
+     xmlns:ont="http://www.co-ode.org/ontologies/ont.owl#"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:xml="http://www.w3.org/XML/1998/namespace"
+     xmlns:dcterms="http://purl.org/dc/terms/"
+     xmlns:time="http://www.w3.org/2006/time#"
+     xmlns:dcat="http://www.w3.org/ns/dcat#"
+     xmlns:foaf="http://xmlns.com/foaf/0.1/"
+     xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <Ontology/>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Annotation properties
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://purl.org/dc/terms/description -->
+
+    <AnnotationProperty rdf:about="http://purl.org/dc/terms/description"/>
+    
+
+
+    <!-- http://purl.org/dc/terms/format -->
+
+    <AnnotationProperty rdf:about="http://purl.org/dc/terms/format"/>
+    
+
+
+    <!-- http://purl.org/dc/terms/identifier -->
+
+    <AnnotationProperty rdf:about="http://purl.org/dc/terms/identifier"/>
+    
+
+
+    <!-- http://purl.org/dc/terms/issued -->
+
+    <AnnotationProperty rdf:about="http://purl.org/dc/terms/issued"/>
+    
+
+
+    <!-- http://purl.org/dc/terms/modified -->
+
+    <AnnotationProperty rdf:about="http://purl.org/dc/terms/modified"/>
+    
+
+
+    <!-- http://purl.org/dc/terms/publisher -->
+
+    <AnnotationProperty rdf:about="http://purl.org/dc/terms/publisher"/>
+    
+
+
+    <!-- http://purl.org/dc/terms/title -->
+
+    <AnnotationProperty rdf:about="http://purl.org/dc/terms/title"/>
+    
+
+
+    <!-- http://purl.org/dc/terms/type -->
+
+    <AnnotationProperty rdf:about="http://purl.org/dc/terms/type"/>
+    
+
+
+    <!-- http://www.co-ode.org/ontologies/ont.owl#valeur2001_2002 -->
+
+    <AnnotationProperty rdf:about="http://www.co-ode.org/ontologies/ont.owl#valeur2001_2002"/>
+    
+
+
+    <!-- http://www.co-ode.org/ontologies/ont.owl#valeur2002_2003 -->
+
+    <AnnotationProperty rdf:about="http://www.co-ode.org/ontologies/ont.owl#valeur2002_2003"/>
+    
+
+
+    <!-- http://www.co-ode.org/ontologies/ont.owl#valeur2003_2004 -->
+
+    <AnnotationProperty rdf:about="http://www.co-ode.org/ontologies/ont.owl#valeur2003_2004"/>
+    
+
+
+    <!-- http://www.co-ode.org/ontologies/ont.owl#valeur2004_2005 -->
+
+    <AnnotationProperty rdf:about="http://www.co-ode.org/ontologies/ont.owl#valeur2004_2005"/>
+    
+
+
+    <!-- http://www.co-ode.org/ontologies/ont.owl#valeur2005_2006 -->
+
+    <AnnotationProperty rdf:about="http://www.co-ode.org/ontologies/ont.owl#valeur2005_2006"/>
+    
+
+
+    <!-- http://www.co-ode.org/ontologies/ont.owl#valeur2006_2007 -->
+
+    <AnnotationProperty rdf:about="http://www.co-ode.org/ontologies/ont.owl#valeur2006_2007"/>
+    
+
+
+    <!-- http://www.co-ode.org/ontologies/ont.owl#valeur2007_2008 -->
+
+    <AnnotationProperty rdf:about="http://www.co-ode.org/ontologies/ont.owl#valeur2007_2008"/>
+    
+
+
+    <!-- http://www.co-ode.org/ontologies/ont.owl#valeur2008_2009 -->
+
+    <AnnotationProperty rdf:about="http://www.co-ode.org/ontologies/ont.owl#valeur2008_2009"/>
+    
+
+
+    <!-- http://www.co-ode.org/ontologies/ont.owl#valeur2009_2010 -->
+
+    <AnnotationProperty rdf:about="http://www.co-ode.org/ontologies/ont.owl#valeur2009_2010"/>
+    
+
+
+    <!-- http://www.co-ode.org/ontologies/ont.owl#valeur2010_2011 -->
+
+    <AnnotationProperty rdf:about="http://www.co-ode.org/ontologies/ont.owl#valeur2010_2011"/>
+    
+
+
+    <!-- http://www.co-ode.org/ontologies/ont.owl#valeur2011_2012 -->
+
+    <AnnotationProperty rdf:about="http://www.co-ode.org/ontologies/ont.owl#valeur2011_2012"/>
+    
+
+
+    <!-- http://www.co-ode.org/ontologies/ont.owl#valeur2012_2013 -->
+
+    <AnnotationProperty rdf:about="http://www.co-ode.org/ontologies/ont.owl#valeur2012_2013"/>
+    
+
+
+    <!-- http://www.co-ode.org/ontologies/ont.owl#valeur2013_2014 -->
+
+    <AnnotationProperty rdf:about="http://www.co-ode.org/ontologies/ont.owl#valeur2013_2014"/>
+    
+
+
+    <!-- http://www.co-ode.org/ontologies/ont.owl#valeur2014_2015 -->
+
+    <AnnotationProperty rdf:about="http://www.co-ode.org/ontologies/ont.owl#valeur2014_2015"/>
+    
+
+
+    <!-- http://www.co-ode.org/ontologies/ont.owl#valeur2015_2016 -->
+
+    <AnnotationProperty rdf:about="http://www.co-ode.org/ontologies/ont.owl#valeur2015_2016"/>
+    
+
+
+    <!-- http://www.co-ode.org/ontologies/ont.owl#valeur2016_2017 -->
+
+    <AnnotationProperty rdf:about="http://www.co-ode.org/ontologies/ont.owl#valeur2016_2017"/>
+    
+
+
+    <!-- http://www.co-ode.org/ontologies/ont.owl#valeur2017_2018 -->
+
+    <AnnotationProperty rdf:about="http://www.co-ode.org/ontologies/ont.owl#valeur2017_2018"/>
+    
+
+
+    <!-- http://www.w3.org/ns/dcat#accessURL -->
+
+    <AnnotationProperty rdf:about="http://www.w3.org/ns/dcat#accessURL"/>
+    
+
+
+    <!-- http://www.w3.org/ns/dcat#byteSize -->
+
+    <AnnotationProperty rdf:about="http://www.w3.org/ns/dcat#byteSize"/>
+    
+
+
+    <!-- http://www.w3.org/ns/dcat#distribution -->
+
+    <AnnotationProperty rdf:about="http://www.w3.org/ns/dcat#distribution"/>
+    
+
+
+    <!-- http://www.w3.org/ns/dcat#downloadURL -->
+
+    <AnnotationProperty rdf:about="http://www.w3.org/ns/dcat#downloadURL"/>
+    
+
+
+    <!-- http://www.w3.org/ns/dcat#keyword -->
+
+    <AnnotationProperty rdf:about="http://www.w3.org/ns/dcat#keyword"/>
+    
+
+
+    <!-- http://www.w3.org/ns/dcat#mediaType -->
+
+    <AnnotationProperty rdf:about="http://www.w3.org/ns/dcat#mediaType"/>
+    
+
+
+    <!-- http://www.w3.org/ns/dcat#theme -->
+
+    <AnnotationProperty rdf:about="http://www.w3.org/ns/dcat#theme"/>
+    
+
+
+    <!-- http://xmlns.com/foaf/0.1/homepage -->
+
+    <AnnotationProperty rdf:about="http://xmlns.com/foaf/0.1/homepage"/>
+    
+
+
+    <!-- http://xmlns.com/foaf/0.1/name -->
+
+    <AnnotationProperty rdf:about="http://xmlns.com/foaf/0.1/name"/>
+    
+
+
+    <!-- http://xmlns.com/foaf/0.1/page -->
+
+    <AnnotationProperty rdf:about="http://xmlns.com/foaf/0.1/page"/>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Classes
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://www.co-ode.org/ontologies/ont.owl#valeur_brut_de_préscolarisation -->
+
+    <Class rdf:about="http://www.co-ode.org/ontologies/ont.owl#valeur_brut_de_préscolarisation"/>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Individuals
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://www.co-ode.org/ontologies/ont.owl#Ensemble_des_structures_en_pourcentages -->
+
+    <NamedIndividual rdf:about="http://www.co-ode.org/ontologies/ont.owl#Ensemble_des_structures_en_pourcentages">
+        <rdf:type rdf:resource="http://www.co-ode.org/ontologies/ont.owl#valeur_brut_de_préscolarisation"/>
+        <ont:valeur2001_2002 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</ont:valeur2001_2002>
+        <ont:valeur2002_2003 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</ont:valeur2002_2003>
+        <ont:valeur2003_2004>1,6</ont:valeur2003_2004>
+        <ont:valeur2004_2005>1,8</ont:valeur2004_2005>
+        <ont:valeur2005_2006 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</ont:valeur2005_2006>
+        <ont:valeur2006_2007>2,8</ont:valeur2006_2007>
+        <ont:valeur2007_2008>2,7</ont:valeur2007_2008>
+        <ont:valeur2008_2009>2,6</ont:valeur2008_2009>
+        <ont:valeur2009_2010>2,8</ont:valeur2009_2010>
+        <ont:valeur2010_2011 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3</ont:valeur2010_2011>
+        <ont:valeur2011_2012>3,5</ont:valeur2011_2012>
+        <ont:valeur2012_2013>3,8</ont:valeur2012_2013>
+        <ont:valeur2013_2014 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">4</ont:valeur2013_2014>
+        <ont:valeur2014_2015>3,9</ont:valeur2014_2015>
+        <ont:valeur2015_2016>2,9</ont:valeur2015_2016>
+        <ont:valeur2016_2017>3,5</ont:valeur2016_2017>
+        <ont:valeur2017_2018>4,1</ont:valeur2017_2018>
+    </NamedIndividual>
+</rdf:RDF>
+
+
+
+<!-- Generated by the OWL API (version 4.2.8.20170104-2310) https://github.com/owlcs/owlapi -->
+

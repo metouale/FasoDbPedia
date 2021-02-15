@@ -1,0 +1,130 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+        <rdfs:Class rdf:ID="Produits_d_exportation">
+                <label xml:lang="en">Produits d'exportation</label>
+                <comment xml:lang="en">Corresponds to exportation product </comment>
+                <label xml:lang="fr">Produits d'exportation</label>
+                <comment xml:lang="fr">Correspond  au produits d'exportation .</comment>
+        </Class>
+        <rdfs:Property rdf:ID="valeur1999">
+                <rdfs:domain rdf:resource="#Produits_d_exportation"/>
+                <rdfs:range rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Literal"/>
+                <label xml:lang="en"> 1999 run</label>
+                <comment xml:lang="en">Rainfall in 1999.</comment>
+                <label xml:lang="fr">Le nombre de produits d'exportation en 1999</label>
+                <comment xml:lang="fr">Le nombre de produits d'exportation relevé en 1999 au Burkina Faso</comment>
+        </rdfs:Property>
+        <rdfs:Property rdf:ID="valeur2000">
+                <rdfs:domain rdf:resource="#Produits_d_exportation"/>
+                <rdfs:range rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Literal"/>
+                <label xml:lang="en"> 2000 run</label>
+                <comment xml:lang="en">Rainfall in 2000.</comment>
+                <label xml:lang="fr">Le nombre de produits d'exportation en 2000</label>
+                <comment xml:lang="fr">Le nombre de produits d'exportation relevé en 2000 au Burkina Faso</comment>
+        </rdfs:Property>
+        <rdfs:Property rdf:ID="valeur2001">
+                <rdfs:domain rdf:resource="#Produits_d_exportation"/>
+                <rdfs:range rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Literal"/>
+                <label xml:lang="en"> 2001 run</label>
+                <comment xml:lang="en">Rainfall in 2001.</comment>
+                <label xml:lang="fr">Le nombre de produits d'exportation en 2001</label>
+                <comment xml:lang="fr">Le nombre de produits d'exportation relevé en 2001 au Burkina Faso</comment>
+        </rdfs:Property>
+        <rdfs:Property rdf:ID="valeur2002">
+                <rdfs:domain rdf:resource="#Produits_d_exportation"/>
+                <rdfs:range rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Literal"/>
+                <label xml:lang="en"> 2002 run</label>
+                <comment xml:lang="en">Rainfall in 2002.</comment>
+                <label xml:lang="fr">Le nombre de produits d'exportation en 2002</label>
+                <comment xml:lang="fr">Le nombre de produits d'exportation relevé en 2002 au Burkina Faso</comment>
+        </rdfs:Property>
+        <rdfs:Property rdf:ID="valeur003">
+                <rdfs:domain rdf:resource="#Produits_d_exportation"/>
+                <rdfs:range rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Literal"/>
+                <label xml:lang="en"> 2003 run</label>
+                <comment xml:lang="en">Rainfall in 2003.</comment>
+                <label xml:lang="fr">Le nombre de produits d'exportation en 20003/label>
+                <comment xml:lang="fr">Le nombre de produits d'exportation relevé en 2003 au Burkina Faso</comment>
+        </rdfs:Property>
+        <rdfs:Property rdf:ID="valeur2004">
+                <rdfs:domain rdf:resource="#Produits_d_exportation"/>
+                <rdfs:range rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Literal"/>
+                <label xml:lang="en"> 2004 run</label>
+                <comment xml:lang="en">Rainfall in 2004.</comment>
+                <label xml:lang="fr">Le nombre de produits d'exportation en 2004</label>
+                <comment xml:lang="fr">Le nombre de produits d'exportation relevé en 2004 au Burkina Faso</comment>
+        </rdfs:Property>
+        <rdfs:Property rdf:ID="valeur2005">
+                <rdfs:domain rdf:resource="#Produits_d_exportation"/>
+                <rdfs:range rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Literal"/>
+                <label xml:lang="en"> 2005 run</label>
+                <comment xml:lang="en">Rainfall in 2005.</comment>
+                <label xml:lang="fr">Le nombre de produits d'exportation en 2005</label>
+                <comment xml:lang="fr">Le nombre de produits d'exportation relevé en 2005 au Burkina Faso</comment>
+        </rdfs:Property>
+        <rdfs:Property rdf:ID="valeur2006">
+                <rdfs:domain rdf:resource="#Produits_d_exportation"/>
+                <rdfs:range rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Literal"/>
+                <label xml:lang="en"> 2006 run</label>
+                <comment xml:lang="en">Rainfall in 2006.</comment>
+                <label xml:lang="fr">Le nombre de produits d'exportation en 2006</label>
+                <comment xml:lang="fr">Le nombre de produits d'exportation relevé en 2006 au Burkina Faso</comment>
+        </rdfs:Property>
+        <rdfs:Property rdf:ID="valeur2007">
+                <rdfs:domain rdf:resource="#Produits_d_exportation"/>
+                <rdfs:range rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Literal"/>
+                <label xml:lang="en"> 2007 run</label>
+                <comment xml:lang="en">Rainfall in 2007.</comment>
+                <label xml:lang="fr">Le nombre de produits d'exportation en 2007</label>
+                <comment xml:lang="fr">Le nombre de produits d'exportation relevé en 2007 au Burkina Faso</comment>
+        </rdfs:Property>
+        <rdfs:Property rdf:ID="valeur2008">
+                <rdfs:domain rdf:resource="#Produits_d_exportation"/>
+                <rdfs:range rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Literal"/>
+                <label xml:lang="en"> 2008 run</label>
+                <comment xml:lang="en">Rainfall in 2008.</comment>
+                <label xml:lang="fr">Le nombre de produits d'exportation en 2008</label>
+                <comment xml:lang="fr">Le nombre de produits d'exportation relevé en 2008 au Burkina Faso</comment>
+        </rdfs:Property>
+        <rdfs:Property rdf:ID="valeur2009">
+                <rdfs:domain rdf:resource="#Produits_d_exportation"/>
+                <rdfs:range rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Literal"/>
+                <label xml:lang="en"> 2009 run</label>
+                <comment xml:lang="en">Rainfall in 2009.</comment>
+                <label xml:lang="fr">Le nombre de produits d'exportation en 2009</label>
+                <comment xml:lang="fr">Le nombre de produits d'exportation relevé en 20009au Burkina Faso</comment>
+        </rdfs:Property>
+        <rdfs:Property rdf:ID="valeur2010">
+                <rdfs:domain rdf:resource="#Produits_d_exportation"/>
+                <rdfs:range rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Literal"/>
+                <label xml:lang="en"> 2010 run</label>
+                <comment xml:lang="en">Rainfall in 2010.</comment>
+                <label xml:lang="fr">Le nombre de produits d'exportation en 2010</label>
+                <comment xml:lang="fr">Le nombre de produits d'exportation relevé en 2010 au Burkina Faso</comment>
+        </rdfs:Property>
+        <rdfs:Property rdf:ID="valeur2011">
+                <rdfs:domain rdf:resource="#Produits_d_exportation"/>
+                <rdfs:range rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Literal"/>
+                <label xml:lang="en"> 2011 run</label>
+                <comment xml:lang="en">Rainfall in 2011.</comment>
+                <label xml:lang="fr">Le nombre de produits d'exportation en 2011</label>
+                <comment xml:lang="fr">Le nombre de produits d'exportation relevé en 2011 au Burkina Faso</comment>
+        </rdfs:Property>
+        <rdfs:Property rdf:ID="valeur2012">
+                <rdfs:domain rdf:resource="#Produits_d_exportation"/>
+                <rdfs:range rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Literal"/>
+                <label xml:lang="en"> 2012 run</label>
+                <comment xml:lang="en">Rainfall in 2012.</comment>
+                <label xml:lang="fr">Le nombre de produits d'exportation en 2012</label>
+                <comment xml:lang="fr">Le nombre de produits d'exportation relevé en 2012 au Burkina Faso</comment>
+        </rdfs:Property>
+        <rdfs:Property rdf:ID="valeur2013">
+                <rdfs:domain rdf:resource="#Produits_d_exportation"/>
+                <rdfs:range rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Literal"/>
+                <label xml:lang="en"> 2013 run</label>
+                <comment xml:lang="en">Rainfall in 2013.</comment>
+                <label xml:lang="fr">Le nombre de produits d'exportation en 2013</label>
+                <comment xml:lang="fr">Le nombre de produits d'exportation relevé en 2013 au Burkina Faso</comment>
+        </rdfs:Property>
+        
+</rdf:RDF>

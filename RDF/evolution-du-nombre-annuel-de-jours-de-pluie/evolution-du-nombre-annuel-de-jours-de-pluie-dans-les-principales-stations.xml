@@ -1,0 +1,404 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns="http://www.w3.org/2002/07/owl#"
+     xml:base="http://www.w3.org/2002/07/owl"
+     xmlns:adms="http://www.w3.org/ns/adms#"
+     xmlns:owl="http://www.w3.org/2002/07/owl#"
+     xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+     xmlns:vcard="http://www.w3.org/2006/vcard/ns#"
+     xmlns:ont="http://www.co-ode.org/ontologies/ont.owl#"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:xml="http://www.w3.org/XML/1998/namespace"
+     xmlns:dcterms="http://purl.org/dc/terms/"
+     xmlns:time="http://www.w3.org/2006/time#"
+     xmlns:dcat="http://www.w3.org/ns/dcat#"
+     xmlns:foaf="http://xmlns.com/foaf/0.1/"
+     xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <Ontology/>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Annotation properties
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://purl.org/dc/terms/description -->
+
+    <AnnotationProperty rdf:about="http://purl.org/dc/terms/description"/>
+    
+
+
+    <!-- http://purl.org/dc/terms/format -->
+
+    <AnnotationProperty rdf:about="http://purl.org/dc/terms/format"/>
+    
+
+
+    <!-- http://purl.org/dc/terms/identifier -->
+
+    <AnnotationProperty rdf:about="http://purl.org/dc/terms/identifier"/>
+    
+
+
+    <!-- http://purl.org/dc/terms/issued -->
+
+    <AnnotationProperty rdf:about="http://purl.org/dc/terms/issued"/>
+    
+
+
+    <!-- http://purl.org/dc/terms/modified -->
+
+    <AnnotationProperty rdf:about="http://purl.org/dc/terms/modified"/>
+    
+
+
+    <!-- http://purl.org/dc/terms/publisher -->
+
+    <AnnotationProperty rdf:about="http://purl.org/dc/terms/publisher"/>
+    
+
+
+    <!-- http://purl.org/dc/terms/title -->
+
+    <AnnotationProperty rdf:about="http://purl.org/dc/terms/title"/>
+    
+
+
+    <!-- http://purl.org/dc/terms/type -->
+
+    <AnnotationProperty rdf:about="http://purl.org/dc/terms/type"/>
+    
+
+
+    <!-- http://www.co-ode.org/ontologies/ont.owl#valeur2007 -->
+
+    <AnnotationProperty rdf:about="http://www.co-ode.org/ontologies/ont.owl#valeur2007"/>
+    
+
+
+    <!-- http://www.co-ode.org/ontologies/ont.owl#valeur2008 -->
+
+    <AnnotationProperty rdf:about="http://www.co-ode.org/ontologies/ont.owl#valeur2008"/>
+    
+
+
+    <!-- http://www.co-ode.org/ontologies/ont.owl#valeur2009 -->
+
+    <AnnotationProperty rdf:about="http://www.co-ode.org/ontologies/ont.owl#valeur2009"/>
+    
+
+
+    <!-- http://www.co-ode.org/ontologies/ont.owl#valeur2010 -->
+
+    <AnnotationProperty rdf:about="http://www.co-ode.org/ontologies/ont.owl#valeur2010"/>
+    
+
+
+    <!-- http://www.co-ode.org/ontologies/ont.owl#valeur2011 -->
+
+    <AnnotationProperty rdf:about="http://www.co-ode.org/ontologies/ont.owl#valeur2011"/>
+    
+
+
+    <!-- http://www.co-ode.org/ontologies/ont.owl#valeur2012 -->
+
+    <AnnotationProperty rdf:about="http://www.co-ode.org/ontologies/ont.owl#valeur2012"/>
+    
+
+
+    <!-- http://www.co-ode.org/ontologies/ont.owl#valeur2013 -->
+
+    <AnnotationProperty rdf:about="http://www.co-ode.org/ontologies/ont.owl#valeur2013"/>
+    
+
+
+    <!-- http://www.co-ode.org/ontologies/ont.owl#valeur2014 -->
+
+    <AnnotationProperty rdf:about="http://www.co-ode.org/ontologies/ont.owl#valeur2014"/>
+    
+
+
+    <!-- http://www.co-ode.org/ontologies/ont.owl#valeur2015 -->
+
+    <AnnotationProperty rdf:about="http://www.co-ode.org/ontologies/ont.owl#valeur2015"/>
+    
+
+
+    <!-- http://www.co-ode.org/ontologies/ont.owl#valeur2016 -->
+
+    <AnnotationProperty rdf:about="http://www.co-ode.org/ontologies/ont.owl#valeur2016"/>
+    
+
+
+    <!-- http://www.w3.org/ns/dcat#accessURL -->
+
+    <AnnotationProperty rdf:about="http://www.w3.org/ns/dcat#accessURL"/>
+    
+
+
+    <!-- http://www.w3.org/ns/dcat#byteSize -->
+
+    <AnnotationProperty rdf:about="http://www.w3.org/ns/dcat#byteSize"/>
+    
+
+
+    <!-- http://www.w3.org/ns/dcat#distribution -->
+
+    <AnnotationProperty rdf:about="http://www.w3.org/ns/dcat#distribution"/>
+    
+
+
+    <!-- http://www.w3.org/ns/dcat#downloadURL -->
+
+    <AnnotationProperty rdf:about="http://www.w3.org/ns/dcat#downloadURL"/>
+    
+
+
+    <!-- http://www.w3.org/ns/dcat#mediaType -->
+
+    <AnnotationProperty rdf:about="http://www.w3.org/ns/dcat#mediaType"/>
+    
+
+
+    <!-- http://www.w3.org/ns/dcat#theme -->
+
+    <AnnotationProperty rdf:about="http://www.w3.org/ns/dcat#theme"/>
+    
+
+
+    <!-- http://xmlns.com/foaf/0.1/homepage -->
+
+    <AnnotationProperty rdf:about="http://xmlns.com/foaf/0.1/homepage"/>
+    
+
+
+    <!-- http://xmlns.com/foaf/0.1/name -->
+
+    <AnnotationProperty rdf:about="http://xmlns.com/foaf/0.1/name"/>
+    
+
+
+    <!-- http://xmlns.com/foaf/0.1/page -->
+
+    <AnnotationProperty rdf:about="http://xmlns.com/foaf/0.1/page"/>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Classes
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://www.co-ode.org/ontologies/ont.owl#Stations -->
+
+    <Class rdf:about="http://www.co-ode.org/ontologies/ont.owl#Stations"/>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Individuals
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://www.co-ode.org/ontologies/ont.owl#Bobo-Dioulasso -->
+
+    <NamedIndividual rdf:about="http://www.co-ode.org/ontologies/ont.owl#Bobo-Dioulasso">
+        <rdf:type rdf:resource="http://www.co-ode.org/ontologies/ont.owl#Stations"/>
+        <ont:valeur2007 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">85</ont:valeur2007>
+        <ont:valeur2008 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">83</ont:valeur2008>
+        <ont:valeur2009 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">88</ont:valeur2009>
+        <ont:valeur2010 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">98</ont:valeur2010>
+        <ont:valeur2011 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">100</ont:valeur2011>
+        <ont:valeur2012 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">94</ont:valeur2012>
+        <ont:valeur2013 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">89</ont:valeur2013>
+        <ont:valeur2014 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">96</ont:valeur2014>
+        <ont:valeur2015 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">80</ont:valeur2015>
+        <ont:valeur2016 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">85</ont:valeur2016>
+    </NamedIndividual>
+    
+
+
+    <!-- http://www.co-ode.org/ontologies/ont.owl#Bogandé -->
+
+    <NamedIndividual rdf:about="http://www.co-ode.org/ontologies/ont.owl#Bogandé">
+        <rdf:type rdf:resource="http://www.co-ode.org/ontologies/ont.owl#Stations"/>
+        <ont:valeur2007 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">55</ont:valeur2007>
+        <ont:valeur2008 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">56</ont:valeur2008>
+        <ont:valeur2009 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">55</ont:valeur2009>
+        <ont:valeur2010 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">68</ont:valeur2010>
+        <ont:valeur2011 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">47</ont:valeur2011>
+        <ont:valeur2012 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">52</ont:valeur2012>
+        <ont:valeur2013 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">58</ont:valeur2013>
+        <ont:valeur2014 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">51</ont:valeur2014>
+        <ont:valeur2015 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">51</ont:valeur2015>
+        <ont:valeur2016 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">68</ont:valeur2016>
+    </NamedIndividual>
+    
+
+
+    <!-- http://www.co-ode.org/ontologies/ont.owl#Boromo -->
+
+    <NamedIndividual rdf:about="http://www.co-ode.org/ontologies/ont.owl#Boromo">
+        <rdf:type rdf:resource="http://www.co-ode.org/ontologies/ont.owl#Stations"/>
+        <ont:valeur2007 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">78</ont:valeur2007>
+        <ont:valeur2008 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">86</ont:valeur2008>
+        <ont:valeur2009 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">80</ont:valeur2009>
+        <ont:valeur2010 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">88</ont:valeur2010>
+        <ont:valeur2011 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">69</ont:valeur2011>
+        <ont:valeur2012 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">79</ont:valeur2012>
+        <ont:valeur2013 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">82</ont:valeur2013>
+        <ont:valeur2014 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">82</ont:valeur2014>
+        <ont:valeur2015 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">77</ont:valeur2015>
+        <ont:valeur2016 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">77</ont:valeur2016>
+    </NamedIndividual>
+    
+
+
+    <!-- http://www.co-ode.org/ontologies/ont.owl#Dori -->
+
+    <NamedIndividual rdf:about="http://www.co-ode.org/ontologies/ont.owl#Dori">
+        <rdf:type rdf:resource="http://www.co-ode.org/ontologies/ont.owl#Stations"/>
+        <ont:valeur2007 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">46</ont:valeur2007>
+        <ont:valeur2008 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">46</ont:valeur2008>
+        <ont:valeur2009 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">40</ont:valeur2009>
+        <ont:valeur2010 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">46</ont:valeur2010>
+        <ont:valeur2011 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">40</ont:valeur2011>
+        <ont:valeur2012 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">52</ont:valeur2012>
+        <ont:valeur2013 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">49</ont:valeur2013>
+        <ont:valeur2014 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">43</ont:valeur2014>
+        <ont:valeur2015 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">42</ont:valeur2015>
+        <ont:valeur2016 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">46</ont:valeur2016>
+    </NamedIndividual>
+    
+
+
+    <!-- http://www.co-ode.org/ontologies/ont.owl#Dédougou -->
+
+    <NamedIndividual rdf:about="http://www.co-ode.org/ontologies/ont.owl#Dédougou">
+        <rdf:type rdf:resource="http://www.co-ode.org/ontologies/ont.owl#Stations"/>
+        <ont:valeur2007 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">70</ont:valeur2007>
+        <ont:valeur2008 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">63</ont:valeur2008>
+        <ont:valeur2009 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">79</ont:valeur2009>
+        <ont:valeur2010 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">87</ont:valeur2010>
+        <ont:valeur2011 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">72</ont:valeur2011>
+        <ont:valeur2012 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">77</ont:valeur2012>
+        <ont:valeur2013 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">65</ont:valeur2013>
+        <ont:valeur2014 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">74</ont:valeur2014>
+        <ont:valeur2015 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">68</ont:valeur2015>
+        <ont:valeur2016 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">71</ont:valeur2016>
+    </NamedIndividual>
+    
+
+
+    <!-- http://www.co-ode.org/ontologies/ont.owl#Gaoua -->
+
+    <NamedIndividual rdf:about="http://www.co-ode.org/ontologies/ont.owl#Gaoua">
+        <rdf:type rdf:resource="http://www.co-ode.org/ontologies/ont.owl#Stations"/>
+        <ont:valeur2007 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">82</ont:valeur2007>
+        <ont:valeur2008 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">91</ont:valeur2008>
+        <ont:valeur2009 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">99</ont:valeur2009>
+        <ont:valeur2010 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">96</ont:valeur2010>
+        <ont:valeur2011 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">96</ont:valeur2011>
+        <ont:valeur2012 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">96</ont:valeur2012>
+        <ont:valeur2013 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">80</ont:valeur2013>
+        <ont:valeur2014 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">87</ont:valeur2014>
+        <ont:valeur2015 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">81</ont:valeur2015>
+        <ont:valeur2016 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">85</ont:valeur2016>
+    </NamedIndividual>
+    
+
+
+    <!-- http://www.co-ode.org/ontologies/ont.owl#Ouagadougou_Aéro -->
+
+    <NamedIndividual rdf:about="http://www.co-ode.org/ontologies/ont.owl#Ouagadougou_Aéro">
+        <rdf:type rdf:resource="http://www.co-ode.org/ontologies/ont.owl#Stations"/>
+        <ont:valeur2007 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">54</ont:valeur2007>
+        <ont:valeur2008 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">71</ont:valeur2008>
+        <ont:valeur2009 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">67</ont:valeur2009>
+        <ont:valeur2010 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">70</ont:valeur2010>
+        <ont:valeur2011 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">67</ont:valeur2011>
+        <ont:valeur2012 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">67</ont:valeur2012>
+        <ont:valeur2013 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">63</ont:valeur2013>
+        <ont:valeur2014 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">75</ont:valeur2014>
+        <ont:valeur2015 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">73</ont:valeur2015>
+        <ont:valeur2016 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">68</ont:valeur2016>
+    </NamedIndividual>
+    
+
+
+    <!-- http://www.co-ode.org/ontologies/ont.owl#Ouahigouya -->
+
+    <NamedIndividual rdf:about="http://www.co-ode.org/ontologies/ont.owl#Ouahigouya">
+        <rdf:type rdf:resource="http://www.co-ode.org/ontologies/ont.owl#Stations"/>
+        <ont:valeur2007 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">59</ont:valeur2007>
+        <ont:valeur2008 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">58</ont:valeur2008>
+        <ont:valeur2009 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">54</ont:valeur2009>
+        <ont:valeur2010 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">63</ont:valeur2010>
+        <ont:valeur2011 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">53</ont:valeur2011>
+        <ont:valeur2012 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">72</ont:valeur2012>
+        <ont:valeur2013 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">63</ont:valeur2013>
+        <ont:valeur2014 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">62</ont:valeur2014>
+        <ont:valeur2015 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">60</ont:valeur2015>
+        <ont:valeur2016 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">58</ont:valeur2016>
+    </NamedIndividual>
+    
+
+
+    <!-- http://www.co-ode.org/ontologies/ont.owl#Po -->
+
+    <NamedIndividual rdf:about="http://www.co-ode.org/ontologies/ont.owl#Po">
+        <rdf:type rdf:resource="http://www.co-ode.org/ontologies/ont.owl#Stations"/>
+        <ont:valeur2007 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">75</ont:valeur2007>
+        <ont:valeur2008 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">77</ont:valeur2008>
+        <ont:valeur2009 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">87</ont:valeur2009>
+        <ont:valeur2010 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">80</ont:valeur2010>
+        <ont:valeur2011 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">75</ont:valeur2011>
+        <ont:valeur2012 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">86</ont:valeur2012>
+        <ont:valeur2013 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">77</ont:valeur2013>
+        <ont:valeur2014 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">90</ont:valeur2014>
+        <ont:valeur2015 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">76</ont:valeur2015>
+        <ont:valeur2016 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">81</ont:valeur2016>
+    </NamedIndividual>
+    
+
+
+    <!-- http://www.co-ode.org/ontologies/ont.owl#Fada_N&apos;Gourma -->
+
+    <NamedIndividual rdf:about="http://www.co-ode.org/ontologies/ont.owl#Fada_N&apos;Gourma">
+        <rdf:type rdf:resource="http://www.co-ode.org/ontologies/ont.owl#Stations"/>
+        <ont:valeur2007 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">65</ont:valeur2007>
+        <ont:valeur2008 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">74</ont:valeur2008>
+        <ont:valeur2009 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">65</ont:valeur2009>
+        <ont:valeur2010 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">77</ont:valeur2010>
+        <ont:valeur2011 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">68</ont:valeur2011>
+        <ont:valeur2012 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">68</ont:valeur2012>
+        <ont:valeur2013 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">67</ont:valeur2013>
+        <ont:valeur2014 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">72</ont:valeur2014>
+        <ont:valeur2015 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">72</ont:valeur2015>
+        <ont:valeur2016 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">72</ont:valeur2016>
+    </NamedIndividual>
+</rdf:RDF>
+
+
+
+<!-- Generated by the OWL API (version 4.2.8.20170104-2310) https://github.com/owlcs/owlapi -->
+

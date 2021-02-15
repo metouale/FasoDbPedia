@@ -1,0 +1,198 @@
+@prefix : <http://www.w3.org/2002/07/owl#> .
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix ont: <http://www.co-ode.org/ontologies/ont.owl#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix adms: <http://www.w3.org/ns/adms#> .
+@prefix dcat: <http://www.w3.org/ns/dcat#> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix time: <http://www.w3.org/2006/time#> .
+@prefix vcard: <http://www.w3.org/2006/vcard/ns#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@base <http://www.w3.org/2002/07/owl#> .
+
+[ rdf:type owl:Ontology
+ ] .
+
+#################################################################
+#    Annotation properties
+#################################################################
+
+###  http://purl.org/dc/terms/description
+dcterms:description rdf:type owl:AnnotationProperty .
+
+
+###  http://purl.org/dc/terms/format
+dcterms:format rdf:type owl:AnnotationProperty .
+
+
+###  http://purl.org/dc/terms/identifier
+dcterms:identifier rdf:type owl:AnnotationProperty .
+
+
+###  http://purl.org/dc/terms/issued
+dcterms:issued rdf:type owl:AnnotationProperty .
+
+
+###  http://purl.org/dc/terms/modified
+dcterms:modified rdf:type owl:AnnotationProperty .
+
+
+###  http://purl.org/dc/terms/publisher
+dcterms:publisher rdf:type owl:AnnotationProperty .
+
+
+###  http://purl.org/dc/terms/title
+dcterms:title rdf:type owl:AnnotationProperty .
+
+
+###  http://purl.org/dc/terms/type
+dcterms:type rdf:type owl:AnnotationProperty .
+
+
+###  http://www.co-ode.org/ontologies/ont.owl#valeur2001_2002
+ont:valeur2001_2002 rdf:type owl:AnnotationProperty .
+
+
+###  http://www.co-ode.org/ontologies/ont.owl#valeur2002_2003
+ont:valeur2002_2003 rdf:type owl:AnnotationProperty .
+
+
+###  http://www.co-ode.org/ontologies/ont.owl#valeur2003_2004
+ont:valeur2003_2004 rdf:type owl:AnnotationProperty .
+
+
+###  http://www.co-ode.org/ontologies/ont.owl#valeur2004_2005
+ont:valeur2004_2005 rdf:type owl:AnnotationProperty .
+
+
+###  http://www.co-ode.org/ontologies/ont.owl#valeur2005_2006
+ont:valeur2005_2006 rdf:type owl:AnnotationProperty .
+
+
+###  http://www.co-ode.org/ontologies/ont.owl#valeur2006_2007
+ont:valeur2006_2007 rdf:type owl:AnnotationProperty .
+
+
+###  http://www.co-ode.org/ontologies/ont.owl#valeur2007_2008
+ont:valeur2007_2008 rdf:type owl:AnnotationProperty .
+
+
+###  http://www.co-ode.org/ontologies/ont.owl#valeur2008_2009
+ont:valeur2008_2009 rdf:type owl:AnnotationProperty .
+
+
+###  http://www.co-ode.org/ontologies/ont.owl#valeur2009_2010
+ont:valeur2009_2010 rdf:type owl:AnnotationProperty .
+
+
+###  http://www.co-ode.org/ontologies/ont.owl#valeur2010_2011
+ont:valeur2010_2011 rdf:type owl:AnnotationProperty .
+
+
+###  http://www.co-ode.org/ontologies/ont.owl#valeur2011_2012
+ont:valeur2011_2012 rdf:type owl:AnnotationProperty .
+
+
+###  http://www.co-ode.org/ontologies/ont.owl#valeur2012_2013
+ont:valeur2012_2013 rdf:type owl:AnnotationProperty .
+
+
+###  http://www.co-ode.org/ontologies/ont.owl#valeur2013_2014
+ont:valeur2013_2014 rdf:type owl:AnnotationProperty .
+
+
+###  http://www.co-ode.org/ontologies/ont.owl#valeur2014_2015
+ont:valeur2014_2015 rdf:type owl:AnnotationProperty .
+
+
+###  http://www.co-ode.org/ontologies/ont.owl#valeur2015_2016
+ont:valeur2015_2016 rdf:type owl:AnnotationProperty .
+
+
+###  http://www.co-ode.org/ontologies/ont.owl#valeur2016_2017
+ont:valeur2016_2017 rdf:type owl:AnnotationProperty .
+
+
+###  http://www.co-ode.org/ontologies/ont.owl#valeur2017_2018
+ont:valeur2017_2018 rdf:type owl:AnnotationProperty .
+
+
+###  http://www.w3.org/ns/dcat#accessURL
+dcat:accessURL rdf:type owl:AnnotationProperty .
+
+
+###  http://www.w3.org/ns/dcat#byteSize
+dcat:byteSize rdf:type owl:AnnotationProperty .
+
+
+###  http://www.w3.org/ns/dcat#distribution
+dcat:distribution rdf:type owl:AnnotationProperty .
+
+
+###  http://www.w3.org/ns/dcat#downloadURL
+dcat:downloadURL rdf:type owl:AnnotationProperty .
+
+
+###  http://www.w3.org/ns/dcat#keyword
+dcat:keyword rdf:type owl:AnnotationProperty .
+
+
+###  http://www.w3.org/ns/dcat#mediaType
+dcat:mediaType rdf:type owl:AnnotationProperty .
+
+
+###  http://www.w3.org/ns/dcat#theme
+dcat:theme rdf:type owl:AnnotationProperty .
+
+
+###  http://xmlns.com/foaf/0.1/homepage
+foaf:homepage rdf:type owl:AnnotationProperty .
+
+
+###  http://xmlns.com/foaf/0.1/name
+foaf:name rdf:type owl:AnnotationProperty .
+
+
+###  http://xmlns.com/foaf/0.1/page
+foaf:page rdf:type owl:AnnotationProperty .
+
+
+#################################################################
+#    Classes
+#################################################################
+
+###  http://www.co-ode.org/ontologies/ont.owl#valeur_brut_de_préscolarisation
+ont:valeur_brut_de_préscolarisation rdf:type owl:Class .
+
+
+#################################################################
+#    Individuals
+#################################################################
+
+###  http://www.co-ode.org/ontologies/ont.owl#Ensemble_des_structures_en_pourcentages
+ont:Ensemble_des_structures_en_pourcentages rdf:type owl:NamedIndividual ,
+                                                     ont:valeur_brut_de_préscolarisation ;
+                                            ont:valeur2001_2002 1 ;
+                                            ont:valeur2002_2003 1 ;
+                                            ont:valeur2003_2004 "1,6" ;
+                                            ont:valeur2004_2005 "1,8" ;
+                                            ont:valeur2005_2006 2 ;
+                                            ont:valeur2006_2007 "2,8" ;
+                                            ont:valeur2007_2008 "2,7" ;
+                                            ont:valeur2008_2009 "2,6" ;
+                                            ont:valeur2009_2010 "2,8" ;
+                                            ont:valeur2010_2011 3 ;
+                                            ont:valeur2011_2012 "3,5" ;
+                                            ont:valeur2012_2013 "3,8" ;
+                                            ont:valeur2013_2014 4 ;
+                                            ont:valeur2014_2015 "3,9" ;
+                                            ont:valeur2015_2016 "2,9" ;
+                                            ont:valeur2016_2017 "3,5" ;
+                                            ont:valeur2017_2018 "4,1" .
+
+
+###  Generated by the OWL API (version 4.2.8.20170104-2310) https://github.com/owlcs/owlapi

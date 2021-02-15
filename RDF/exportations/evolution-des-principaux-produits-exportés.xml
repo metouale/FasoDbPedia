@@ -1,0 +1,538 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns="http://www.w3.org/2002/07/owl#"
+     xml:base="http://www.w3.org/2002/07/owl"
+     xmlns:adms="http://www.w3.org/ns/adms#"
+     xmlns:owl="http://www.w3.org/2002/07/owl#"
+     xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+     xmlns:vcard="http://www.w3.org/2006/vcard/ns#"
+     xmlns:ont="http://www.co-ode.org/ontologies/ont.owl#"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:xml="http://www.w3.org/XML/1998/namespace"
+     xmlns:dcterms="http://purl.org/dc/terms/"
+     xmlns:time="http://www.w3.org/2006/time#"
+     xmlns:dcat="http://www.w3.org/ns/dcat#"
+     xmlns:foaf="http://xmlns.com/foaf/0.1/"
+     xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <Ontology/>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Annotation properties
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://purl.org/dc/terms/description -->
+
+    <AnnotationProperty rdf:about="http://purl.org/dc/terms/description"/>
+    
+
+
+    <!-- http://purl.org/dc/terms/format -->
+
+    <AnnotationProperty rdf:about="http://purl.org/dc/terms/format"/>
+    
+
+
+    <!-- http://purl.org/dc/terms/identifier -->
+
+    <AnnotationProperty rdf:about="http://purl.org/dc/terms/identifier"/>
+    
+
+
+    <!-- http://purl.org/dc/terms/issued -->
+
+    <AnnotationProperty rdf:about="http://purl.org/dc/terms/issued"/>
+    
+
+
+    <!-- http://purl.org/dc/terms/modified -->
+
+    <AnnotationProperty rdf:about="http://purl.org/dc/terms/modified"/>
+    
+
+
+    <!-- http://purl.org/dc/terms/publisher -->
+
+    <AnnotationProperty rdf:about="http://purl.org/dc/terms/publisher"/>
+    
+
+
+    <!-- http://purl.org/dc/terms/title -->
+
+    <AnnotationProperty rdf:about="http://purl.org/dc/terms/title"/>
+    
+
+
+    <!-- http://purl.org/dc/terms/type -->
+
+    <AnnotationProperty rdf:about="http://purl.org/dc/terms/type"/>
+    
+
+
+    <!-- http://www.co-ode.org/ontologies/ont.owl#valeur1999 -->
+
+    <AnnotationProperty rdf:about="http://www.co-ode.org/ontologies/ont.owl#valeur1999"/>
+    
+
+
+    <!-- http://www.co-ode.org/ontologies/ont.owl#valeur2000 -->
+
+    <AnnotationProperty rdf:about="http://www.co-ode.org/ontologies/ont.owl#valeur2000"/>
+    
+
+
+    <!-- http://www.co-ode.org/ontologies/ont.owl#valeur2001 -->
+
+    <AnnotationProperty rdf:about="http://www.co-ode.org/ontologies/ont.owl#valeur2001"/>
+    
+
+
+    <!-- http://www.co-ode.org/ontologies/ont.owl#valeur2002 -->
+
+    <AnnotationProperty rdf:about="http://www.co-ode.org/ontologies/ont.owl#valeur2002"/>
+    
+
+
+    <!-- http://www.co-ode.org/ontologies/ont.owl#valeur2003 -->
+
+    <AnnotationProperty rdf:about="http://www.co-ode.org/ontologies/ont.owl#valeur2003"/>
+    
+
+
+    <!-- http://www.co-ode.org/ontologies/ont.owl#valeur2004 -->
+
+    <AnnotationProperty rdf:about="http://www.co-ode.org/ontologies/ont.owl#valeur2004"/>
+    
+
+
+    <!-- http://www.co-ode.org/ontologies/ont.owl#valeur2005 -->
+
+    <AnnotationProperty rdf:about="http://www.co-ode.org/ontologies/ont.owl#valeur2005"/>
+    
+
+
+    <!-- http://www.co-ode.org/ontologies/ont.owl#valeur2006 -->
+
+    <AnnotationProperty rdf:about="http://www.co-ode.org/ontologies/ont.owl#valeur2006"/>
+    
+
+
+    <!-- http://www.co-ode.org/ontologies/ont.owl#valeur2007 -->
+
+    <AnnotationProperty rdf:about="http://www.co-ode.org/ontologies/ont.owl#valeur2007"/>
+    
+
+
+    <!-- http://www.co-ode.org/ontologies/ont.owl#valeur2008 -->
+
+    <AnnotationProperty rdf:about="http://www.co-ode.org/ontologies/ont.owl#valeur2008"/>
+    
+
+
+    <!-- http://www.co-ode.org/ontologies/ont.owl#valeur2009 -->
+
+    <AnnotationProperty rdf:about="http://www.co-ode.org/ontologies/ont.owl#valeur2009"/>
+    
+
+
+    <!-- http://www.co-ode.org/ontologies/ont.owl#valeur2010 -->
+
+    <AnnotationProperty rdf:about="http://www.co-ode.org/ontologies/ont.owl#valeur2010"/>
+    
+
+
+    <!-- http://www.co-ode.org/ontologies/ont.owl#valeur2011 -->
+
+    <AnnotationProperty rdf:about="http://www.co-ode.org/ontologies/ont.owl#valeur2011"/>
+    
+
+
+    <!-- http://www.co-ode.org/ontologies/ont.owl#valeur2012 -->
+
+    <AnnotationProperty rdf:about="http://www.co-ode.org/ontologies/ont.owl#valeur2012"/>
+    
+
+
+    <!-- http://www.co-ode.org/ontologies/ont.owl#valeur2013 -->
+
+    <AnnotationProperty rdf:about="http://www.co-ode.org/ontologies/ont.owl#valeur2013"/>
+    
+
+
+    <!-- http://www.w3.org/ns/dcat#accessURL -->
+
+    <AnnotationProperty rdf:about="http://www.w3.org/ns/dcat#accessURL"/>
+    
+
+
+    <!-- http://www.w3.org/ns/dcat#byteSize -->
+
+    <AnnotationProperty rdf:about="http://www.w3.org/ns/dcat#byteSize"/>
+    
+
+
+    <!-- http://www.w3.org/ns/dcat#distribution -->
+
+    <AnnotationProperty rdf:about="http://www.w3.org/ns/dcat#distribution"/>
+    
+
+
+    <!-- http://www.w3.org/ns/dcat#downloadURL -->
+
+    <AnnotationProperty rdf:about="http://www.w3.org/ns/dcat#downloadURL"/>
+    
+
+
+    <!-- http://www.w3.org/ns/dcat#keyword -->
+
+    <AnnotationProperty rdf:about="http://www.w3.org/ns/dcat#keyword"/>
+    
+
+
+    <!-- http://www.w3.org/ns/dcat#mediaType -->
+
+    <AnnotationProperty rdf:about="http://www.w3.org/ns/dcat#mediaType"/>
+    
+
+
+    <!-- http://www.w3.org/ns/dcat#theme -->
+
+    <AnnotationProperty rdf:about="http://www.w3.org/ns/dcat#theme"/>
+    
+
+
+    <!-- http://xmlns.com/foaf/0.1/homepage -->
+
+    <AnnotationProperty rdf:about="http://xmlns.com/foaf/0.1/homepage"/>
+    
+
+
+    <!-- http://xmlns.com/foaf/0.1/name -->
+
+    <AnnotationProperty rdf:about="http://xmlns.com/foaf/0.1/name"/>
+    
+
+
+    <!-- http://xmlns.com/foaf/0.1/page -->
+
+    <AnnotationProperty rdf:about="http://xmlns.com/foaf/0.1/page"/>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Classes
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://www.co-ode.org/ontologies/ont.owl#Produits_d_exportation -->
+
+    <Class rdf:about="http://www.co-ode.org/ontologies/ont.owl#Produits_d_exportation"/>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Individuals
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://www.co-ode.org/ontologies/ont.owl#Animaux_vivants_de_lespèce_ovine -->
+
+    <NamedIndividual rdf:about="http://www.co-ode.org/ontologies/ont.owl#Animaux_vivants_de_lespèce_ovine">
+        <rdf:type rdf:resource="http://www.co-ode.org/ontologies/ont.owl#Produits_d_exportation"/>
+        <ont:valeur1999>2879,7</ont:valeur1999>
+        <ont:valeur2000 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2555</ont:valeur2000>
+        <ont:valeur2001>2402,5</ont:valeur2001>
+        <ont:valeur2002>2426,9</ont:valeur2002>
+        <ont:valeur2003>501,4</ont:valeur2003>
+        <ont:valeur2004 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">514</ont:valeur2004>
+        <ont:valeur2005>729,7</ont:valeur2005>
+        <ont:valeur2006>539,8</ont:valeur2006>
+        <ont:valeur2007>743,3</ont:valeur2007>
+        <ont:valeur2008>838,7</ont:valeur2008>
+        <ont:valeur2009>1343,4</ont:valeur2009>
+        <ont:valeur2010>937,8</ont:valeur2010>
+        <ont:valeur2011 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">790</ont:valeur2011>
+        <ont:valeur2012>476,3</ont:valeur2012>
+        <ont:valeur2013>341,5</ont:valeur2013>
+    </NamedIndividual>
+    
+
+
+    <!-- http://www.co-ode.org/ontologies/ont.owl#Autre_maïs -->
+
+    <NamedIndividual rdf:about="http://www.co-ode.org/ontologies/ont.owl#Autre_maïs">
+        <rdf:type rdf:resource="http://www.co-ode.org/ontologies/ont.owl#Produits_d_exportation"/>
+        <ont:valeur1999>122,2</ont:valeur1999>
+        <ont:valeur2000>1262,7</ont:valeur2000>
+        <ont:valeur2001>1587,6</ont:valeur2001>
+        <ont:valeur2002 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">436</ont:valeur2002>
+        <ont:valeur2003>171,3</ont:valeur2003>
+        <ont:valeur2004>2205,1</ont:valeur2004>
+        <ont:valeur2005>354,8</ont:valeur2005>
+        <ont:valeur2006>1733,5</ont:valeur2006>
+        <ont:valeur2007>1469,6</ont:valeur2007>
+        <ont:valeur2008>937,4</ont:valeur2008>
+        <ont:valeur2009>1740,3</ont:valeur2009>
+        <ont:valeur2010>2937,6</ont:valeur2010>
+        <ont:valeur2011>1998,8</ont:valeur2011>
+        <ont:valeur2012>1776,4</ont:valeur2012>
+        <ont:valeur2013>3244,4</ont:valeur2013>
+    </NamedIndividual>
+    
+
+
+    <!-- http://www.co-ode.org/ontologies/ont.owl#Autres_bovins_vivants -->
+
+    <NamedIndividual rdf:about="http://www.co-ode.org/ontologies/ont.owl#Autres_bovins_vivants">
+        <rdf:type rdf:resource="http://www.co-ode.org/ontologies/ont.owl#Produits_d_exportation"/>
+    </NamedIndividual>
+    
+
+
+    <!-- http://www.co-ode.org/ontologies/ont.owl#Autres_graines_et_fruits_oléagineux_même_concassés -->
+
+    <NamedIndividual rdf:about="http://www.co-ode.org/ontologies/ont.owl#Autres_graines_et_fruits_oléagineux_même_concassés">
+        <rdf:type rdf:resource="http://www.co-ode.org/ontologies/ont.owl#Produits_d_exportation"/>
+    </NamedIndividual>
+    
+
+
+    <!-- http://www.co-ode.org/ontologies/ont.owl#Autres_huile_de_coton_et_fractions_non_chimiquement_modifiés -->
+
+    <NamedIndividual rdf:about="http://www.co-ode.org/ontologies/ont.owl#Autres_huile_de_coton_et_fractions_non_chimiquement_modifiés">
+        <rdf:type rdf:resource="http://www.co-ode.org/ontologies/ont.owl#Produits_d_exportation"/>
+    </NamedIndividual>
+    
+
+
+    <!-- http://www.co-ode.org/ontologies/ont.owl#Autres_huiles_graisses_et_fractions_non_chimiquement_modifiés -->
+
+    <NamedIndividual rdf:about="http://www.co-ode.org/ontologies/ont.owl#Autres_huiles_graisses_et_fractions_non_chimiquement_modifiés">
+        <rdf:type rdf:resource="http://www.co-ode.org/ontologies/ont.owl#Produits_d_exportation"/>
+    </NamedIndividual>
+    
+
+
+    <!-- http://www.co-ode.org/ontologies/ont.owl#Autres_meubles_en_bois -->
+
+    <NamedIndividual rdf:about="http://www.co-ode.org/ontologies/ont.owl#Autres_meubles_en_bois">
+        <rdf:type rdf:resource="http://www.co-ode.org/ontologies/ont.owl#Produits_d_exportation"/>
+    </NamedIndividual>
+    
+
+
+    <!-- http://www.co-ode.org/ontologies/ont.owl#Autres_peaux_épilées_de_caprins_tannées_ou_prétannés -->
+
+    <NamedIndividual rdf:about="http://www.co-ode.org/ontologies/ont.owl#Autres_peaux_épilées_de_caprins_tannées_ou_prétannés">
+        <rdf:type rdf:resource="http://www.co-ode.org/ontologies/ont.owl#Produits_d_exportation"/>
+    </NamedIndividual>
+    
+
+
+    <!-- http://www.co-ode.org/ontologies/ont.owl#Autres_peaux_épilées_dovins_tannées_ou_prétannés -->
+
+    <NamedIndividual rdf:about="http://www.co-ode.org/ontologies/ont.owl#Autres_peaux_épilées_dovins_tannées_ou_prétannés">
+        <rdf:type rdf:resource="http://www.co-ode.org/ontologies/ont.owl#Produits_d_exportation"/>
+    </NamedIndividual>
+    
+
+
+    <!-- http://www.co-ode.org/ontologies/ont.owl#Bovins_vivants__reproducteurs_de_race_pure -->
+
+    <NamedIndividual rdf:about="http://www.co-ode.org/ontologies/ont.owl#Bovins_vivants__reproducteurs_de_race_pure">
+        <rdf:type rdf:resource="http://www.co-ode.org/ontologies/ont.owl#Produits_d_exportation"/>
+    </NamedIndividual>
+    
+
+
+    <!-- http://www.co-ode.org/ontologies/ont.owl#Cigarettes_contenant_du_tabac -->
+
+    <NamedIndividual rdf:about="http://www.co-ode.org/ontologies/ont.owl#Cigarettes_contenant_du_tabac">
+        <rdf:type rdf:resource="http://www.co-ode.org/ontologies/ont.owl#Produits_d_exportation"/>
+    </NamedIndividual>
+    
+
+
+    <!-- http://www.co-ode.org/ontologies/ont.owl#Coton_non_cardé_ni_peigné -->
+
+    <NamedIndividual rdf:about="http://www.co-ode.org/ontologies/ont.owl#Coton_non_cardé_ni_peigné">
+        <rdf:type rdf:resource="http://www.co-ode.org/ontologies/ont.owl#Produits_d_exportation"/>
+        <ont:valeur1999>92237,1</ont:valeur1999>
+        <ont:valeur2000>74322,6</ont:valeur2000>
+        <ont:valeur2001 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">75186</ont:valeur2001>
+        <ont:valeur2002>72191,1</ont:valeur2002>
+        <ont:valeur2003>142910,4</ont:valeur2003>
+        <ont:valeur2004>121876,2</ont:valeur2004>
+        <ont:valeur2005>155199,1</ont:valeur2005>
+        <ont:valeur2006>161417,5</ont:valeur2006>
+        <ont:valeur2007>144633,2</ont:valeur2007>
+        <ont:valeur2008 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">87902</ont:valeur2008>
+        <ont:valeur2009>117325,4</ont:valeur2009>
+        <ont:valeur2010>110319,9</ont:valeur2010>
+        <ont:valeur2011>125641,9</ont:valeur2011>
+        <ont:valeur2012>149883,4</ont:valeur2012>
+        <ont:valeur2013>216840,3</ont:valeur2013>
+    </NamedIndividual>
+    
+
+
+    <!-- http://www.co-ode.org/ontologies/ont.owl#De_caprins_a_létat_humide__y_compris_wet_blue -->
+
+    <NamedIndividual rdf:about="http://www.co-ode.org/ontologies/ont.owl#De_caprins_a_létat_humide__y_compris_wet_blue">
+        <rdf:type rdf:resource="http://www.co-ode.org/ontologies/ont.owl#Produits_d_exportation"/>
+    </NamedIndividual>
+    
+
+
+    <!-- http://www.co-ode.org/ontologies/ont.owl#Goyaves__mangues_et_mangoustans__frais_ou_secs -->
+
+    <NamedIndividual rdf:about="http://www.co-ode.org/ontologies/ont.owl#Goyaves__mangues_et_mangoustans__frais_ou_secs">
+        <rdf:type rdf:resource="http://www.co-ode.org/ontologies/ont.owl#Produits_d_exportation"/>
+    </NamedIndividual>
+    
+
+
+    <!-- http://www.co-ode.org/ontologies/ont.owl#Graines_de_coton_même_concassées -->
+
+    <NamedIndividual rdf:about="http://www.co-ode.org/ontologies/ont.owl#Graines_de_coton_même_concassées">
+        <rdf:type rdf:resource="http://www.co-ode.org/ontologies/ont.owl#Produits_d_exportation"/>
+    </NamedIndividual>
+    
+
+
+    <!-- http://www.co-ode.org/ontologies/ont.owl#Graines_de_karité_même_concassées -->
+
+    <NamedIndividual rdf:about="http://www.co-ode.org/ontologies/ont.owl#Graines_de_karité_même_concassées">
+        <rdf:type rdf:resource="http://www.co-ode.org/ontologies/ont.owl#Produits_d_exportation"/>
+    </NamedIndividual>
+    
+
+
+    <!-- http://www.co-ode.org/ontologies/ont.owl#Graines_de_sésame_même_concassées -->
+
+    <NamedIndividual rdf:about="http://www.co-ode.org/ontologies/ont.owl#Graines_de_sésame_même_concassées">
+        <rdf:type rdf:resource="http://www.co-ode.org/ontologies/ont.owl#Produits_d_exportation"/>
+    </NamedIndividual>
+    
+
+
+    <!-- http://www.co-ode.org/ontologies/ont.owl#Haricots_communs_secs_écossés_même_décortiqués_ou_cassés -->
+
+    <NamedIndividual rdf:about="http://www.co-ode.org/ontologies/ont.owl#Haricots_communs_secs_écossés_même_décortiqués_ou_cassés">
+        <rdf:type rdf:resource="http://www.co-ode.org/ontologies/ont.owl#Produits_d_exportation"/>
+    </NamedIndividual>
+    
+
+
+    <!-- http://www.co-ode.org/ontologies/ont.owl#Or_non_monétaire__y_c_l_or_platiné -->
+
+    <NamedIndividual rdf:about="http://www.co-ode.org/ontologies/ont.owl#Or_non_monétaire__y_c_l_or_platiné">
+        <rdf:type rdf:resource="http://www.co-ode.org/ontologies/ont.owl#Produits_d_exportation"/>
+    </NamedIndividual>
+    
+
+
+    <!-- http://www.co-ode.org/ontologies/ont.owl#Peaux_tannes_ou_en_croûtes_dovins_épilés_à_létat_humide -->
+
+    <NamedIndividual rdf:about="http://www.co-ode.org/ontologies/ont.owl#Peaux_tannes_ou_en_croûtes_dovins_épilés_à_létat_humide">
+        <rdf:type rdf:resource="http://www.co-ode.org/ontologies/ont.owl#Produits_d_exportation"/>
+    </NamedIndividual>
+    
+
+
+    <!-- http://www.co-ode.org/ontologies/ont.owl#Préparations_pour_soupes_potages_soupes_potages__bouillons -->
+
+    <NamedIndividual rdf:about="http://www.co-ode.org/ontologies/ont.owl#Préparations_pour_soupes_potages_soupes_potages__bouillons">
+        <rdf:type rdf:resource="http://www.co-ode.org/ontologies/ont.owl#Produits_d_exportation"/>
+    </NamedIndividual>
+    
+
+
+    <!-- http://www.co-ode.org/ontologies/ont.owl#Saccharose_chimiquement_pur_à_létat_solide -->
+
+    <NamedIndividual rdf:about="http://www.co-ode.org/ontologies/ont.owl#Saccharose_chimiquement_pur_à_létat_solide">
+        <rdf:type rdf:resource="http://www.co-ode.org/ontologies/ont.owl#Produits_d_exportation"/>
+    </NamedIndividual>
+    
+
+
+    <!-- http://www.co-ode.org/ontologies/ont.owl#Sacs_et_sachets_demballage_obtenus_à_partir_de_lames -->
+
+    <NamedIndividual rdf:about="http://www.co-ode.org/ontologies/ont.owl#Sacs_et_sachets_demballage_obtenus_à_partir_de_lames">
+        <rdf:type rdf:resource="http://www.co-ode.org/ontologies/ont.owl#Produits_d_exportation"/>
+    </NamedIndividual>
+    
+
+
+    <!-- http://www.co-ode.org/ontologies/ont.owl#Sacs_sachets_pochettes_cornets_en_autres_matières_plastique -->
+
+    <NamedIndividual rdf:about="http://www.co-ode.org/ontologies/ont.owl#Sacs_sachets_pochettes_cornets_en_autres_matières_plastique">
+        <rdf:type rdf:resource="http://www.co-ode.org/ontologies/ont.owl#Produits_d_exportation"/>
+    </NamedIndividual>
+    
+
+
+    <!-- http://www.co-ode.org/ontologies/ont.owl#Sorgho_à_grains -->
+
+    <NamedIndividual rdf:about="http://www.co-ode.org/ontologies/ont.owl#Sorgho_à_grains">
+        <rdf:type rdf:resource="http://www.co-ode.org/ontologies/ont.owl#Produits_d_exportation"/>
+        <ont:valeur1999>46,6</ont:valeur1999>
+    </NamedIndividual>
+    
+
+
+    <!-- http://www.co-ode.org/ontologies/ont.owl#Tomates__fraîches_ou_réfrigérées -->
+
+    <NamedIndividual rdf:about="http://www.co-ode.org/ontologies/ont.owl#Tomates__fraîches_ou_réfrigérées">
+        <rdf:type rdf:resource="http://www.co-ode.org/ontologies/ont.owl#Produits_d_exportation"/>
+    </NamedIndividual>
+    
+
+
+    <!-- http://www.co-ode.org/ontologies/ont.owl#Tourteaux_et_résidus_solides_de_lextraction_dhuile -->
+
+    <NamedIndividual rdf:about="http://www.co-ode.org/ontologies/ont.owl#Tourteaux_et_résidus_solides_de_lextraction_dhuile">
+        <rdf:type rdf:resource="http://www.co-ode.org/ontologies/ont.owl#Produits_d_exportation"/>
+    </NamedIndividual>
+    
+
+
+    <!-- http://www.co-ode.org/ontologies/ont.owl#Fils_simples_coton_non_peigné__85_%43_à_52_nm -->
+
+    <NamedIndividual rdf:about="http://www.co-ode.org/ontologies/ont.owl#Fils_simples_coton_non_peigné__85_%43_à_52_nm">
+        <rdf:type rdf:resource="http://www.co-ode.org/ontologies/ont.owl#Produits_d_exportation"/>
+    </NamedIndividual>
+    
+
+
+    <!-- http://www.co-ode.org/ontologies/ont.owl#Noix_de_cajou:_en_coques -->
+
+    <NamedIndividual rdf:about="http://www.co-ode.org/ontologies/ont.owl#Noix_de_cajou:_en_coques">
+        <rdf:type rdf:resource="http://www.co-ode.org/ontologies/ont.owl#Produits_d_exportation"/>
+    </NamedIndividual>
+</rdf:RDF>
+
+
+
+<!-- Generated by the OWL API (version 4.2.8.20170104-2310) https://github.com/owlcs/owlapi -->
+

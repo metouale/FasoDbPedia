@@ -1,0 +1,312 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:adms="http://www.w3.org/ns/adms#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcat="http://www.w3.org/ns/dcat#" xmlns:dct="http://purl.org/dc/terms/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:owl="http://www.w3.org/2002/07/owl#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:time="http://www.w3.org/2006/time#" xmlns:vcard="http://www.w3.org/2006/vcard/ns#">
+   <dcat:Dataset rdf:about="https://data.gov.bf/dataset/situation-des-avortements-par-structure">
+      <dct:title>Situation des avortements par structure</dct:title>
+      <dct:description><![CDATA[<p>Nombre d'avortements spontanés, Nombre d'avortements clandestins, Nombre d'avortements thérapeutiques par structure et par région / district.</p>]]></dct:description>
+      <dcat:theme>Santé</dcat:theme>
+      <dct:identifier>f92a7e25-bb1a-426a-88f6-4ea32e456086</dct:identifier>
+      <dct:issued>2019-05-29T10:25:52+00:00</dct:issued>
+      <dct:modified>2019-05-29T12:58:58+00:00</dct:modified>
+      <dct:publisher>Ministère de la Santé</dct:publisher>
+      <dcat:distribution rdf:resource="https://data.gov.bf/dataset/situation-des-avortements-par-structure/resource/741dfaa3-69f4-4e44-8b3a-fc46961aab99" />
+   </dcat:Dataset>
+   <dcat:Dataset rdf:about="https://data.gov.bf/dataset/effectifs-par-tranches-dages-et-par-sexe-des-%C3%A9coles-primaires-de-la-r%C3%A9gion-de-la-boucle-du-7">
+      <dct:title>Effectifs par tranches d'ages et par sexe des écoles primaires de la région de la boucle du mouhoun pour l'année scolaire 2008-2009</dct:title>
+      <dcat:theme>Education</dcat:theme>
+      <dct:identifier>ae1667ab-99f2-41af-8c1f-b2c3f7c64eb4</dct:identifier>
+      <dct:issued>2019-05-24T17:17:09+00:00</dct:issued>
+      <dct:modified>2019-06-07T11:11:30+00:00</dct:modified>
+      <dct:publisher>Ministère de l'Éducation Nationale et de l'Alphabétisation</dct:publisher>
+      <dcat:distribution rdf:resource="https://data.gov.bf/dataset/effectifs-par-tranches-dages-et-par-sexe-des-%C3%A9coles-primaires-de-la-r%C3%A9gion-de-la-boucle-du-8" />
+   </dcat:Dataset>
+    <dcat:Dataset rdf:about="https://data.gov.bf/dataset/naissances-par-district-sanitaire">
+      <dct:title>Naissances par district sanitaire</dct:title>
+      <dct:description><![CDATA[<p>Naissances par district sanitaire</p>]]></dct:description>
+      <dcat:theme>Santé</dcat:theme>
+      <dct:identifier>77393ed2-4c8b-4a95-87ed-744bdef75f2b</dct:identifier>
+      <dct:issued>2019-04-22T13:26:06+00:00</dct:issued>
+      <dct:modified>2020-04-04T10:14:27+00:00</dct:modified>
+      <dct:publisher>Ministère de la Santé</dct:publisher>
+      <dcat:distribution rdf:resource="https://data.gov.bf/dataset/naissances-par-district-sanitaire/resource/cec105cc-14c8-4eab-b525-c0a0a5831cf0" />
+   </dcat:Dataset>
+   <dcat:Dataset rdf:about="https://data.gov.bf/dataset/nombre-de-permis-d%C3%A9livr%C3%A9s-par-substance">
+      <dct:title>Nombre de permis délivrés par substance</dct:title>
+      <dct:description><![CDATA[<p>Nombre de permis délivrés par substance</p>]]></dct:description>
+      <dcat:theme>Mines et carrières</dcat:theme>
+      <dct:identifier>9ef2b146-f451-456e-897b-c91d799f9788</dct:identifier>
+      <dct:issued>2019-04-22T17:02:46+00:00</dct:issued>
+      <dct:modified>2020-04-04T10:14:27+00:00</dct:modified>
+      <dct:publisher>Ministère des Mines et des Carrières</dct:publisher>
+      <dcat:distribution rdf:resource="https://data.gov.bf/dataset/nombre-de-permis-d%C3%A9livr%C3%A9s-par-substance/resource/7168d43d-9808-414a-9cf6-ffd241692248" />
+   </dcat:Dataset>
+   <dcat:Dataset rdf:about="https://data.gov.bf/dataset/evolution-des-ventes-deau-potable-de-lonea-par-type-de-client-de-2003-%C3%A0-2015">
+      <dct:title>Evolution des ventes d'eau potable de l'ONEA par type de client de 2003 à 2015</dct:title>
+      <dcat:theme>Eau et environnement</dcat:theme>
+      <dct:identifier>7ef6c911-a88b-4189-97be-879e1a0aeb48</dct:identifier>
+      <dct:issued>2019-05-27T07:34:14+00:00</dct:issued>
+      <dct:modified>2019-05-27T10:58:12+00:00</dct:modified>
+      <dct:publisher>Ministère de l’Environnement, de l’Economie Verte et du Changement Climatique</dct:publisher>
+      <dcat:distribution rdf:resource="https://data.gov.bf/dataset/evolution-des-ventes-deau-potable-de-lonea-par-type-de-client-de-2003-%C3%A0-2015/resource" />
+   </dcat:Dataset>
+   <dcat:Dataset rdf:about="https://data.gov.bf/dataset/naissances-par-district-sanitaire">
+      <dct:title>Naissances par district sanitaire</dct:title>
+      <dct:description><![CDATA[<p>Naissances par district sanitaire</p>]]></dct:description>
+      <dcat:theme>Santé</dcat:theme>
+      <dct:identifier>77393ed2-4c8b-4a95-87ed-744bdef75f2b</dct:identifier>
+      <dct:issued>2019-04-22T13:26:06+00:00</dct:issued>
+      <dct:modified>2020-04-04T10:14:27+00:00</dct:modified>
+      <dct:publisher>Ministère de la Santé</dct:publisher>
+      <dcat:distribution rdf:resource="https://data.gov.bf/dataset/naissances-par-district-sanitaire/resource/cec105cc-14c8-4eab-b525-c0a0a5831cf0" />
+   </dcat:Dataset>
+   <dcat:Dataset rdf:about="https://data.gov.bf/dataset/taux-de-possession-des-animaux-de-traits">
+      <dct:title>Taux de possession des animaux de traits</dct:title>
+      <dcat:theme>Agriculture, Elevage</dcat:theme>
+      <dct:identifier>fc84569c-d5fa-4f4e-b36c-158ccd642e9c</dct:identifier>
+      <dct:issued>2019-05-22T08:01:10+00:00</dct:issued>
+      <dct:modified>2019-05-22T08:41:51+00:00</dct:modified>
+      <dct:publisher>Ministère de l'Agriculture et des Aménagements Hydro-agricoles</dct:publisher>
+      <dcat:distribution rdf:resource="https://data.gov.bf/dataset/taux-de-possession-des-animaux-de-traits/resource/238f91ad-5201-4ca0-aa8e-275425ab6089" />
+      <dcat:distribution rdf:resource="https://data.gov.bf/dataset/taux-de-possession-des-animaux-de-traits/resource/7f5c3917-7aab-4332-ae8e-8e8cebef80b0" />
+   </dcat:Dataset>
+   <dcat:Dataset rdf:about="https://data.gov.bf/dataset/taux-dexploitation-des-asins">
+      <dct:title>Taux (%) d'exploitation des Asins</dct:title>
+      <dcat:theme>Agriculture, Elevage</dcat:theme>
+      <dct:identifier>d2edbbdc-9a1f-4560-a34c-968b511b218f</dct:identifier>
+      <dct:issued>2019-05-22T08:50:41+00:00</dct:issued>
+      <dct:modified>2019-05-22T11:41:53+00:00</dct:modified>
+      <dct:publisher>Ministère de l'Agriculture et des Aménagements Hydro-agricoles</dct:publisher>
+      <dcat:distribution rdf:resource="https://data.gov.bf/dataset/taux-dexploitation-des-asins/resource/1203d5d9-7af9-40ff-a512-5cdfa0045885" />
+      <dcat:distribution rdf:resource="https://data.gov.bf/dataset/taux-dexploitation-des-asins/resource/553a90a1-df2b-45c7-91db-d3fca9c4f3b7" />
+   </dcat:Dataset>
+   <dcat:Dataset rdf:about="https://data.gov.bf/dataset/taux-dexploitation-des-bovins-de-2008-%C3%A0-2017">
+      <dct:title>Taux (%) d'exploitation des Bovins de 2008 à 2017</dct:title>
+      <dcat:theme>Agriculture, Elevage</dcat:theme>
+      <dct:identifier>4b1c96d3-76e0-48f0-948a-3f56affcf7ae</dct:identifier>
+      <dct:issued>2019-05-22T09:04:14+00:00</dct:issued>
+      <dct:modified>2019-05-22T11:41:53+00:00</dct:modified>
+      <dct:publisher>Ministère de l'Agriculture et des Aménagements Hydro-agricoles</dct:publisher>
+      <dcat:distribution rdf:resource="https://data.gov.bf/dataset/taux-dexploitation-des-bovins-de-2008-%C3%A0-2017/resource/4b8bb0d5-e34e-447d-a735-050637d3341f" />
+      <dcat:distribution rdf:resource="https://data.gov.bf/dataset/taux-dexploitation-des-bovins-de-2008-%C3%A0-2017/resource/865a247e-8ed2-4945-aac2-9c58dae93c62" />
+   </dcat:Dataset>
+   <dcat:Dataset rdf:about="https://data.gov.bf/dataset/taux-dexploitation-des-ovins">
+      <dct:title>Taux (%) d'exploitation des Ovins</dct:title>
+      <dcat:theme>Agriculture, Elevage</dcat:theme>
+      <dct:identifier>21593dc9-5742-44eb-9beb-57a4824ba623</dct:identifier>
+      <dct:issued>2019-05-22T09:01:09+00:00</dct:issued>
+      <dct:modified>2019-05-22T11:41:53+00:00</dct:modified>
+      <dct:publisher>Ministère de l'Agriculture et des Aménagements Hydro-agricoles</dct:publisher>
+      <dcat:distribution rdf:resource="https://data.gov.bf/dataset/taux-dexploitation-des-ovins/resource/8edbc94f-096d-4d9a-af80-6ce2a1f85bb0" />
+      <dcat:distribution rdf:resource="https://data.gov.bf/dataset/taux-dexploitation-des-ovins/resource/5a320fd5-ebd5-4df9-aa15-462c8b9b6230" />
+   </dcat:Dataset>
+   <dcat:Dataset rdf:about="https://data.gov.bf/dataset/taux-dexploitation-des-poules-locales">
+      <dct:title>Taux (%) d'exploitation des Poules locales</dct:title>
+      <dcat:theme>Agriculture, Elevage</dcat:theme>
+      <dct:identifier>560b090d-5006-40cb-8a25-fa28c8c206fe</dct:identifier>
+      <dct:issued>2019-05-22T08:45:17+00:00</dct:issued>
+      <dct:modified>2019-05-22T11:41:53+00:00</dct:modified>
+      <dct:publisher>Ministère de l'Agriculture et des Aménagements Hydro-agricoles</dct:publisher>
+      <dcat:distribution rdf:resource="https://data.gov.bf/dataset/taux-dexploitation-des-poules-locales/resource/ff294adb-1c3a-40b8-a840-72b8072b74d3" />
+      <dcat:distribution rdf:resource="https://data.gov.bf/dataset/taux-dexploitation-des-poules-locales/resource/ac00d8bf-e70e-43fe-b49e-014c742113b4" />
+   </dcat:Dataset>
+
+
+   <dcat:Distribution rdf:about="https://data.gov.bf/dataset/situation-des-avortements-par-structure/resource/741dfaa3-69f4-4e44-8b3a-fc46961aab99">
+      <dct:title>Nombre d'avortements spontanés, Nombre d'avortements clandestins, Nombre d'avortements thérapeutiques par structure et par région / district.</dct:title>
+      <dct:description />
+      <dct:issued>2019-05-29T10:26:39+00:00</dct:issued>
+      <dct:modified>2019-05-29T10:26:39+00:00</dct:modified>
+      <dcat:accessURL rdf:resource="" />
+      <dcat:downloadURL rdf:resource="https://data.gov.bf/sites/default/files/situationdesavortementsparstructureselonletypeen2012.xls" />
+      <dcat:mediaType>application/vnd.ms-excel</dcat:mediaType>
+      <dct:format>xls</dct:format>
+      <dcat:byteSize>67072</dcat:byteSize>
+      <foaf:page>https://data.gov.bf/dataset/situation-des-avortements-par-structure/resource/741dfaa3-69f4-4e44-8b3a-fc46961aab99</foaf:page>
+   </dcat:Distribution>
+   <dcat:Distribution rdf:about="https://data.gov.bf/dataset/effectifs-par-tranches-dages-et-par-sexe-des-%C3%A9coles-primaires-de-la-r%C3%A9gion-de-la-boucle-du-8">
+      <dct:title>Effectifs par tranches d'ages et par sexe des écoles primaires de la région de la boucle du mouhoun pour l'année scolaire 2008-2009</dct:title>
+      <dct:description />
+      <dct:issued>2019-05-24T17:18:08+00:00</dct:issued>
+      <dct:modified>2019-05-24T17:18:08+00:00</dct:modified>
+      <dcat:accessURL rdf:resource="" />
+      <dcat:downloadURL rdf:resource="https://data.gov.bf/sites/default/files/effectif20082009boucleh.csv" />
+      <dcat:mediaType>text/csv</dcat:mediaType>
+      <dct:format>csv</dct:format>
+      <dcat:byteSize>636551</dcat:byteSize>
+      <foaf:page>https://data.gov.bf/dataset/effectifs-par-tranches-dages-et-par-sexe-des-%C3%A9coles-primaires-de-la-r%C3%A9gion-de-la-boucle-du-8</foaf:page>
+   </dcat:Distribution>
+   <dcat:Distribution rdf:about="https://data.gov.bf/dataset/naissances-par-district-sanitaire/resource/cec105cc-14c8-4eab-b525-c0a0a5831cf0">
+      <dct:title>Naissances par district sanitaire en 2017</dct:title>
+      <dct:description><![CDATA[<p>Naissances par district sanitaire en 2017</p>]]></dct:description>
+      <dct:issued>2019-04-22T16:32:00+00:00</dct:issued>
+      <dct:modified>2020-04-04T07:39:50+00:00</dct:modified>
+      <dcat:accessURL rdf:resource="" />
+      <dcat:downloadURL rdf:resource="https://data.gov.bf/sites/default/files/naissances2017.csv" />
+      <dcat:mediaType>text/csv</dcat:mediaType>
+      <dct:format>csv</dct:format>
+      <dcat:byteSize>4971</dcat:byteSize>
+      <foaf:page>https://data.gov.bf/dataset/naissances-par-district-sanitaire/resource/cec105cc-14c8-4eab-b525-c0a0a5831cf0</foaf:page>
+   </dcat:Distribution>
+   <dcat:Distribution rdf:about="https://data.gov.bf/dataset/nombre-de-permis-d%C3%A9livr%C3%A9s-par-substance/resource/7168d43d-9808-414a-9cf6-ffd241692248">
+      <dct:title>Nombre de permis délivrés par substance de 2008-2017</dct:title>
+      <dct:description><![CDATA[<p>ce ficher contient des données de permis d'exploitation minière de 2008-2017</p>]]></dct:description>
+      <dct:issued>2019-04-22T17:15:49+00:00</dct:issued>
+      <dct:modified>2020-04-04T07:39:50+00:00</dct:modified>
+      <dcat:accessURL rdf:resource="" />
+      <dcat:downloadURL rdf:resource="https://data.gov.bf/sites/default/files/nombredepermisdelivresparsubstancede2008a2017.csv" />
+      <dcat:mediaType>text/csv</dcat:mediaType>
+      <dct:format>csv</dct:format>
+      <dcat:byteSize>682</dcat:byteSize>
+      <foaf:page>https://data.gov.bf/dataset/nombre-de-permis-d%C3%A9livr%C3%A9s-par-substance/resource/7168d43d-9808-414a-9cf6-ffd241692248</foaf:page>
+   </dcat:Distribution>
+   <dcat:Distribution rdf:about="https://data.gov.bf/dataset/evolution-des-ventes-deau-potable-de-lonea-par-type-de-client-de-2003-%C3%A0-2015/resource">
+      <dct:title>Evolution des ventes d'eau potable de l'ONEA par type de client de 2003 à 2015</dct:title>
+      <dct:description />
+      <dct:issued>2019-05-27T07:35:04+00:00</dct:issued>
+      <dct:modified>2019-05-27T07:35:04+00:00</dct:modified>
+      <dcat:accessURL rdf:resource="" />
+      <dcat:downloadURL rdf:resource="https://data.gov.bf/sites/default/files/evolutiondesventesdeaupotabledeloneapartypedeclient.xlsx" />
+      <dcat:mediaType>application/vnd.openxmlformats-officedocument.spreadsheetml.sheet</dcat:mediaType>
+      <dct:format>xlsx</dct:format>
+      <dcat:byteSize>10363</dcat:byteSize>
+      <foaf:page>https://data.gov.bf/dataset/evolution-des-ventes-deau-potable-de-lonea-par-type-de-client-de-2003-%C3%A0-2015/resource</foaf:page>
+   </dcat:Distribution>
+   <dcat:Distribution rdf:about="https://data.gov.bf/dataset/naissances-par-district-sanitaire/resource/cec105cc-14c8-4eab-b525-c0a0a5831cf0">
+      <dct:title>Naissances par district sanitaire en 2017</dct:title>
+      <dct:description><![CDATA[<p>Naissances par district sanitaire en 2017</p>]]></dct:description>
+      <dct:issued>2019-04-22T16:32:00+00:00</dct:issued>
+      <dct:modified>2020-04-04T07:39:50+00:00</dct:modified>
+      <dcat:accessURL rdf:resource="" />
+      <dcat:downloadURL rdf:resource="https://data.gov.bf/sites/default/files/naissances2017.csv" />
+      <dcat:mediaType>text/csv</dcat:mediaType>
+      <dct:format>csv</dct:format>
+      <dcat:byteSize>4971</dcat:byteSize>
+      <foaf:page>https://data.gov.bf/dataset/naissances-par-district-sanitaire/resource/cec105cc-14c8-4eab-b525-c0a0a5831cf0</foaf:page>
+   </dcat:Distribution>
+   <dcat:Distribution rdf:about="https://data.gov.bf/dataset/taux-de-possession-des-animaux-de-traits/resource/238f91ad-5201-4ca0-aa8e-275425ab6089">
+      <dct:title>taux de possession des animaux de traits des ménages agricoles de 2008 à 2018</dct:title>
+      <dct:description />
+      <dct:issued>2019-05-22T08:02:27+00:00</dct:issued>
+      <dct:modified>2019-05-22T08:02:27+00:00</dct:modified>
+      <dcat:accessURL rdf:resource="" />
+      <dcat:downloadURL rdf:resource="https://data.gov.bf/sites/default/files/agrijeu137.xlsx" />
+      <dcat:mediaType>application/vnd.openxmlformats-officedocument.spreadsheetml.sheet</dcat:mediaType>
+      <dct:format>xlsx</dct:format>
+      <dcat:byteSize>10951</dcat:byteSize>
+      <foaf:page>https://data.gov.bf/dataset/taux-de-possession-des-animaux-de-traits/resource/238f91ad-5201-4ca0-aa8e-275425ab6089</foaf:page>
+   </dcat:Distribution>
+   <dcat:Distribution rdf:about="https://data.gov.bf/dataset/taux-de-possession-des-animaux-de-traits/resource/7f5c3917-7aab-4332-ae8e-8e8cebef80b0">
+      <dct:title>taux de possession des animaux de traits des ménages agricoles de 2008 à 2018</dct:title>
+      <dct:description />
+      <dct:issued>2019-05-22T08:03:06+00:00</dct:issued>
+      <dct:modified>2019-05-22T08:03:06+00:00</dct:modified>
+      <dcat:accessURL rdf:resource="" />
+      <dcat:downloadURL rdf:resource="https://data.gov.bf/sites/default/files/agrijeu137.csv" />
+      <dcat:mediaType>text/csv</dcat:mediaType>
+      <dct:format>csv</dct:format>
+      <dcat:byteSize>2184</dcat:byteSize>
+      <foaf:page>https://data.gov.bf/dataset/taux-de-possession-des-animaux-de-traits/resource/7f5c3917-7aab-4332-ae8e-8e8cebef80b0</foaf:page>
+   </dcat:Distribution>
+   <dcat:Distribution rdf:about="https://data.gov.bf/dataset/taux-dexploitation-des-asins/resource/1203d5d9-7af9-40ff-a512-5cdfa0045885">
+      <dct:title>Pourcentage d'exploitation des Asins</dct:title>
+      <dct:description />
+      <dct:issued>2019-05-22T08:51:55+00:00</dct:issued>
+      <dct:modified>2019-05-22T08:51:55+00:00</dct:modified>
+      <dcat:accessURL rdf:resource="" />
+      <dcat:downloadURL rdf:resource="https://data.gov.bf/sites/default/files/agrijeu159.xlsx" />
+      <dcat:mediaType>application/vnd.openxmlformats-officedocument.spreadsheetml.sheet</dcat:mediaType>
+      <dct:format>xlsx</dct:format>
+      <dcat:byteSize>11077</dcat:byteSize>
+      <foaf:page>https://data.gov.bf/dataset/taux-dexploitation-des-asins/resource/1203d5d9-7af9-40ff-a512-5cdfa0045885</foaf:page>
+   </dcat:Distribution>
+   <dcat:Distribution rdf:about="https://data.gov.bf/dataset/taux-dexploitation-des-asins/resource/553a90a1-df2b-45c7-91db-d3fca9c4f3b7">
+      <dct:title>Pourcentage d'exploitation des Asins</dct:title>
+      <dct:description />
+      <dct:issued>2019-05-22T08:52:40+00:00</dct:issued>
+      <dct:modified>2019-05-22T08:52:40+00:00</dct:modified>
+      <dcat:accessURL rdf:resource="" />
+      <dcat:downloadURL rdf:resource="https://data.gov.bf/sites/default/files/agrijeu159.csv" />
+      <dcat:mediaType>text/csv</dcat:mediaType>
+      <dct:format>csv</dct:format>
+      <dcat:byteSize>1823</dcat:byteSize>
+      <foaf:page>https://data.gov.bf/dataset/taux-dexploitation-des-asins/resource/553a90a1-df2b-45c7-91db-d3fca9c4f3b7</foaf:page>
+   </dcat:Distribution>
+   <dcat:Distribution rdf:about="https://data.gov.bf/dataset/taux-dexploitation-des-bovins-de-2008-%C3%A0-2017/resource/4b8bb0d5-e34e-447d-a735-050637d3341f">
+      <dct:title>Pourcentage d'exploitation des Bovins de 2008 à 2017</dct:title>
+      <dct:description />
+      <dct:issued>2019-05-22T09:05:18+00:00</dct:issued>
+      <dct:modified>2019-05-22T09:05:18+00:00</dct:modified>
+      <dcat:accessURL rdf:resource="" />
+      <dcat:downloadURL rdf:resource="https://data.gov.bf/sites/default/files/agrijeu156.xlsx" />
+      <dcat:mediaType>application/vnd.openxmlformats-officedocument.spreadsheetml.sheet</dcat:mediaType>
+      <dct:format>xlsx</dct:format>
+      <dcat:byteSize>11218</dcat:byteSize>
+      <foaf:page>https://data.gov.bf/dataset/taux-dexploitation-des-bovins-de-2008-%C3%A0-2017/resource/4b8bb0d5-e34e-447d-a735-050637d3341f</foaf:page>
+   </dcat:Distribution>
+   <dcat:Distribution rdf:about="https://data.gov.bf/dataset/taux-dexploitation-des-bovins-de-2008-%C3%A0-2017/resource/865a247e-8ed2-4945-aac2-9c58dae93c62">
+      <dct:title>Pourcentage d'exploitation des Bovins de 2008 à 2017</dct:title>
+      <dct:description />
+      <dct:issued>2019-05-22T09:05:58+00:00</dct:issued>
+      <dct:modified>2019-05-22T09:05:58+00:00</dct:modified>
+      <dcat:accessURL rdf:resource="" />
+      <dcat:downloadURL rdf:resource="https://data.gov.bf/sites/default/files/agrijeu156.csv" />
+      <dcat:mediaType>text/csv</dcat:mediaType>
+      <dct:format>csv</dct:format>
+      <dcat:byteSize>1940</dcat:byteSize>
+      <foaf:page>https://data.gov.bf/dataset/taux-dexploitation-des-bovins-de-2008-%C3%A0-2017/resource/865a247e-8ed2-4945-aac2-9c58dae93c62</foaf:page>
+   </dcat:Distribution>
+   <dcat:Distribution rdf:about="https://data.gov.bf/dataset/taux-dexploitation-des-ovins/resource/8edbc94f-096d-4d9a-af80-6ce2a1f85bb0">
+      <dct:title>Pourcentage d'exploitation des Ovins</dct:title>
+      <dct:description />
+      <dct:issued>2019-05-22T09:02:20+00:00</dct:issued>
+      <dct:modified>2019-05-22T09:02:20+00:00</dct:modified>
+      <dcat:accessURL rdf:resource="" />
+      <dcat:downloadURL rdf:resource="https://data.gov.bf/sites/default/files/agrijeu157.xlsx" />
+      <dcat:mediaType>application/vnd.openxmlformats-officedocument.spreadsheetml.sheet</dcat:mediaType>
+      <dct:format>xlsx</dct:format>
+      <dcat:byteSize>11281</dcat:byteSize>
+      <foaf:page>https://data.gov.bf/dataset/taux-dexploitation-des-ovins/resource/8edbc94f-096d-4d9a-af80-6ce2a1f85bb0</foaf:page>
+   </dcat:Distribution>
+   <dcat:Distribution rdf:about="https://data.gov.bf/dataset/taux-dexploitation-des-ovins/resource/5a320fd5-ebd5-4df9-aa15-462c8b9b6230">
+      <dct:title>Pourcentage d'exploitation des Ovins</dct:title>
+      <dct:description />
+      <dct:issued>2019-05-22T09:03:10+00:00</dct:issued>
+      <dct:modified>2019-05-22T09:03:10+00:00</dct:modified>
+      <dcat:accessURL rdf:resource="" />
+      <dcat:downloadURL rdf:resource="https://data.gov.bf/sites/default/files/agrijeu157.csv" />
+      <dcat:mediaType>text/csv</dcat:mediaType>
+      <dct:format>csv</dct:format>
+      <dcat:byteSize>2311</dcat:byteSize>
+      <foaf:page>https://data.gov.bf/dataset/taux-dexploitation-des-ovins/resource/5a320fd5-ebd5-4df9-aa15-462c8b9b6230</foaf:page>
+   </dcat:Distribution>
+   <dcat:Distribution rdf:about="https://data.gov.bf/dataset/taux-dexploitation-des-poules-locales/resource/ff294adb-1c3a-40b8-a840-72b8072b74d3">
+      <dct:title>Taux (%) d'exploitation des Poules locales</dct:title>
+      <dct:description />
+      <dct:issued>2019-05-22T08:46:16+00:00</dct:issued>
+      <dct:modified>2019-05-22T08:46:16+00:00</dct:modified>
+      <dcat:accessURL rdf:resource="" />
+      <dcat:downloadURL rdf:resource="https://data.gov.bf/sites/default/files/agrijeu160.xlsx" />
+      <dcat:mediaType>application/vnd.openxmlformats-officedocument.spreadsheetml.sheet</dcat:mediaType>
+      <dct:format>csv</dct:format>
+      <dcat:byteSize>11332</dcat:byteSize>
+      <foaf:page>https://data.gov.bf/dataset/taux-dexploitation-des-poules-locales/resource/ff294adb-1c3a-40b8-a840-72b8072b74d3</foaf:page>
+   </dcat:Distribution>
+   <dcat:Distribution rdf:about="https://data.gov.bf/dataset/taux-dexploitation-des-poules-locales/resource/ac00d8bf-e70e-43fe-b49e-014c742113b4">
+      <dct:title>Taux (%) d'exploitation des Poules locales</dct:title>
+      <dct:description />
+      <dct:issued>2019-05-22T08:46:56+00:00</dct:issued>
+      <dct:modified>2019-05-22T08:46:56+00:00</dct:modified>
+      <dcat:accessURL rdf:resource="" />
+      <dcat:downloadURL rdf:resource="https://data.gov.bf/sites/default/files/agrijeu160.csv" />
+      <dcat:mediaType>text/csv</dcat:mediaType>
+      <dct:format>csv</dct:format>
+      <dcat:byteSize>2396</dcat:byteSize>
+      <foaf:page>https://data.gov.bf/dataset/taux-dexploitation-des-poules-locales/resource/ac00d8bf-e70e-43fe-b49e-014c742113b4</foaf:page>
+   </dcat:Distribution>
+
+
+   <foaf:Agent rdf:about="https://data.gov.bf/publisher/n0">
+      <foaf:name>DKAN</foaf:name>
+      <foaf:homepage>https://data.gov.bf</foaf:homepage>
+      <dct:type rdf:resource="http://purl.org/adms/publishertype/NonProfitOrganisation" />
+   </foaf:Agent>
+</rdf:RDF>
