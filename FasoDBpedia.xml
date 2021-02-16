@@ -1,0 +1,1966 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns="http://www.w3.org/2002/07/owl#"
+     xml:base="http://www.w3.org/2002/07/owl"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:ont="http://www.co-ode.org/ontologies/ont.owl#"
+     xmlns:owl="http://www.w3.org/2002/07/owl#"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:xml="http://www.w3.org/XML/1998/namespace"
+     xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+     xmlns:adms="http://www.w3.org/ns/adms#"
+     xmlns:dcat="http://www.w3.org/ns/dcat#"
+     xmlns:foaf="http://xmlns.com/foaf/0.1/"
+     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+     xmlns:time="http://www.w3.org/2006/time#"
+     xmlns:rdfs1="http://www.data.gov.bf/ressource/rdfs#"
+     xmlns:vcard="http://www.w3.org/2006/vcard/ns#"
+     xmlns:dcterms="http://purl.org/dc/terms/">
+    <Ontology/>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Annotation properties
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://purl.org/dc/terms/description -->
+
+    <AnnotationProperty rdf:about="http://purl.org/dc/terms/description"/>
+    
+
+
+    <!-- http://purl.org/dc/terms/format -->
+
+    <AnnotationProperty rdf:about="http://purl.org/dc/terms/format"/>
+    
+
+
+    <!-- http://purl.org/dc/terms/identifier -->
+
+    <AnnotationProperty rdf:about="http://purl.org/dc/terms/identifier"/>
+    
+
+
+    <!-- http://purl.org/dc/terms/issued -->
+
+    <AnnotationProperty rdf:about="http://purl.org/dc/terms/issued"/>
+    
+
+
+    <!-- http://purl.org/dc/terms/modified -->
+
+    <AnnotationProperty rdf:about="http://purl.org/dc/terms/modified"/>
+    
+
+
+    <!-- http://purl.org/dc/terms/publisher -->
+
+    <AnnotationProperty rdf:about="http://purl.org/dc/terms/publisher"/>
+    
+
+
+    <!-- http://purl.org/dc/terms/title -->
+
+    <AnnotationProperty rdf:about="http://purl.org/dc/terms/title"/>
+    
+
+
+    <!-- http://purl.org/dc/terms/type -->
+
+    <AnnotationProperty rdf:about="http://purl.org/dc/terms/type"/>
+    
+
+
+    <!-- http://www.co-ode.org/ontologies/ont.owl#taux2011 -->
+
+    <AnnotationProperty rdf:about="http://www.co-ode.org/ontologies/ont.owl#taux2011"/>
+    
+
+
+    <!-- http://www.co-ode.org/ontologies/ont.owl#taux2012 -->
+
+    <AnnotationProperty rdf:about="http://www.co-ode.org/ontologies/ont.owl#taux2012"/>
+    
+
+
+    <!-- http://www.co-ode.org/ontologies/ont.owl#taux2013 -->
+
+    <AnnotationProperty rdf:about="http://www.co-ode.org/ontologies/ont.owl#taux2013"/>
+    
+
+
+    <!-- http://www.co-ode.org/ontologies/ont.owl#taux2014 -->
+
+    <AnnotationProperty rdf:about="http://www.co-ode.org/ontologies/ont.owl#taux2014"/>
+    
+
+
+    <!-- http://www.co-ode.org/ontologies/ont.owl#taux2015 -->
+
+    <AnnotationProperty rdf:about="http://www.co-ode.org/ontologies/ont.owl#taux2015"/>
+    
+
+
+    <!-- http://www.co-ode.org/ontologies/ont.owl#taux2016 -->
+
+    <AnnotationProperty rdf:about="http://www.co-ode.org/ontologies/ont.owl#taux2016"/>
+    
+
+
+    <!-- http://www.co-ode.org/ontologies/ont.owl#taux2017 -->
+
+    <AnnotationProperty rdf:about="http://www.co-ode.org/ontologies/ont.owl#taux2017"/>
+    
+
+
+    <!-- http://www.data.gov.bf/ressource/rdfs#aProduit -->
+
+    <AnnotationProperty rdf:about="http://www.data.gov.bf/ressource/rdfs#aProduit"/>
+    
+
+
+    <!-- http://www.data.gov.bf/ressource/rdfs#distributionUri -->
+
+    <AnnotationProperty rdf:about="http://www.data.gov.bf/ressource/rdfs#distributionUri"/>
+    
+
+
+    <!-- http://www.data.gov.bf/ressource/rdfs#taux2008 -->
+
+    <AnnotationProperty rdf:about="http://www.data.gov.bf/ressource/rdfs#taux2008"/>
+    
+
+
+    <!-- http://www.data.gov.bf/ressource/rdfs#taux2009 -->
+
+    <AnnotationProperty rdf:about="http://www.data.gov.bf/ressource/rdfs#taux2009"/>
+    
+
+
+    <!-- http://www.data.gov.bf/ressource/rdfs#taux2010 -->
+
+    <AnnotationProperty rdf:about="http://www.data.gov.bf/ressource/rdfs#taux2010"/>
+    
+
+
+    <!-- http://www.w3.org/ns/dcat#accessURL -->
+
+    <AnnotationProperty rdf:about="http://www.w3.org/ns/dcat#accessURL"/>
+    
+
+
+    <!-- http://www.w3.org/ns/dcat#byteSize -->
+
+    <AnnotationProperty rdf:about="http://www.w3.org/ns/dcat#byteSize"/>
+    
+
+
+    <!-- http://www.w3.org/ns/dcat#distribution -->
+
+    <AnnotationProperty rdf:about="http://www.w3.org/ns/dcat#distribution"/>
+    
+
+
+    <!-- http://www.w3.org/ns/dcat#downloadURL -->
+
+    <AnnotationProperty rdf:about="http://www.w3.org/ns/dcat#downloadURL"/>
+    
+
+
+    <!-- http://www.w3.org/ns/dcat#mediaType -->
+
+    <AnnotationProperty rdf:about="http://www.w3.org/ns/dcat#mediaType"/>
+    
+
+
+    <!-- http://www.w3.org/ns/dcat#theme -->
+
+    <AnnotationProperty rdf:about="http://www.w3.org/ns/dcat#theme"/>
+    
+
+
+    <!-- http://xmlns.com/foaf/0.1/homepage -->
+
+    <AnnotationProperty rdf:about="http://xmlns.com/foaf/0.1/homepage"/>
+    
+
+
+    <!-- http://xmlns.com/foaf/0.1/name -->
+
+    <AnnotationProperty rdf:about="http://xmlns.com/foaf/0.1/name"/>
+    
+
+
+    <!-- http://xmlns.com/foaf/0.1/page -->
+
+    <AnnotationProperty rdf:about="http://xmlns.com/foaf/0.1/page"/>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Object Properties
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://www.data.gov.bf/ressource/rdfs#aProduit -->
+
+    <ObjectProperty rdf:about="http://www.data.gov.bf/ressource/rdfs#aProduit">
+        <inverseOf rdf:resource="http://www.data.gov.bf/ressource/rdfs#estProduitPar"/>
+        <rdfs:domain rdf:resource="http://www.data.gov.bf/ressource/rdfs#Producteur"/>
+        <rdfs:range rdf:resource="http://www.w3.org/ns/dcat#Dataset"/>
+    </ObjectProperty>
+    
+
+
+    <!-- http://www.data.gov.bf/ressource/rdfs#estProduitPar -->
+
+    <ObjectProperty rdf:about="http://www.data.gov.bf/ressource/rdfs#estProduitPar"/>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Classes
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://www.data.gov.bf/ressource/rdfs#Producteur -->
+
+    <Class rdf:about="http://www.data.gov.bf/ressource/rdfs#Producteur"/>
+    
+
+
+    <!-- http://www.data.gov.bf/ressource/rdfs#Province -->
+
+    <Class rdf:about="http://www.data.gov.bf/ressource/rdfs#Province"/>
+    
+
+
+    <!-- http://www.data.gov.bf/ressource/rdfs#Region -->
+
+    <Class rdf:about="http://www.data.gov.bf/ressource/rdfs#Region"/>
+    
+
+
+    <!-- http://www.w3.org/ns/dcat#Dataset -->
+
+    <Class rdf:about="http://www.w3.org/ns/dcat#Dataset"/>
+    
+
+
+    <!-- http://www.w3.org/ns/dcat#Distribution -->
+
+    <Class rdf:about="http://www.w3.org/ns/dcat#Distribution"/>
+    
+
+
+    <!-- http://xmlns.com/foaf/0.1/Agent -->
+
+    <Class rdf:about="http://xmlns.com/foaf/0.1/Agent"/>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Individuals
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://www.co-ode.org/ontologies/ont.owl#BALE -->
+
+    <NamedIndividual rdf:about="http://www.co-ode.org/ontologies/ont.owl#BALE">
+        <rdf:type rdf:resource="http://www.data.gov.bf/ressource/rdfs#Province"/>
+        <ont:taux2011 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">28</ont:taux2011>
+        <ont:taux2012 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">23</ont:taux2012>
+        <ont:taux2013 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">24</ont:taux2013>
+        <ont:taux2014 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">25</ont:taux2014>
+        <ont:taux2015 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">22</ont:taux2015>
+        <ont:taux2016 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">20</ont:taux2016>
+        <ont:taux2017 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">17</ont:taux2017>
+        <rdfs1:taux2008 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">21</rdfs1:taux2008>
+        <rdfs1:taux2009 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">27</rdfs1:taux2009>
+        <rdfs1:taux2010 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">29</rdfs1:taux2010>
+    </NamedIndividual>
+    
+
+
+    <!-- http://www.co-ode.org/ontologies/ont.owl#BAM -->
+
+    <NamedIndividual rdf:about="http://www.co-ode.org/ontologies/ont.owl#BAM">
+        <rdf:type rdf:resource="http://www.data.gov.bf/ressource/rdfs#Province"/>
+        <ont:taux2011 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">24</ont:taux2011>
+        <ont:taux2012 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">27</ont:taux2012>
+        <ont:taux2013 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">28</ont:taux2013>
+        <ont:taux2014 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">21</ont:taux2014>
+        <ont:taux2015 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">23</ont:taux2015>
+        <ont:taux2016 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">29</ont:taux2016>
+        <ont:taux2017 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">21</ont:taux2017>
+        <rdfs1:taux2008 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">22</rdfs1:taux2008>
+        <rdfs1:taux2009 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">20</rdfs1:taux2009>
+        <rdfs1:taux2010 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">21</rdfs1:taux2010>
+    </NamedIndividual>
+    
+
+
+    <!-- http://www.co-ode.org/ontologies/ont.owl#BANWA -->
+
+    <NamedIndividual rdf:about="http://www.co-ode.org/ontologies/ont.owl#BANWA">
+        <rdf:type rdf:resource="http://www.data.gov.bf/ressource/rdfs#Province"/>
+        <ont:taux2011 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">25</ont:taux2011>
+        <ont:taux2012 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">27</ont:taux2012>
+        <ont:taux2013 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">24</ont:taux2013>
+        <ont:taux2014 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">27</ont:taux2014>
+        <ont:taux2015 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">28</ont:taux2015>
+        <ont:taux2016 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">28</ont:taux2016>
+        <ont:taux2017 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">21</ont:taux2017>
+        <rdfs1:taux2008 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">23</rdfs1:taux2008>
+        <rdfs1:taux2009 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">22</rdfs1:taux2009>
+        <rdfs1:taux2010 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">23</rdfs1:taux2010>
+    </NamedIndividual>
+    
+
+
+    <!-- http://www.co-ode.org/ontologies/ont.owl#BAZEGA -->
+
+    <NamedIndividual rdf:about="http://www.co-ode.org/ontologies/ont.owl#BAZEGA">
+        <rdf:type rdf:resource="http://www.data.gov.bf/ressource/rdfs#Province"/>
+        <ont:taux2011 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">25</ont:taux2011>
+        <ont:taux2012 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">24</ont:taux2012>
+        <ont:taux2013 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">30</ont:taux2013>
+        <ont:taux2014 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">29</ont:taux2014>
+        <ont:taux2015 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">31</ont:taux2015>
+        <ont:taux2016 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">28</ont:taux2016>
+        <ont:taux2017 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">24</ont:taux2017>
+        <rdfs1:taux2008 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">21</rdfs1:taux2008>
+        <rdfs1:taux2009 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">24</rdfs1:taux2009>
+        <rdfs1:taux2010 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">26</rdfs1:taux2010>
+    </NamedIndividual>
+    
+
+
+    <!-- http://www.co-ode.org/ontologies/ont.owl#BOUGOURIBA -->
+
+    <NamedIndividual rdf:about="http://www.co-ode.org/ontologies/ont.owl#BOUGOURIBA">
+        <rdf:type rdf:resource="http://www.data.gov.bf/ressource/rdfs#Province"/>
+        <ont:taux2011 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">25</ont:taux2011>
+        <ont:taux2012 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">27</ont:taux2012>
+        <ont:taux2013 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">24</ont:taux2013>
+        <ont:taux2014 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">21</ont:taux2014>
+        <ont:taux2015 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">20</ont:taux2015>
+        <ont:taux2016 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">27</ont:taux2016>
+        <ont:taux2017 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">24</ont:taux2017>
+        <rdfs1:taux2008 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">18</rdfs1:taux2008>
+        <rdfs1:taux2009 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">24</rdfs1:taux2009>
+        <rdfs1:taux2010 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">21</rdfs1:taux2010>
+    </NamedIndividual>
+    
+
+
+    <!-- http://www.co-ode.org/ontologies/ont.owl#BOULGOU -->
+
+    <NamedIndividual rdf:about="http://www.co-ode.org/ontologies/ont.owl#BOULGOU">
+        <rdf:type rdf:resource="http://www.data.gov.bf/ressource/rdfs#Province"/>
+        <ont:taux2011 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">19</ont:taux2011>
+        <ont:taux2012 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">21</ont:taux2012>
+        <ont:taux2013 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">20</ont:taux2013>
+        <ont:taux2014 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">19</ont:taux2014>
+        <ont:taux2015 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">15</ont:taux2015>
+        <ont:taux2016 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">19</ont:taux2016>
+        <ont:taux2017 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">18</ont:taux2017>
+        <rdfs1:taux2008 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">19</rdfs1:taux2008>
+        <rdfs1:taux2009 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">21</rdfs1:taux2009>
+        <rdfs1:taux2010 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">17</rdfs1:taux2010>
+    </NamedIndividual>
+    
+
+
+    <!-- http://www.co-ode.org/ontologies/ont.owl#BOULKIEMDE -->
+
+    <NamedIndividual rdf:about="http://www.co-ode.org/ontologies/ont.owl#BOULKIEMDE">
+        <rdf:type rdf:resource="http://www.data.gov.bf/ressource/rdfs#Province"/>
+        <ont:taux2011 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">24</ont:taux2011>
+        <ont:taux2012 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">24</ont:taux2012>
+        <ont:taux2013 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">26</ont:taux2013>
+        <ont:taux2014 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">20</ont:taux2014>
+        <ont:taux2015 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">26</ont:taux2015>
+        <ont:taux2016 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">20</ont:taux2016>
+        <ont:taux2017 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">19</ont:taux2017>
+        <rdfs1:taux2008 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">22</rdfs1:taux2008>
+        <rdfs1:taux2009 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">23</rdfs1:taux2009>
+        <rdfs1:taux2010 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">22</rdfs1:taux2010>
+    </NamedIndividual>
+    
+
+
+    <!-- http://www.co-ode.org/ontologies/ont.owl#CASCADES -->
+
+    <NamedIndividual rdf:about="http://www.co-ode.org/ontologies/ont.owl#CASCADES">
+        <rdf:type rdf:resource="http://www.data.gov.bf/ressource/rdfs#Region"/>
+        <ont:taux2011 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">23</ont:taux2011>
+        <ont:taux2012 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">23</ont:taux2012>
+        <ont:taux2013 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">18</ont:taux2013>
+        <ont:taux2014 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">27</ont:taux2014>
+        <ont:taux2015 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">24</ont:taux2015>
+        <ont:taux2016 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">27</ont:taux2016>
+        <ont:taux2017 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">22</ont:taux2017>
+        <rdfs1:taux2008 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">21</rdfs1:taux2008>
+        <rdfs1:taux2009 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">26</rdfs1:taux2009>
+        <rdfs1:taux2010 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">22</rdfs1:taux2010>
+    </NamedIndividual>
+    
+
+
+    <!-- http://www.co-ode.org/ontologies/ont.owl#CENTRE -->
+
+    <NamedIndividual rdf:about="http://www.co-ode.org/ontologies/ont.owl#CENTRE">
+        <rdf:type rdf:resource="http://www.data.gov.bf/ressource/rdfs#Region"/>
+        <ont:taux2011 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">30</ont:taux2011>
+        <ont:taux2012 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">30</ont:taux2012>
+        <ont:taux2013 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">28</ont:taux2013>
+        <ont:taux2014 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">30</ont:taux2014>
+        <ont:taux2015 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">27</ont:taux2015>
+        <ont:taux2016 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">24</ont:taux2016>
+        <ont:taux2017 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">26</ont:taux2017>
+        <rdfs1:taux2008 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">17</rdfs1:taux2008>
+        <rdfs1:taux2009 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">26</rdfs1:taux2009>
+        <rdfs1:taux2010 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">27</rdfs1:taux2010>
+    </NamedIndividual>
+    
+
+
+    <!-- http://www.co-ode.org/ontologies/ont.owl#CENTRE-EST -->
+
+    <NamedIndividual rdf:about="http://www.co-ode.org/ontologies/ont.owl#CENTRE-EST">
+        <rdf:type rdf:resource="http://www.data.gov.bf/ressource/rdfs#Region"/>
+        <ont:taux2011 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">17</ont:taux2011>
+        <ont:taux2012 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">21</ont:taux2012>
+        <ont:taux2013 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">20</ont:taux2013>
+        <ont:taux2014 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">20</ont:taux2014>
+        <ont:taux2015 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">17</ont:taux2015>
+        <ont:taux2016 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">18</ont:taux2016>
+        <ont:taux2017 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">15</ont:taux2017>
+        <rdfs1:taux2008 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">17</rdfs1:taux2008>
+        <rdfs1:taux2009 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">18</rdfs1:taux2009>
+        <rdfs1:taux2010 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">16</rdfs1:taux2010>
+    </NamedIndividual>
+    
+
+
+    <!-- http://www.co-ode.org/ontologies/ont.owl#CENTRE-NORD -->
+
+    <NamedIndividual rdf:about="http://www.co-ode.org/ontologies/ont.owl#CENTRE-NORD">
+        <rdf:type rdf:resource="http://www.data.gov.bf/ressource/rdfs#Region"/>
+        <ont:taux2011 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">20</ont:taux2011>
+        <ont:taux2012 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">24</ont:taux2012>
+        <ont:taux2013 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">24</ont:taux2013>
+        <ont:taux2014 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">23</ont:taux2014>
+        <ont:taux2015 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">24</ont:taux2015>
+        <ont:taux2016 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">25</ont:taux2016>
+        <ont:taux2017 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">21</ont:taux2017>
+        <rdfs1:taux2008 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">21</rdfs1:taux2008>
+        <rdfs1:taux2009 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">22</rdfs1:taux2009>
+        <rdfs1:taux2010 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">21</rdfs1:taux2010>
+    </NamedIndividual>
+    
+
+
+    <!-- http://www.co-ode.org/ontologies/ont.owl#CENTRE-OUEST -->
+
+    <NamedIndividual rdf:about="http://www.co-ode.org/ontologies/ont.owl#CENTRE-OUEST">
+        <rdf:type rdf:resource="http://www.data.gov.bf/ressource/rdfs#Region"/>
+        <ont:taux2011 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">21</ont:taux2011>
+        <ont:taux2012 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">24</ont:taux2012>
+        <ont:taux2013 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">23</ont:taux2013>
+        <ont:taux2014 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">24</ont:taux2014>
+        <ont:taux2015 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">26</ont:taux2015>
+        <ont:taux2016 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">21</ont:taux2016>
+        <ont:taux2017 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">24</ont:taux2017>
+        <rdfs1:taux2008 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">23</rdfs1:taux2008>
+        <rdfs1:taux2009 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">23</rdfs1:taux2009>
+        <rdfs1:taux2010 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">23</rdfs1:taux2010>
+    </NamedIndividual>
+    
+
+
+    <!-- http://www.co-ode.org/ontologies/ont.owl#CENTRE-SUD -->
+
+    <NamedIndividual rdf:about="http://www.co-ode.org/ontologies/ont.owl#CENTRE-SUD">
+        <rdf:type rdf:resource="http://www.data.gov.bf/ressource/rdfs#Region"/>
+        <ont:taux2011 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">20</ont:taux2011>
+        <ont:taux2012 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">20</ont:taux2012>
+        <ont:taux2013 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">21</ont:taux2013>
+        <ont:taux2014 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">24</ont:taux2014>
+        <ont:taux2015 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">22</ont:taux2015>
+        <ont:taux2016 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">21</ont:taux2016>
+        <ont:taux2017 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">21</ont:taux2017>
+        <rdfs1:taux2008 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">18</rdfs1:taux2008>
+        <rdfs1:taux2009 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">25</rdfs1:taux2009>
+        <rdfs1:taux2010 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">22</rdfs1:taux2010>
+    </NamedIndividual>
+    
+
+
+    <!-- http://www.co-ode.org/ontologies/ont.owl#COMOE -->
+
+    <NamedIndividual rdf:about="http://www.co-ode.org/ontologies/ont.owl#COMOE">
+        <rdf:type rdf:resource="http://www.data.gov.bf/ressource/rdfs#Province"/>
+        <ont:taux2011 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">22</ont:taux2011>
+        <ont:taux2012 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">23</ont:taux2012>
+        <ont:taux2013 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">14</ont:taux2013>
+        <ont:taux2014 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">25</ont:taux2014>
+        <ont:taux2015 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">18</ont:taux2015>
+        <ont:taux2016 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">22</ont:taux2016>
+        <ont:taux2017 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">21</ont:taux2017>
+        <rdfs1:taux2008 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">20</rdfs1:taux2008>
+        <rdfs1:taux2009 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">23</rdfs1:taux2009>
+        <rdfs1:taux2010 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">24</rdfs1:taux2010>
+    </NamedIndividual>
+    
+
+
+    <!-- http://www.co-ode.org/ontologies/ont.owl#EST -->
+
+    <NamedIndividual rdf:about="http://www.co-ode.org/ontologies/ont.owl#EST">
+        <rdf:type rdf:resource="http://www.data.gov.bf/ressource/rdfs#Region"/>
+        <ont:taux2011 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">19</ont:taux2011>
+        <ont:taux2012 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">18</ont:taux2012>
+        <ont:taux2013 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">21</ont:taux2013>
+        <ont:taux2014 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">21</ont:taux2014>
+        <ont:taux2015 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">22</ont:taux2015>
+        <ont:taux2016 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">22</ont:taux2016>
+        <ont:taux2017 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">24</ont:taux2017>
+        <rdfs1:taux2008 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">18</rdfs1:taux2008>
+        <rdfs1:taux2009 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">23</rdfs1:taux2009>
+        <rdfs1:taux2010 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">20</rdfs1:taux2010>
+    </NamedIndividual>
+    
+
+
+    <!-- http://www.co-ode.org/ontologies/ont.owl#GANZOURGOU -->
+
+    <NamedIndividual rdf:about="http://www.co-ode.org/ontologies/ont.owl#GANZOURGOU">
+        <rdf:type rdf:resource="http://www.data.gov.bf/ressource/rdfs#Province"/>
+        <ont:taux2011 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">16</ont:taux2011>
+        <ont:taux2012 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">16</ont:taux2012>
+        <ont:taux2013 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">20</ont:taux2013>
+        <ont:taux2014 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">21</ont:taux2014>
+        <ont:taux2015 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">16</ont:taux2015>
+        <ont:taux2016 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">19</ont:taux2016>
+        <ont:taux2017 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">21</ont:taux2017>
+        <rdfs1:taux2008 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">21</rdfs1:taux2008>
+        <rdfs1:taux2009 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">18</rdfs1:taux2009>
+        <rdfs1:taux2010 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">17</rdfs1:taux2010>
+    </NamedIndividual>
+    
+
+
+    <!-- http://www.co-ode.org/ontologies/ont.owl#GNAGNA -->
+
+    <NamedIndividual rdf:about="http://www.co-ode.org/ontologies/ont.owl#GNAGNA">
+        <rdf:type rdf:resource="http://www.data.gov.bf/ressource/rdfs#Province"/>
+        <ont:taux2011 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">19</ont:taux2011>
+        <ont:taux2012 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">22</ont:taux2012>
+        <ont:taux2013 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">25</ont:taux2013>
+        <ont:taux2014 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">24</ont:taux2014>
+        <ont:taux2015 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">20</ont:taux2015>
+        <ont:taux2016 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">21</ont:taux2016>
+        <ont:taux2017 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">20</ont:taux2017>
+        <rdfs1:taux2008 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">19</rdfs1:taux2008>
+        <rdfs1:taux2009 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">24</rdfs1:taux2009>
+        <rdfs1:taux2010 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">23</rdfs1:taux2010>
+    </NamedIndividual>
+    
+
+
+    <!-- http://www.co-ode.org/ontologies/ont.owl#GOURMA -->
+
+    <NamedIndividual rdf:about="http://www.co-ode.org/ontologies/ont.owl#GOURMA">
+        <rdf:type rdf:resource="http://www.data.gov.bf/ressource/rdfs#Province"/>
+        <ont:taux2011 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">17</ont:taux2011>
+        <ont:taux2012 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">18</ont:taux2012>
+        <ont:taux2013 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">18</ont:taux2013>
+        <ont:taux2014 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">24</ont:taux2014>
+        <ont:taux2015 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">23</ont:taux2015>
+        <ont:taux2016 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">26</ont:taux2016>
+        <ont:taux2017 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">24</ont:taux2017>
+        <rdfs1:taux2008 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">13</rdfs1:taux2008>
+        <rdfs1:taux2009 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">19</rdfs1:taux2009>
+        <rdfs1:taux2010 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">19</rdfs1:taux2010>
+    </NamedIndividual>
+    
+
+
+    <!-- http://www.co-ode.org/ontologies/ont.owl#HAUTS-BASSINS -->
+
+    <NamedIndividual rdf:about="http://www.co-ode.org/ontologies/ont.owl#HAUTS-BASSINS">
+        <rdf:type rdf:resource="http://www.data.gov.bf/ressource/rdfs#Region"/>
+        <ont:taux2011 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">25</ont:taux2011>
+        <ont:taux2012 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">22</ont:taux2012>
+        <ont:taux2013 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">23</ont:taux2013>
+        <ont:taux2014 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">26</ont:taux2014>
+        <ont:taux2015 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">24</ont:taux2015>
+        <ont:taux2016 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">25</ont:taux2016>
+        <ont:taux2017 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">22</ont:taux2017>
+        <rdfs1:taux2008 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">25</rdfs1:taux2008>
+        <rdfs1:taux2009 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">25</rdfs1:taux2009>
+        <rdfs1:taux2010 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">26</rdfs1:taux2010>
+    </NamedIndividual>
+    
+
+
+    <!-- http://www.co-ode.org/ontologies/ont.owl#HOUET -->
+
+    <NamedIndividual rdf:about="http://www.co-ode.org/ontologies/ont.owl#HOUET">
+        <rdf:type rdf:resource="http://www.data.gov.bf/ressource/rdfs#Province"/>
+        <ont:taux2011 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">27</ont:taux2011>
+        <ont:taux2012 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">23</ont:taux2012>
+        <ont:taux2013 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">23</ont:taux2013>
+        <ont:taux2014 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">30</ont:taux2014>
+        <ont:taux2015 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">22</ont:taux2015>
+        <ont:taux2016 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">27</ont:taux2016>
+        <ont:taux2017 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">22</ont:taux2017>
+        <rdfs1:taux2008 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">28</rdfs1:taux2008>
+        <rdfs1:taux2009 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">28</rdfs1:taux2009>
+        <rdfs1:taux2010 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">29</rdfs1:taux2010>
+    </NamedIndividual>
+    
+
+
+    <!-- http://www.co-ode.org/ontologies/ont.owl#IOBA -->
+
+    <NamedIndividual rdf:about="http://www.co-ode.org/ontologies/ont.owl#IOBA">
+        <rdf:type rdf:resource="http://www.data.gov.bf/ressource/rdfs#Province"/>
+        <ont:taux2011 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">17</ont:taux2011>
+        <ont:taux2012 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">21</ont:taux2012>
+        <ont:taux2013 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">22</ont:taux2013>
+        <ont:taux2014 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">19</ont:taux2014>
+        <ont:taux2015 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">21</ont:taux2015>
+        <ont:taux2016 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">22</ont:taux2016>
+        <ont:taux2017 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">20</ont:taux2017>
+        <rdfs1:taux2008 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">22</rdfs1:taux2008>
+        <rdfs1:taux2009 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">24</rdfs1:taux2009>
+        <rdfs1:taux2010 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">18</rdfs1:taux2010>
+    </NamedIndividual>
+    
+
+
+    <!-- http://www.co-ode.org/ontologies/ont.owl#KADIOGO -->
+
+    <NamedIndividual rdf:about="http://www.co-ode.org/ontologies/ont.owl#KADIOGO">
+        <rdf:type rdf:resource="http://www.data.gov.bf/ressource/rdfs#Province"/>
+        <ont:taux2011 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">30</ont:taux2011>
+        <ont:taux2012 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">30</ont:taux2012>
+        <ont:taux2013 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">28</ont:taux2013>
+        <ont:taux2014 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">30</ont:taux2014>
+        <ont:taux2015 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">27</ont:taux2015>
+        <ont:taux2016 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">24</ont:taux2016>
+        <ont:taux2017 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">26</ont:taux2017>
+        <rdfs1:taux2008 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">17</rdfs1:taux2008>
+        <rdfs1:taux2009 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">26</rdfs1:taux2009>
+        <rdfs1:taux2010 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">27</rdfs1:taux2010>
+    </NamedIndividual>
+    
+
+
+    <!-- http://www.co-ode.org/ontologies/ont.owl#KENEDOUGOU -->
+
+    <NamedIndividual rdf:about="http://www.co-ode.org/ontologies/ont.owl#KENEDOUGOU">
+        <rdf:type rdf:resource="http://www.data.gov.bf/ressource/rdfs#Province"/>
+        <ont:taux2011 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">23</ont:taux2011>
+        <ont:taux2012 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">20</ont:taux2012>
+        <ont:taux2013 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">25</ont:taux2013>
+        <ont:taux2014 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">23</ont:taux2014>
+        <ont:taux2015 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">26</ont:taux2015>
+        <ont:taux2016 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">24</ont:taux2016>
+        <ont:taux2017 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">20</ont:taux2017>
+        <rdfs1:taux2008 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">26</rdfs1:taux2008>
+        <rdfs1:taux2009 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">21</rdfs1:taux2009>
+        <rdfs1:taux2010 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">23</rdfs1:taux2010>
+    </NamedIndividual>
+    
+
+
+    <!-- http://www.co-ode.org/ontologies/ont.owl#KOMONDJARI -->
+
+    <NamedIndividual rdf:about="http://www.co-ode.org/ontologies/ont.owl#KOMONDJARI">
+        <rdf:type rdf:resource="http://www.data.gov.bf/ressource/rdfs#Province"/>
+        <ont:taux2011 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">21</ont:taux2011>
+        <ont:taux2012 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">15</ont:taux2012>
+        <ont:taux2013 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">19</ont:taux2013>
+        <ont:taux2014 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">25</ont:taux2014>
+        <ont:taux2015 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">22</ont:taux2015>
+        <ont:taux2016 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">19</ont:taux2016>
+        <ont:taux2017 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">18</ont:taux2017>
+        <rdfs1:taux2008 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">22</rdfs1:taux2008>
+        <rdfs1:taux2009 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">22</rdfs1:taux2009>
+        <rdfs1:taux2010 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">18</rdfs1:taux2010>
+    </NamedIndividual>
+    
+
+
+    <!-- http://www.co-ode.org/ontologies/ont.owl#KOMPIENGA -->
+
+    <NamedIndividual rdf:about="http://www.co-ode.org/ontologies/ont.owl#KOMPIENGA">
+        <rdf:type rdf:resource="http://www.data.gov.bf/ressource/rdfs#Province"/>
+        <ont:taux2011 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">21</ont:taux2011>
+        <ont:taux2012 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">22</ont:taux2012>
+        <ont:taux2013 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">21</ont:taux2013>
+        <ont:taux2014 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">19</ont:taux2014>
+        <ont:taux2015 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">15</ont:taux2015>
+        <ont:taux2016 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">16</ont:taux2016>
+        <ont:taux2017 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">16</ont:taux2017>
+        <rdfs1:taux2008 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">18</rdfs1:taux2008>
+        <rdfs1:taux2009 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">26</rdfs1:taux2009>
+        <rdfs1:taux2010 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">19</rdfs1:taux2010>
+    </NamedIndividual>
+    
+
+
+    <!-- http://www.co-ode.org/ontologies/ont.owl#KOULPELGO -->
+
+    <NamedIndividual rdf:about="http://www.co-ode.org/ontologies/ont.owl#KOULPELGO">
+        <rdf:type rdf:resource="http://www.data.gov.bf/ressource/rdfs#Province"/>
+        <ont:taux2011 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">17</ont:taux2011>
+        <ont:taux2012 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">24</ont:taux2012>
+        <ont:taux2013 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">20</ont:taux2013>
+        <ont:taux2014 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">21</ont:taux2014>
+        <ont:taux2015 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">21</ont:taux2015>
+        <ont:taux2016 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">19</ont:taux2016>
+        <ont:taux2017 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">15</ont:taux2017>
+        <rdfs1:taux2008 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">18</rdfs1:taux2008>
+        <rdfs1:taux2009 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">17</rdfs1:taux2009>
+        <rdfs1:taux2010 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">15</rdfs1:taux2010>
+    </NamedIndividual>
+    
+
+
+    <!-- http://www.co-ode.org/ontologies/ont.owl#KOURITENGA -->
+
+    <NamedIndividual rdf:about="http://www.co-ode.org/ontologies/ont.owl#KOURITENGA">
+        <rdf:type rdf:resource="http://www.data.gov.bf/ressource/rdfs#Province"/>
+        <ont:taux2011 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">15</ont:taux2011>
+        <ont:taux2012 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">20</ont:taux2012>
+        <ont:taux2013 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">18</ont:taux2013>
+        <ont:taux2014 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">19</ont:taux2014>
+        <ont:taux2015 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">15</ont:taux2015>
+        <ont:taux2016 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">15</ont:taux2016>
+        <ont:taux2017 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">14</ont:taux2017>
+        <rdfs1:taux2008 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">12</rdfs1:taux2008>
+        <rdfs1:taux2009 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">16</rdfs1:taux2009>
+        <rdfs1:taux2010 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">16</rdfs1:taux2010>
+    </NamedIndividual>
+    
+
+
+    <!-- http://www.co-ode.org/ontologies/ont.owl#KOURWEOGO -->
+
+    <NamedIndividual rdf:about="http://www.co-ode.org/ontologies/ont.owl#KOURWEOGO">
+        <rdf:type rdf:resource="http://www.data.gov.bf/ressource/rdfs#Province"/>
+        <ont:taux2011 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">30</ont:taux2011>
+        <ont:taux2012 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">31</ont:taux2012>
+        <ont:taux2013 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">28</ont:taux2013>
+        <ont:taux2014 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">28</ont:taux2014>
+        <ont:taux2015 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">33</ont:taux2015>
+        <ont:taux2016 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">27</ont:taux2016>
+        <ont:taux2017 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">23</ont:taux2017>
+        <rdfs1:taux2008 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">25</rdfs1:taux2008>
+        <rdfs1:taux2009 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">30</rdfs1:taux2009>
+        <rdfs1:taux2010 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">27</rdfs1:taux2010>
+    </NamedIndividual>
+    
+
+
+    <!-- http://www.co-ode.org/ontologies/ont.owl#LERABA -->
+
+    <NamedIndividual rdf:about="http://www.co-ode.org/ontologies/ont.owl#LERABA">
+        <rdf:type rdf:resource="http://www.data.gov.bf/ressource/rdfs#Province"/>
+        <ont:taux2011 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">23</ont:taux2011>
+        <ont:taux2012 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">23</ont:taux2012>
+        <ont:taux2013 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">22</ont:taux2013>
+        <ont:taux2014 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">29</ont:taux2014>
+        <ont:taux2015 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">28</ont:taux2015>
+        <ont:taux2016 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">30</ont:taux2016>
+        <ont:taux2017 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">24</ont:taux2017>
+        <rdfs1:taux2008 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">22</rdfs1:taux2008>
+        <rdfs1:taux2009 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">28</rdfs1:taux2009>
+        <rdfs1:taux2010 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">21</rdfs1:taux2010>
+    </NamedIndividual>
+    
+
+
+    <!-- http://www.co-ode.org/ontologies/ont.owl#LOROUM -->
+
+    <NamedIndividual rdf:about="http://www.co-ode.org/ontologies/ont.owl#LOROUM">
+        <rdf:type rdf:resource="http://www.data.gov.bf/ressource/rdfs#Province"/>
+        <ont:taux2011 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">24</ont:taux2011>
+        <ont:taux2012 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">23</ont:taux2012>
+        <ont:taux2013 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">30</ont:taux2013>
+        <ont:taux2014 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">28</ont:taux2014>
+        <ont:taux2015 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">29</ont:taux2015>
+        <ont:taux2016 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">22</ont:taux2016>
+        <ont:taux2017 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">22</ont:taux2017>
+        <rdfs1:taux2008 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">36</rdfs1:taux2008>
+        <rdfs1:taux2009 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">17</rdfs1:taux2009>
+        <rdfs1:taux2010 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">21</rdfs1:taux2010>
+    </NamedIndividual>
+    
+
+
+    <!-- http://www.co-ode.org/ontologies/ont.owl#MOUHOUN -->
+
+    <NamedIndividual rdf:about="http://www.co-ode.org/ontologies/ont.owl#MOUHOUN">
+        <rdf:type rdf:resource="http://www.data.gov.bf/ressource/rdfs#Province"/>
+        <ont:taux2011 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">31</ont:taux2011>
+        <ont:taux2012 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">20</ont:taux2012>
+        <ont:taux2013 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">29</ont:taux2013>
+        <ont:taux2014 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">25</ont:taux2014>
+        <ont:taux2015 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">27</ont:taux2015>
+        <ont:taux2016 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">28</ont:taux2016>
+        <ont:taux2017 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">27</ont:taux2017>
+        <rdfs1:taux2008 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">26</rdfs1:taux2008>
+        <rdfs1:taux2009 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">25</rdfs1:taux2009>
+        <rdfs1:taux2010 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">26</rdfs1:taux2010>
+    </NamedIndividual>
+    
+
+
+    <!-- http://www.co-ode.org/ontologies/ont.owl#NAHOURI -->
+
+    <NamedIndividual rdf:about="http://www.co-ode.org/ontologies/ont.owl#NAHOURI">
+        <rdf:type rdf:resource="http://www.data.gov.bf/ressource/rdfs#Province"/>
+        <ont:taux2011 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">18</ont:taux2011>
+        <ont:taux2012 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">17</ont:taux2012>
+        <ont:taux2013 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">16</ont:taux2013>
+        <ont:taux2014 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">22</ont:taux2014>
+        <ont:taux2015 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">18</ont:taux2015>
+        <ont:taux2016 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">17</ont:taux2016>
+        <ont:taux2017 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">19</ont:taux2017>
+        <rdfs1:taux2008 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">17</rdfs1:taux2008>
+        <rdfs1:taux2009 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">23</rdfs1:taux2009>
+        <rdfs1:taux2010 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">20</rdfs1:taux2010>
+    </NamedIndividual>
+    
+
+
+    <!-- http://www.co-ode.org/ontologies/ont.owl#NAMENTENGA -->
+
+    <NamedIndividual rdf:about="http://www.co-ode.org/ontologies/ont.owl#NAMENTENGA">
+        <rdf:type rdf:resource="http://www.data.gov.bf/ressource/rdfs#Province"/>
+        <ont:taux2011 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">19</ont:taux2011>
+        <ont:taux2012 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">24</ont:taux2012>
+        <ont:taux2013 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">24</ont:taux2013>
+        <ont:taux2014 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">21</ont:taux2014>
+        <ont:taux2015 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">23</ont:taux2015>
+        <ont:taux2016 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">18</ont:taux2016>
+        <ont:taux2017 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">17</ont:taux2017>
+        <rdfs1:taux2008 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">25</rdfs1:taux2008>
+        <rdfs1:taux2009 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">23</rdfs1:taux2009>
+        <rdfs1:taux2010 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">22</rdfs1:taux2010>
+    </NamedIndividual>
+    
+
+
+    <!-- http://www.co-ode.org/ontologies/ont.owl#NAYALA -->
+
+    <NamedIndividual rdf:about="http://www.co-ode.org/ontologies/ont.owl#NAYALA">
+        <rdf:type rdf:resource="http://www.data.gov.bf/ressource/rdfs#Province"/>
+        <ont:taux2011 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">20</ont:taux2011>
+        <ont:taux2012 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">15</ont:taux2012>
+        <ont:taux2013 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">22</ont:taux2013>
+        <ont:taux2014 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">27</ont:taux2014>
+        <ont:taux2015 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">26</ont:taux2015>
+        <ont:taux2016 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">24</ont:taux2016>
+        <ont:taux2017 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">24</ont:taux2017>
+        <rdfs1:taux2008 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">29</rdfs1:taux2008>
+        <rdfs1:taux2009 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">25</rdfs1:taux2009>
+        <rdfs1:taux2010 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">29</rdfs1:taux2010>
+    </NamedIndividual>
+    
+
+
+    <!-- http://www.co-ode.org/ontologies/ont.owl#NORD -->
+
+    <NamedIndividual rdf:about="http://www.co-ode.org/ontologies/ont.owl#NORD">
+        <rdf:type rdf:resource="http://www.data.gov.bf/ressource/rdfs#Region"/>
+        <ont:taux2011 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">24</ont:taux2011>
+        <ont:taux2012 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">26</ont:taux2012>
+        <ont:taux2013 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">26</ont:taux2013>
+        <ont:taux2014 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">30</ont:taux2014>
+        <ont:taux2015 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">25</ont:taux2015>
+        <ont:taux2016 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">22</ont:taux2016>
+        <ont:taux2017 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">20</ont:taux2017>
+        <rdfs1:taux2008 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">21</rdfs1:taux2008>
+        <rdfs1:taux2009 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">23</rdfs1:taux2009>
+        <rdfs1:taux2010 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">25</rdfs1:taux2010>
+    </NamedIndividual>
+    
+
+
+    <!-- http://www.co-ode.org/ontologies/ont.owl#NOUMBIEL -->
+
+    <NamedIndividual rdf:about="http://www.co-ode.org/ontologies/ont.owl#NOUMBIEL">
+        <rdf:type rdf:resource="http://www.data.gov.bf/ressource/rdfs#Province"/>
+        <ont:taux2011 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">18</ont:taux2011>
+        <ont:taux2012 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">23</ont:taux2012>
+        <ont:taux2013 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">17</ont:taux2013>
+        <ont:taux2014 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">17</ont:taux2014>
+        <ont:taux2015 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">20</ont:taux2015>
+        <ont:taux2016 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">16</ont:taux2016>
+        <ont:taux2017 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">21</ont:taux2017>
+        <rdfs1:taux2008 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">29</rdfs1:taux2008>
+        <rdfs1:taux2009 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">22</rdfs1:taux2009>
+        <rdfs1:taux2010 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">23</rdfs1:taux2010>
+    </NamedIndividual>
+    
+
+
+    <!-- http://www.co-ode.org/ontologies/ont.owl#OUBRITENGA -->
+
+    <NamedIndividual rdf:about="http://www.co-ode.org/ontologies/ont.owl#OUBRITENGA">
+        <rdf:type rdf:resource="http://www.data.gov.bf/ressource/rdfs#Province"/>
+        <ont:taux2011 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">29</ont:taux2011>
+        <ont:taux2012 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">28</ont:taux2012>
+        <ont:taux2013 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">29</ont:taux2013>
+        <ont:taux2014 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">31</ont:taux2014>
+        <ont:taux2015 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">31</ont:taux2015>
+        <ont:taux2016 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">22</ont:taux2016>
+        <ont:taux2017 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">25</ont:taux2017>
+        <rdfs1:taux2008 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">22</rdfs1:taux2008>
+        <rdfs1:taux2009 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">23</rdfs1:taux2009>
+        <rdfs1:taux2010 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">30</rdfs1:taux2010>
+    </NamedIndividual>
+    
+
+
+    <!-- http://www.co-ode.org/ontologies/ont.owl#OUDALAN -->
+
+    <NamedIndividual rdf:about="http://www.co-ode.org/ontologies/ont.owl#OUDALAN">
+        <rdf:type rdf:resource="http://www.data.gov.bf/ressource/rdfs#Province"/>
+        <ont:taux2011 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">27</ont:taux2011>
+        <ont:taux2012 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">25</ont:taux2012>
+        <ont:taux2013 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">24</ont:taux2013>
+        <ont:taux2014 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">31</ont:taux2014>
+        <ont:taux2015 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">31</ont:taux2015>
+        <ont:taux2016 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">31</ont:taux2016>
+        <ont:taux2017 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">22</ont:taux2017>
+        <rdfs1:taux2008 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">22</rdfs1:taux2008>
+        <rdfs1:taux2009 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">19</rdfs1:taux2009>
+        <rdfs1:taux2010 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">24</rdfs1:taux2010>
+    </NamedIndividual>
+    
+
+
+    <!-- http://www.co-ode.org/ontologies/ont.owl#PASSORE -->
+
+    <NamedIndividual rdf:about="http://www.co-ode.org/ontologies/ont.owl#PASSORE">
+        <rdf:type rdf:resource="http://www.data.gov.bf/ressource/rdfs#Province"/>
+        <ont:taux2011 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">23</ont:taux2011>
+        <ont:taux2012 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">24</ont:taux2012>
+        <ont:taux2013 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">24</ont:taux2013>
+        <ont:taux2014 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">28</ont:taux2014>
+        <ont:taux2015 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">22</ont:taux2015>
+        <ont:taux2016 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">19</ont:taux2016>
+        <ont:taux2017 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">21</ont:taux2017>
+        <rdfs1:taux2008 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">22</rdfs1:taux2008>
+        <rdfs1:taux2009 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">24</rdfs1:taux2009>
+        <rdfs1:taux2010 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">29</rdfs1:taux2010>
+    </NamedIndividual>
+    
+
+
+    <!-- http://www.co-ode.org/ontologies/ont.owl#PLATEAU_CENTRAL -->
+
+    <NamedIndividual rdf:about="http://www.co-ode.org/ontologies/ont.owl#PLATEAU_CENTRAL">
+        <rdf:type rdf:resource="http://www.data.gov.bf/ressource/rdfs#Region"/>
+        <ont:taux2011 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">26</ont:taux2011>
+        <ont:taux2012 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">25</ont:taux2012>
+        <ont:taux2013 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">25</ont:taux2013>
+        <ont:taux2014 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">26</ont:taux2014>
+        <ont:taux2015 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">27</ont:taux2015>
+        <ont:taux2016 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">23</ont:taux2016>
+        <ont:taux2017 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">23</ont:taux2017>
+        <rdfs1:taux2008 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">22</rdfs1:taux2008>
+        <rdfs1:taux2009 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">24</rdfs1:taux2009>
+        <rdfs1:taux2010 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">24</rdfs1:taux2010>
+    </NamedIndividual>
+    
+
+
+    <!-- http://www.co-ode.org/ontologies/ont.owl#PONI -->
+
+    <NamedIndividual rdf:about="http://www.co-ode.org/ontologies/ont.owl#PONI">
+        <rdf:type rdf:resource="http://www.data.gov.bf/ressource/rdfs#Province"/>
+        <ont:taux2011 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">14</ont:taux2011>
+        <ont:taux2012 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">14</ont:taux2012>
+        <ont:taux2013 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">13</ont:taux2013>
+        <ont:taux2014 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">17</ont:taux2014>
+        <ont:taux2015 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">15</ont:taux2015>
+        <ont:taux2016 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">15</ont:taux2016>
+        <ont:taux2017 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">19</ont:taux2017>
+        <rdfs1:taux2008 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">17</rdfs1:taux2008>
+        <rdfs1:taux2009 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">18</rdfs1:taux2009>
+        <rdfs1:taux2010 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">18</rdfs1:taux2010>
+    </NamedIndividual>
+    
+
+
+    <!-- http://www.co-ode.org/ontologies/ont.owl#SAHEL -->
+
+    <NamedIndividual rdf:about="http://www.co-ode.org/ontologies/ont.owl#SAHEL">
+        <rdf:type rdf:resource="http://www.data.gov.bf/ressource/rdfs#Region"/>
+        <ont:taux2011 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">23</ont:taux2011>
+        <ont:taux2012 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">23</ont:taux2012>
+        <ont:taux2013 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">19</ont:taux2013>
+        <ont:taux2014 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">25</ont:taux2014>
+        <ont:taux2015 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">21</ont:taux2015>
+        <ont:taux2016 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">25</ont:taux2016>
+        <ont:taux2017 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">23</ont:taux2017>
+        <rdfs1:taux2008 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">24</rdfs1:taux2008>
+        <rdfs1:taux2009 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">20</rdfs1:taux2009>
+        <rdfs1:taux2010 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">23</rdfs1:taux2010>
+    </NamedIndividual>
+    
+
+
+    <!-- http://www.co-ode.org/ontologies/ont.owl#SANGUIE -->
+
+    <NamedIndividual rdf:about="http://www.co-ode.org/ontologies/ont.owl#SANGUIE">
+        <rdf:type rdf:resource="http://www.data.gov.bf/ressource/rdfs#Province"/>
+        <ont:taux2011 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">16</ont:taux2011>
+        <ont:taux2012 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">20</ont:taux2012>
+        <ont:taux2013 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">18</ont:taux2013>
+        <ont:taux2014 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">20</ont:taux2014>
+        <ont:taux2015 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">20</ont:taux2015>
+        <ont:taux2016 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">18</ont:taux2016>
+        <ont:taux2017 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">22</ont:taux2017>
+        <rdfs1:taux2008 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">19</rdfs1:taux2008>
+        <rdfs1:taux2009 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">19</rdfs1:taux2009>
+        <rdfs1:taux2010 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">18</rdfs1:taux2010>
+    </NamedIndividual>
+    
+
+
+    <!-- http://www.co-ode.org/ontologies/ont.owl#SANMATENGA -->
+
+    <NamedIndividual rdf:about="http://www.co-ode.org/ontologies/ont.owl#SANMATENGA">
+        <rdf:type rdf:resource="http://www.data.gov.bf/ressource/rdfs#Province"/>
+        <ont:taux2011 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">20</ont:taux2011>
+        <ont:taux2012 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">21</ont:taux2012>
+        <ont:taux2012 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">23</ont:taux2012>
+        <ont:taux2013 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">21</ont:taux2013>
+        <ont:taux2014 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">26</ont:taux2014>
+        <ont:taux2015 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">26</ont:taux2015>
+        <ont:taux2016 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">26</ont:taux2016>
+        <ont:taux2017 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">26</ont:taux2017>
+        <rdfs1:taux2008 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">18</rdfs1:taux2008>
+        <rdfs1:taux2009 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">22</rdfs1:taux2009>
+        <rdfs1:taux2010 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">19</rdfs1:taux2010>
+    </NamedIndividual>
+    
+
+
+    <!-- http://www.co-ode.org/ontologies/ont.owl#SENO -->
+
+    <NamedIndividual rdf:about="http://www.co-ode.org/ontologies/ont.owl#SENO">
+        <rdf:type rdf:resource="http://www.data.gov.bf/ressource/rdfs#Province"/>
+        <ont:taux2011 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">29</ont:taux2011>
+        <ont:taux2012 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">24</ont:taux2012>
+        <ont:taux2013 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">20</ont:taux2013>
+        <ont:taux2014 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">28</ont:taux2014>
+        <ont:taux2015 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">16</ont:taux2015>
+        <ont:taux2016 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">29</ont:taux2016>
+        <ont:taux2017 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">27</ont:taux2017>
+        <rdfs1:taux2008 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">18</rdfs1:taux2008>
+        <rdfs1:taux2009 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">19</rdfs1:taux2009>
+        <rdfs1:taux2010 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">20</rdfs1:taux2010>
+    </NamedIndividual>
+    
+
+
+    <!-- http://www.co-ode.org/ontologies/ont.owl#SISSILI -->
+
+    <NamedIndividual rdf:about="http://www.co-ode.org/ontologies/ont.owl#SISSILI">
+        <rdf:type rdf:resource="http://www.data.gov.bf/ressource/rdfs#Province"/>
+        <ont:taux2011 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">24</ont:taux2011>
+        <ont:taux2012 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">29</ont:taux2012>
+        <ont:taux2013 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">24</ont:taux2013>
+        <ont:taux2014 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">24</ont:taux2014>
+        <ont:taux2015 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">28</ont:taux2015>
+        <ont:taux2016 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">17</ont:taux2016>
+        <ont:taux2017 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">28</ont:taux2017>
+        <rdfs1:taux2008 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">23</rdfs1:taux2008>
+        <rdfs1:taux2009 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">24</rdfs1:taux2009>
+        <rdfs1:taux2010 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">27</rdfs1:taux2010>
+    </NamedIndividual>
+    
+
+
+    <!-- http://www.co-ode.org/ontologies/ont.owl#SOUM -->
+
+    <NamedIndividual rdf:about="http://www.co-ode.org/ontologies/ont.owl#SOUM">
+        <rdf:type rdf:resource="http://www.data.gov.bf/ressource/rdfs#Province"/>
+        <ont:taux2011 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3</ont:taux2011>
+        <ont:taux2012 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">21</ont:taux2012>
+        <ont:taux2013 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">11</ont:taux2013>
+        <ont:taux2014 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">22</ont:taux2014>
+        <ont:taux2015 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">20</ont:taux2015>
+        <ont:taux2016 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">24</ont:taux2016>
+        <ont:taux2017 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">24</ont:taux2017>
+        <rdfs1:taux2008 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">29</rdfs1:taux2008>
+        <rdfs1:taux2009 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">18</rdfs1:taux2009>
+        <rdfs1:taux2010 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">22</rdfs1:taux2010>
+    </NamedIndividual>
+    
+
+
+    <!-- http://www.co-ode.org/ontologies/ont.owl#SUD-OUEST -->
+
+    <NamedIndividual rdf:about="http://www.co-ode.org/ontologies/ont.owl#SUD-OUEST">
+        <rdf:type rdf:resource="http://www.data.gov.bf/ressource/rdfs#Region"/>
+        <ont:taux2011 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">19</ont:taux2011>
+        <ont:taux2012 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">22</ont:taux2012>
+        <ont:taux2013 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">19</ont:taux2013>
+        <ont:taux2014 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">19</ont:taux2014>
+        <ont:taux2015 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">19</ont:taux2015>
+        <ont:taux2016 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">20</ont:taux2016>
+        <ont:taux2017 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">20</ont:taux2017>
+        <rdfs1:taux2008 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">21</rdfs1:taux2008>
+        <rdfs1:taux2009 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">22</rdfs1:taux2009>
+        <rdfs1:taux2010 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">21</rdfs1:taux2010>
+    </NamedIndividual>
+    
+
+
+    <!-- http://www.co-ode.org/ontologies/ont.owl#TAPOA -->
+
+    <NamedIndividual rdf:about="http://www.co-ode.org/ontologies/ont.owl#TAPOA">
+        <rdf:type rdf:resource="http://www.data.gov.bf/ressource/rdfs#Province"/>
+        <ont:taux2011 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">22</ont:taux2011>
+        <ont:taux2012 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">15</ont:taux2012>
+        <ont:taux2013 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">25</ont:taux2013>
+        <ont:taux2014 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">18</ont:taux2014>
+        <ont:taux2015 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">24</ont:taux2015>
+        <ont:taux2016 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">24</ont:taux2016>
+        <ont:taux2017 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">29</ont:taux2017>
+        <rdfs1:taux2008 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">21</rdfs1:taux2008>
+        <rdfs1:taux2009 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">25</rdfs1:taux2009>
+        <rdfs1:taux2010 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">23</rdfs1:taux2010>
+    </NamedIndividual>
+    
+
+
+    <!-- http://www.co-ode.org/ontologies/ont.owl#TUY -->
+
+    <NamedIndividual rdf:about="http://www.co-ode.org/ontologies/ont.owl#TUY">
+        <rdf:type rdf:resource="http://www.data.gov.bf/ressource/rdfs#Province"/>
+        <ont:taux2011 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">22</ont:taux2011>
+        <ont:taux2012 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">25</ont:taux2012>
+        <ont:taux2013 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">17</ont:taux2013>
+        <ont:taux2014 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">28</ont:taux2014>
+        <ont:taux2015 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">22</ont:taux2015>
+        <ont:taux2016 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">24</ont:taux2016>
+        <ont:taux2017 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">25</ont:taux2017>
+        <rdfs1:taux2008 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">20</rdfs1:taux2008>
+        <rdfs1:taux2009 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">24</rdfs1:taux2009>
+        <rdfs1:taux2010 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">24</rdfs1:taux2010>
+    </NamedIndividual>
+    
+
+
+    <!-- http://www.co-ode.org/ontologies/ont.owl#YAGHA -->
+
+    <NamedIndividual rdf:about="http://www.co-ode.org/ontologies/ont.owl#YAGHA">
+        <rdf:type rdf:resource="http://www.data.gov.bf/ressource/rdfs#Province"/>
+        <ont:taux2011 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">20</ont:taux2011>
+        <ont:taux2012 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">22</ont:taux2012>
+        <ont:taux2013 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">21</ont:taux2013>
+        <ont:taux2014 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">26</ont:taux2014>
+        <ont:taux2015 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">22</ont:taux2015>
+        <ont:taux2016 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">19</ont:taux2016>
+        <ont:taux2017 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">19</ont:taux2017>
+        <rdfs1:taux2008 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">26</rdfs1:taux2008>
+        <rdfs1:taux2009 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">23</rdfs1:taux2009>
+        <rdfs1:taux2010 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">24</rdfs1:taux2010>
+    </NamedIndividual>
+    
+
+
+    <!-- http://www.co-ode.org/ontologies/ont.owl#YATENGA -->
+
+    <NamedIndividual rdf:about="http://www.co-ode.org/ontologies/ont.owl#YATENGA">
+        <rdf:type rdf:resource="http://www.data.gov.bf/ressource/rdfs#Province"/>
+        <ont:taux2011 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">25</ont:taux2011>
+        <ont:taux2012 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">26</ont:taux2012>
+        <ont:taux2013 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">23</ont:taux2013>
+        <ont:taux2014 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">34</ont:taux2014>
+        <ont:taux2015 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">24</ont:taux2015>
+        <ont:taux2016 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">17</ont:taux2016>
+        <ont:taux2017 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">18</ont:taux2017>
+        <rdfs1:taux2008 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">19</rdfs1:taux2008>
+        <rdfs1:taux2009 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">24</rdfs1:taux2009>
+        <rdfs1:taux2010 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">17</rdfs1:taux2010>
+    </NamedIndividual>
+    
+
+
+    <!-- http://www.co-ode.org/ontologies/ont.owl#ZIRO -->
+
+    <NamedIndividual rdf:about="http://www.co-ode.org/ontologies/ont.owl#ZIRO">
+        <rdf:type rdf:resource="http://www.data.gov.bf/ressource/rdfs#Province"/>
+        <ont:taux2011 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">0</ont:taux2011>
+        <ont:taux2012 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">27</ont:taux2012>
+        <ont:taux2013 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">28</ont:taux2013>
+        <ont:taux2014 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">31</ont:taux2014>
+        <ont:taux2015 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">29</ont:taux2015>
+        <ont:taux2016 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">28</ont:taux2016>
+        <ont:taux2017 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">27</ont:taux2017>
+        <rdfs1:taux2008 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">27</rdfs1:taux2008>
+        <rdfs1:taux2009 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">29</rdfs1:taux2009>
+        <rdfs1:taux2010 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">28</rdfs1:taux2010>
+    </NamedIndividual>
+    
+
+
+    <!-- http://www.co-ode.org/ontologies/ont.owl#ZONDOMA -->
+
+    <NamedIndividual rdf:about="http://www.co-ode.org/ontologies/ont.owl#ZONDOMA">
+        <rdf:type rdf:resource="http://www.data.gov.bf/ressource/rdfs#Province"/>
+        <ont:taux2011 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">26</ont:taux2011>
+        <ont:taux2012 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">33</ont:taux2012>
+        <ont:taux2013 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">30</ont:taux2013>
+        <ont:taux2014 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">30</ont:taux2014>
+        <ont:taux2015 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">26</ont:taux2015>
+        <ont:taux2016 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">22</ont:taux2016>
+        <ont:taux2017 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">20</ont:taux2017>
+        <rdfs1:taux2008 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">20</rdfs1:taux2008>
+        <rdfs1:taux2009 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">28</rdfs1:taux2009>
+        <rdfs1:taux2010 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">30</rdfs1:taux2010>
+    </NamedIndividual>
+    
+
+
+    <!-- http://www.co-ode.org/ontologies/ont.owl#ZOUNDWEOGO -->
+
+    <NamedIndividual rdf:about="http://www.co-ode.org/ontologies/ont.owl#ZOUNDWEOGO">
+        <rdf:type rdf:resource="http://www.data.gov.bf/ressource/rdfs#Province"/>
+        <ont:taux2011 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">19</ont:taux2011>
+        <ont:taux2012 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">22</ont:taux2012>
+        <ont:taux2013 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">16</ont:taux2013>
+        <ont:taux2014 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">23</ont:taux2014>
+        <ont:taux2015 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">27</ont:taux2015>
+        <ont:taux2016 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">22</ont:taux2016>
+        <ont:taux2017 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">25</ont:taux2017>
+        <rdfs1:taux2008 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">15</rdfs1:taux2008>
+        <rdfs1:taux2009 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">30</rdfs1:taux2009>
+        <rdfs1:taux2010 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">17</rdfs1:taux2010>
+    </NamedIndividual>
+    
+
+
+    <!-- http://www.data.gov.bf/ressource/rdfs#Banque-Mondiale -->
+
+    <NamedIndividual rdf:about="http://www.data.gov.bf/ressource/rdfs#Banque-Mondiale">
+        <rdf:type rdf:resource="http://www.data.gov.bf/ressource/rdfs#Producteur"/>
+        <foaf:name rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal">Banque mondiale</foaf:name>
+    </NamedIndividual>
+    
+
+
+    <!-- http://www.data.gov.bf/ressource/rdfs#Banque_Africaine_de_Développement -->
+
+    <NamedIndividual rdf:about="http://www.data.gov.bf/ressource/rdfs#Banque_Africaine_de_Développement"/>
+    
+
+
+    <!-- http://www.data.gov.bf/ressource/rdfs#Center_for_International_Earth_Science_Information_Network -->
+
+    <NamedIndividual rdf:about="http://www.data.gov.bf/ressource/rdfs#Center_for_International_Earth_Science_Information_Network"/>
+    
+
+
+    <!-- http://www.data.gov.bf/ressource/rdfs#Commission_Électorale_Nationale_Indépendante -->
+
+    <NamedIndividual rdf:about="http://www.data.gov.bf/ressource/rdfs#Commission_Électorale_Nationale_Indépendante"/>
+    
+
+
+    <!-- http://www.data.gov.bf/ressource/rdfs#Institut_National_de_la_Statistique_et_de_la_Démographie -->
+
+    <NamedIndividual rdf:about="http://www.data.gov.bf/ressource/rdfs#Institut_National_de_la_Statistique_et_de_la_Démographie"/>
+    
+
+
+    <!-- http://www.data.gov.bf/ressource/rdfs#Institut_des_Sciences_des_Sociétés -->
+
+    <NamedIndividual rdf:about="http://www.data.gov.bf/ressource/rdfs#Institut_des_Sciences_des_Sociétés"/>
+    
+
+
+    <!-- http://www.data.gov.bf/ressource/rdfs#Ministère_de_lAction_Sociale_et_de_la_Solidarité_Nationale -->
+
+    <NamedIndividual rdf:about="http://www.data.gov.bf/ressource/rdfs#Ministère_de_lAction_Sociale_et_de_la_Solidarité_Nationale">
+        <rdf:type rdf:resource="http://www.data.gov.bf/ressource/rdfs#Producteur"/>
+        <foaf:name>Ministère de l&apos;Action Sociale et de la Solidarité Nationale</foaf:name>
+    </NamedIndividual>
+    
+
+
+    <!-- http://www.data.gov.bf/ressource/rdfs#Ministère_de_lAdministration_Territoriale_et_de_la_Sécurité -->
+
+    <NamedIndividual rdf:about="http://www.data.gov.bf/ressource/rdfs#Ministère_de_lAdministration_Territoriale_et_de_la_Sécurité">
+        <rdf:type rdf:resource="http://www.data.gov.bf/ressource/rdfs#Producteur"/>
+        <foaf:name>Ministère de l&apos;Administration Territoriale et de la Sécurité</foaf:name>
+    </NamedIndividual>
+    
+
+
+    <!-- http://www.data.gov.bf/ressource/rdfs#Ministère_de_lAgriculture_et_des_Aménagements_Hydro-agricoles -->
+
+    <NamedIndividual rdf:about="http://www.data.gov.bf/ressource/rdfs#Ministère_de_lAgriculture_et_des_Aménagements_Hydro-agricoles">
+        <rdf:type rdf:resource="http://www.data.gov.bf/ressource/rdfs#Producteur"/>
+        <rdfs1:aProduit rdf:resource="https://data.gov.bf/dataset/taux-de-possession-des-animaux-de-traits"/>
+        <rdfs1:aProduit rdf:resource="https://data.gov.bf/dataset/taux-dexploitation-des-asins"/>
+        <rdfs1:aProduit rdf:resource="https://data.gov.bf/dataset/taux-dexploitation-des-ovins"/>
+        <rdfs1:aProduit rdf:resource="https://data.gov.bf/dataset/taux-dexploitation-des-poules-locales"/>
+        <rdfs1:aProduit rdf:resource="https://data.gov.bf/dataset/taux-dexploitation-des-bovins-de-2008-%C3%A0-2017"/>
+        <foaf:name>Ministère de l&apos;Agriculture et des Aménagements Hydro-agricoles</foaf:name>
+    </NamedIndividual>
+    
+
+
+    <!-- http://www.data.gov.bf/ressource/rdfs#Ministère_de_lAménagement_du_Territoire_et_de_la_Décentralisation -->
+
+    <NamedIndividual rdf:about="http://www.data.gov.bf/ressource/rdfs#Ministère_de_lAménagement_du_Territoire_et_de_la_Décentralisation">
+        <rdf:type rdf:resource="http://www.data.gov.bf/ressource/rdfs#Producteur"/>
+        <foaf:name>Ministère de l&apos;Aménagement du Territoire et de la Décentralisation</foaf:name>
+    </NamedIndividual>
+    
+
+
+    <!-- http://www.data.gov.bf/ressource/rdfs#Ministère_de_la_Culture_et_du_Tourisme -->
+
+    <NamedIndividual rdf:about="http://www.data.gov.bf/ressource/rdfs#Ministère_de_la_Culture_et_du_Tourisme">
+        <rdf:type rdf:resource="http://www.data.gov.bf/ressource/rdfs#Producteur"/>
+        <foaf:name>Ministère de la Culture et du Tourisme</foaf:name>
+    </NamedIndividual>
+    
+
+
+    <!-- http://www.data.gov.bf/ressource/rdfs#Ministère_de_la_Défense -->
+
+    <NamedIndividual rdf:about="http://www.data.gov.bf/ressource/rdfs#Ministère_de_la_Défense">
+        <rdf:type rdf:resource="http://www.data.gov.bf/ressource/rdfs#Producteur"/>
+        <foaf:name>Ministère de la Défense</foaf:name>
+    </NamedIndividual>
+    
+
+
+    <!-- http://www.data.gov.bf/ressource/rdfs#Ministère_de_la_Justice -->
+
+    <NamedIndividual rdf:about="http://www.data.gov.bf/ressource/rdfs#Ministère_de_la_Justice">
+        <rdf:type rdf:resource="http://www.data.gov.bf/ressource/rdfs#Producteur"/>
+        <foaf:name>Ministère de la Justice</foaf:name>
+    </NamedIndividual>
+    
+
+
+    <!-- http://www.data.gov.bf/ressource/rdfs#Ministère_de_la_Santé -->
+
+    <NamedIndividual rdf:about="http://www.data.gov.bf/ressource/rdfs#Ministère_de_la_Santé">
+        <rdf:type rdf:resource="http://www.data.gov.bf/ressource/rdfs#Producteur"/>
+        <rdfs1:aProduit rdf:resource="https://data.gov.bf/dataset/naissances-par-district-sanitaire"/>
+        <rdfs1:aProduit rdf:resource="https://data.gov.bf/dataset/situation-des-avortements-par-structure"/>
+    </NamedIndividual>
+    
+
+
+    <!-- http://www.data.gov.bf/ressource/rdfs#Ministère_de_lÉnergie -->
+
+    <NamedIndividual rdf:about="http://www.data.gov.bf/ressource/rdfs#Ministère_de_lÉnergie">
+        <rdf:type rdf:resource="http://www.data.gov.bf/ressource/rdfs#Producteur"/>
+        <foaf:name>Ministère de l&apos;Énergie</foaf:name>
+    </NamedIndividual>
+    
+
+
+    <!-- http://www.data.gov.bf/ressource/rdfs#boucle-du-mouhoun -->
+
+    <NamedIndividual rdf:about="http://www.data.gov.bf/ressource/rdfs#boucle-du-mouhoun">
+        <rdf:type rdf:resource="http://www.data.gov.bf/ressource/rdfs#Region"/>
+        <ont:taux2011 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">24</ont:taux2011>
+        <ont:taux2012 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">23</ont:taux2012>
+        <ont:taux2013 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">25</ont:taux2013>
+        <ont:taux2014 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">26</ont:taux2014>
+        <ont:taux2015 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">26</ont:taux2015>
+        <ont:taux2016 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">25</ont:taux2016>
+        <ont:taux2017 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">24</ont:taux2017>
+        <rdfs1:taux2008 rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal">21</rdfs1:taux2008>
+        <rdfs1:taux2009 rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal">25</rdfs1:taux2009>
+        <rdfs1:taux2010 rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal">28</rdfs1:taux2010>
+    </NamedIndividual>
+    
+
+
+    <!-- http://www.data.gov.bf/ressource/rdfs#kossi -->
+
+    <NamedIndividual rdf:about="http://www.data.gov.bf/ressource/rdfs#kossi">
+        <rdf:type rdf:resource="http://www.data.gov.bf/ressource/rdfs#Province"/>
+        <ont:taux2011 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">17</ont:taux2011>
+        <ont:taux2012 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">22</ont:taux2012>
+        <ont:taux2013 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">27</ont:taux2013>
+        <ont:taux2014 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">25</ont:taux2014>
+        <ont:taux2015 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">26</ont:taux2015>
+        <ont:taux2016 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">21</ont:taux2016>
+        <ont:taux2017 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">22</ont:taux2017>
+        <rdfs1:taux2008 rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal">12</rdfs1:taux2008>
+        <rdfs1:taux2009 rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal">30</rdfs1:taux2009>
+        <rdfs1:taux2010 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">32</rdfs1:taux2010>
+    </NamedIndividual>
+    
+
+
+    <!-- http://www.data.gov.bf/ressource/rdfs#sourou -->
+
+    <NamedIndividual rdf:about="http://www.data.gov.bf/ressource/rdfs#sourou">
+        <rdf:type rdf:resource="http://www.data.gov.bf/ressource/rdfs#Province"/>
+        <ont:taux2011 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">24</ont:taux2011>
+        <ont:taux2012 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">27</ont:taux2012>
+        <ont:taux2013 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">27</ont:taux2013>
+        <ont:taux2014 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">28</ont:taux2014>
+        <ont:taux2015 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">32</ont:taux2015>
+        <ont:taux2016 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">31</ont:taux2016>
+        <ont:taux2017 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">32</ont:taux2017>
+        <rdfs1:taux2008 rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal">18</rdfs1:taux2008>
+        <rdfs1:taux2009 rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal">25</rdfs1:taux2009>
+        <rdfs1:taux2010 rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal">28</rdfs1:taux2010>
+    </NamedIndividual>
+    
+
+
+    <!-- http://www.data.gov.bf/ressource/rdfs#Ministère_de_l&apos;Economie,_des_Finances_et_du_Développement -->
+
+    <NamedIndividual rdf:about="http://www.data.gov.bf/ressource/rdfs#Ministère_de_l&apos;Economie,_des_Finances_et_du_Développement"/>
+    
+
+
+    <!-- http://www.data.gov.bf/ressource/rdfs#Ministère_de_l&apos;Industrie,_du_Commerce_et_de_l&apos;Artisanat -->
+
+    <NamedIndividual rdf:about="http://www.data.gov.bf/ressource/rdfs#Ministère_de_l&apos;Industrie,_du_Commerce_et_de_l&apos;Artisanat"/>
+    
+
+
+    <!-- http://www.data.gov.bf/ressource/rdfs#Ministère_de_lEau_et_de_l&apos;Assainissement -->
+
+    <NamedIndividual rdf:about="http://www.data.gov.bf/ressource/rdfs#Ministère_de_lEau_et_de_l&apos;Assainissement">
+        <rdf:type rdf:resource="http://www.data.gov.bf/ressource/rdfs#Producteur"/>
+        <foaf:name>Ministère de l&apos;Eau et de l&apos;Assainissement</foaf:name>
+    </NamedIndividual>
+    
+
+
+    <!-- http://www.data.gov.bf/ressource/rdfs#Ministère_de_lEnseignement_Supérieur_et_de_la_Recherche_Scientifique_et_de_l&apos;Innovation -->
+
+    <NamedIndividual rdf:about="http://www.data.gov.bf/ressource/rdfs#Ministère_de_lEnseignement_Supérieur_et_de_la_Recherche_Scientifique_et_de_l&apos;Innovation">
+        <rdf:type rdf:resource="http://www.data.gov.bf/ressource/rdfs#Producteur"/>
+        <foaf:name>Ministère de l&apos;Enseignement Supérieur et de la Recherche Scientifique et de l&apos;Innovation</foaf:name>
+    </NamedIndividual>
+    
+
+
+    <!-- http://www.data.gov.bf/ressource/rdfs#Ministère_de_lHabitat_et_de_l&apos;Urbanisme -->
+
+    <NamedIndividual rdf:about="http://www.data.gov.bf/ressource/rdfs#Ministère_de_lHabitat_et_de_l&apos;Urbanisme">
+        <rdf:type rdf:resource="http://www.data.gov.bf/ressource/rdfs#Producteur"/>
+        <foaf:name>Ministère de l&apos;Habitat et de l&apos;Urbanisme</foaf:name>
+    </NamedIndividual>
+    
+
+
+    <!-- http://www.data.gov.bf/ressource/rdfs#Ministère_de_la_Fonction_Publique,_du_Travail_et_de_la_Sécurité_Sociale -->
+
+    <NamedIndividual rdf:about="http://www.data.gov.bf/ressource/rdfs#Ministère_de_la_Fonction_Publique,_du_Travail_et_de_la_Sécurité_Sociale"/>
+    
+
+
+    <!-- http://www.data.gov.bf/ressource/rdfs#Ministère_de_la_Jeunesse,_de_la_Formation_Professionnelle_et_de_l&apos;Emploi -->
+
+    <NamedIndividual rdf:about="http://www.data.gov.bf/ressource/rdfs#Ministère_de_la_Jeunesse,_de_la_Formation_Professionnelle_et_de_l&apos;Emploi"/>
+    
+
+
+    <!-- http://www.data.gov.bf/ressource/rdfs#Ministère_de_lÉducation_Nationale_et_de_l&apos;Alphabétisation -->
+
+    <NamedIndividual rdf:about="http://www.data.gov.bf/ressource/rdfs#Ministère_de_lÉducation_Nationale_et_de_l&apos;Alphabétisation">
+        <rdf:type rdf:resource="http://www.data.gov.bf/ressource/rdfs#Producteur"/>
+        <rdfs1:aProduit rdf:resource="https://data.gov.bf/dataset/effectifs-par-tranches-dages-et-par-sexe-des-%C3%A9coles-primaires-de-la-r%C3%A9gion-de-la-boucle-du-7"/>
+        <foaf:name>Ministère de l&apos;Éducation Nationale et de l&apos;Alphabétisation</foaf:name>
+    </NamedIndividual>
+    
+
+
+    <!-- https://data.gov.bf/dataset/naissances-par-district-sanitaire -->
+
+    <NamedIndividual rdf:about="https://data.gov.bf/dataset/naissances-par-district-sanitaire">
+        <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Dataset"/>
+        <dcterms:description>&lt;p&gt;Naissances par district sanitaire&lt;/p&gt;</dcterms:description>
+        <dcterms:identifier>77393ed2-4c8b-4a95-87ed-744bdef75f2b</dcterms:identifier>
+        <dcterms:issued>2019-04-22T13:26:06+00:00</dcterms:issued>
+        <dcterms:modified>2020-04-04T10:14:27+00:00</dcterms:modified>
+        <dcterms:publisher>Ministère de la Santé</dcterms:publisher>
+        <dcterms:title>Naissances par district sanitaire</dcterms:title>
+        <dcat:distribution rdf:resource="https://data.gov.bf/dataset/naissances-par-district-sanitaire/resource/cec105cc-14c8-4eab-b525-c0a0a5831cf0"/>
+        <dcat:theme>Santé</dcat:theme>
+    </NamedIndividual>
+    
+
+
+    <!-- https://data.gov.bf/dataset/situation-des-avortements-par-structure -->
+
+    <NamedIndividual rdf:about="https://data.gov.bf/dataset/situation-des-avortements-par-structure">
+        <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Dataset"/>
+        <dcterms:description>&lt;p&gt;Nombre d&apos;avortements spontanés, Nombre d&apos;avortements clandestins, Nombre d&apos;avortements thérapeutiques par structure et par région / district.&lt;/p&gt;</dcterms:description>
+        <dcterms:identifier>f92a7e25-bb1a-426a-88f6-4ea32e456086</dcterms:identifier>
+        <dcterms:issued>2019-05-29T10:25:52+00:00</dcterms:issued>
+        <dcterms:modified>2019-05-29T12:58:58+00:00</dcterms:modified>
+        <dcterms:publisher>Ministère de la Santé</dcterms:publisher>
+        <dcterms:title>Situation des avortements par structure</dcterms:title>
+        <dcat:distribution rdf:resource="https://data.gov.bf/dataset/situation-des-avortements-par-structure/resource/741dfaa3-69f4-4e44-8b3a-fc46961aab99"/>
+        <dcat:theme>Santé</dcat:theme>
+    </NamedIndividual>
+    
+
+
+    <!-- https://data.gov.bf/dataset/taux-de-possession-des-animaux-de-traits -->
+
+    <NamedIndividual rdf:about="https://data.gov.bf/dataset/taux-de-possession-des-animaux-de-traits">
+        <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Dataset"/>
+        <dcterms:identifier>fc84569c-d5fa-4f4e-b36c-158ccd642e9c</dcterms:identifier>
+        <dcterms:issued>2019-05-22T08:01:10+00:00</dcterms:issued>
+        <dcterms:modified>2019-05-22T08:41:51+00:00</dcterms:modified>
+        <dcterms:publisher>Ministère de l&apos;Agriculture et des Aménagements Hydro-agricoles</dcterms:publisher>
+        <dcterms:title>Taux de possession des animaux de traits</dcterms:title>
+        <dcat:distribution rdf:resource="https://data.gov.bf/dataset/taux-de-possession-des-animaux-de-traits/resource/238f91ad-5201-4ca0-aa8e-275425ab6089"/>
+        <dcat:distribution rdf:resource="https://data.gov.bf/dataset/taux-de-possession-des-animaux-de-traits/resource/7f5c3917-7aab-4332-ae8e-8e8cebef80b0"/>
+        <dcat:theme>Agriculture, Elevage</dcat:theme>
+    </NamedIndividual>
+    
+
+
+    <!-- https://data.gov.bf/dataset/taux-dexploitation-des-asins -->
+
+    <NamedIndividual rdf:about="https://data.gov.bf/dataset/taux-dexploitation-des-asins">
+        <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Dataset"/>
+        <dcterms:identifier>d2edbbdc-9a1f-4560-a34c-968b511b218f</dcterms:identifier>
+        <dcterms:issued>2019-05-22T08:50:41+00:00</dcterms:issued>
+        <dcterms:modified>2019-05-22T11:41:53+00:00</dcterms:modified>
+        <dcterms:publisher>Ministère de l&apos;Agriculture et des Aménagements Hydro-agricoles</dcterms:publisher>
+        <dcterms:title>Taux (%) d&apos;exploitation des Asins</dcterms:title>
+        <dcat:distribution rdf:resource="https://data.gov.bf/dataset/taux-dexploitation-des-asins/resource/1203d5d9-7af9-40ff-a512-5cdfa0045885"/>
+        <dcat:distribution rdf:resource="https://data.gov.bf/dataset/taux-dexploitation-des-asins/resource/553a90a1-df2b-45c7-91db-d3fca9c4f3b7"/>
+        <dcat:theme>Agriculture, Elevage</dcat:theme>
+    </NamedIndividual>
+    
+
+
+    <!-- https://data.gov.bf/dataset/taux-dexploitation-des-ovins -->
+
+    <NamedIndividual rdf:about="https://data.gov.bf/dataset/taux-dexploitation-des-ovins">
+        <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Dataset"/>
+        <dcterms:identifier>21593dc9-5742-44eb-9beb-57a4824ba623</dcterms:identifier>
+        <dcterms:issued>2019-05-22T09:01:09+00:00</dcterms:issued>
+        <dcterms:modified>2019-05-22T11:41:53+00:00</dcterms:modified>
+        <dcterms:publisher>Ministère de l&apos;Agriculture et des Aménagements Hydro-agricoles</dcterms:publisher>
+        <dcterms:title>Taux (%) d&apos;exploitation des Ovins</dcterms:title>
+        <dcat:distribution rdf:resource="https://data.gov.bf/dataset/taux-dexploitation-des-ovins/resource/5a320fd5-ebd5-4df9-aa15-462c8b9b6230"/>
+        <dcat:distribution rdf:resource="https://data.gov.bf/dataset/taux-dexploitation-des-ovins/resource/8edbc94f-096d-4d9a-af80-6ce2a1f85bb0"/>
+        <dcat:theme>Agriculture, Elevage</dcat:theme>
+    </NamedIndividual>
+    
+
+
+    <!-- https://data.gov.bf/dataset/taux-dexploitation-des-poules-locales -->
+
+    <NamedIndividual rdf:about="https://data.gov.bf/dataset/taux-dexploitation-des-poules-locales">
+        <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Dataset"/>
+        <dcterms:identifier>560b090d-5006-40cb-8a25-fa28c8c206fe</dcterms:identifier>
+        <dcterms:issued>2019-05-22T08:45:17+00:00</dcterms:issued>
+        <dcterms:modified>2019-05-22T11:41:53+00:00</dcterms:modified>
+        <dcterms:publisher>Ministère de l&apos;Agriculture et des Aménagements Hydro-agricoles</dcterms:publisher>
+        <dcterms:title>Taux (%) d&apos;exploitation des Poules locales</dcterms:title>
+        <rdfs1:distributionUri rdf:resource="http://www.data.gov.bf/ressource/rdfs#boucle-du-mouhoun"/>
+        <dcat:distribution rdf:resource="https://data.gov.bf/dataset/taux-dexploitation-des-poules-locales/resource/ac00d8bf-e70e-43fe-b49e-014c742113b4"/>
+        <dcat:distribution rdf:resource="https://data.gov.bf/dataset/taux-dexploitation-des-poules-locales/resource/ff294adb-1c3a-40b8-a840-72b8072b74d3"/>
+        <dcat:theme>Agriculture, Elevage</dcat:theme>
+    </NamedIndividual>
+    
+
+
+    <!-- https://data.gov.bf/dataset/effectifs-par-tranches-dages-et-par-sexe-des-%C3%A9coles-primaires-de-la-r%C3%A9gion-de-la-boucle-du-7 -->
+
+    <NamedIndividual rdf:about="https://data.gov.bf/dataset/effectifs-par-tranches-dages-et-par-sexe-des-%C3%A9coles-primaires-de-la-r%C3%A9gion-de-la-boucle-du-7">
+        <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Dataset"/>
+        <dcterms:identifier>ae1667ab-99f2-41af-8c1f-b2c3f7c64eb4</dcterms:identifier>
+        <dcterms:issued>2019-05-24T17:17:09+00:00</dcterms:issued>
+        <dcterms:modified>2019-06-07T11:11:30+00:00</dcterms:modified>
+        <dcterms:publisher>Ministère de l&apos;Éducation Nationale et de l&apos;Alphabétisation</dcterms:publisher>
+        <dcterms:title>Effectifs par tranches d&apos;ages et par sexe des écoles primaires de la région de la boucle du mouhoun pour l&apos;année scolaire 2008-2009</dcterms:title>
+        <dcat:distribution rdf:resource="https://data.gov.bf/dataset/effectifs-par-tranches-dages-et-par-sexe-des-%C3%A9coles-primaires-de-la-r%C3%A9gion-de-la-boucle-du-8"/>
+        <dcat:theme>Education</dcat:theme>
+    </NamedIndividual>
+    
+
+
+    <!-- https://data.gov.bf/dataset/effectifs-par-tranches-dages-et-par-sexe-des-%C3%A9coles-primaires-de-la-r%C3%A9gion-de-la-boucle-du-8 -->
+
+    <NamedIndividual rdf:about="https://data.gov.bf/dataset/effectifs-par-tranches-dages-et-par-sexe-des-%C3%A9coles-primaires-de-la-r%C3%A9gion-de-la-boucle-du-8">
+        <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Distribution"/>
+        <dcterms:description></dcterms:description>
+        <dcterms:format>csv</dcterms:format>
+        <dcterms:issued>2019-05-24T17:18:08+00:00</dcterms:issued>
+        <dcterms:modified>2019-05-24T17:18:08+00:00</dcterms:modified>
+        <dcterms:title>Effectifs par tranches d&apos;ages et par sexe des écoles primaires de la région de la boucle du mouhoun pour l&apos;année scolaire 2008-2009</dcterms:title>
+        <dcat:accessURL rdf:resource="file:/home/issouf/Documents/Protege/TP/FasoDBpedia.xml"/>
+        <dcat:byteSize>636551</dcat:byteSize>
+        <dcat:downloadURL rdf:resource="https://data.gov.bf/sites/default/files/effectif20082009boucleh.csv"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <foaf:page>https://data.gov.bf/dataset/effectifs-par-tranches-dages-et-par-sexe-des-%C3%A9coles-primaires-de-la-r%C3%A9gion-de-la-boucle-du-8</foaf:page>
+    </NamedIndividual>
+    
+
+
+    <!-- https://data.gov.bf/dataset/evolution-des-ventes-deau-potable-de-lonea-par-type-de-client-de-2003-%C3%A0-2015 -->
+
+    <NamedIndividual rdf:about="https://data.gov.bf/dataset/evolution-des-ventes-deau-potable-de-lonea-par-type-de-client-de-2003-%C3%A0-2015">
+        <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Dataset"/>
+        <dcterms:identifier>7ef6c911-a88b-4189-97be-879e1a0aeb48</dcterms:identifier>
+        <dcterms:issued>2019-05-27T07:34:14+00:00</dcterms:issued>
+        <dcterms:modified>2019-05-27T10:58:12+00:00</dcterms:modified>
+        <dcterms:publisher>Ministère de l’Environnement, de l’Economie Verte et du Changement Climatique</dcterms:publisher>
+        <dcterms:title>Evolution des ventes d&apos;eau potable de l&apos;ONEA par type de client de 2003 à 2015</dcterms:title>
+        <dcat:distribution rdf:resource="https://data.gov.bf/dataset/evolution-des-ventes-deau-potable-de-lonea-par-type-de-client-de-2003-%C3%A0-2015/resource"/>
+        <dcat:theme>Eau et environnement</dcat:theme>
+    </NamedIndividual>
+    
+
+
+    <!-- https://data.gov.bf/dataset/evolution-des-ventes-deau-potable-de-lonea-par-type-de-client-de-2003-%C3%A0-2015/resource -->
+
+    <NamedIndividual rdf:about="https://data.gov.bf/dataset/evolution-des-ventes-deau-potable-de-lonea-par-type-de-client-de-2003-%C3%A0-2015/resource">
+        <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Distribution"/>
+        <dcterms:description></dcterms:description>
+        <dcterms:format>xlsx</dcterms:format>
+        <dcterms:issued>2019-05-27T07:35:04+00:00</dcterms:issued>
+        <dcterms:modified>2019-05-27T07:35:04+00:00</dcterms:modified>
+        <dcterms:title>Evolution des ventes d&apos;eau potable de l&apos;ONEA par type de client de 2003 à 2015</dcterms:title>
+        <dcat:accessURL rdf:resource="file:/home/issouf/Documents/Protege/TP/FasoDBpedia.xml"/>
+        <dcat:byteSize>10363</dcat:byteSize>
+        <dcat:downloadURL rdf:resource="https://data.gov.bf/sites/default/files/evolutiondesventesdeaupotabledeloneapartypedeclient.xlsx"/>
+        <dcat:mediaType>application/vnd.openxmlformats-officedocument.spreadsheetml.sheet</dcat:mediaType>
+        <foaf:page>https://data.gov.bf/dataset/evolution-des-ventes-deau-potable-de-lonea-par-type-de-client-de-2003-%C3%A0-2015/resource</foaf:page>
+    </NamedIndividual>
+    
+
+
+    <!-- https://data.gov.bf/dataset/naissances-par-district-sanitaire/resource/cec105cc-14c8-4eab-b525-c0a0a5831cf0 -->
+
+    <NamedIndividual rdf:about="https://data.gov.bf/dataset/naissances-par-district-sanitaire/resource/cec105cc-14c8-4eab-b525-c0a0a5831cf0">
+        <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Distribution"/>
+        <dcterms:description>&lt;p&gt;Naissances par district sanitaire en 2017&lt;/p&gt;</dcterms:description>
+        <dcterms:format>csv</dcterms:format>
+        <dcterms:issued>2019-04-22T16:32:00+00:00</dcterms:issued>
+        <dcterms:modified>2020-04-04T07:39:50+00:00</dcterms:modified>
+        <dcterms:title>Naissances par district sanitaire en 2017</dcterms:title>
+        <dcat:accessURL rdf:resource="file:/home/issouf/Documents/Protege/TP/FasoDBpedia.xml"/>
+        <dcat:byteSize>4971</dcat:byteSize>
+        <dcat:downloadURL rdf:resource="https://data.gov.bf/sites/default/files/naissances2017.csv"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <foaf:page>https://data.gov.bf/dataset/naissances-par-district-sanitaire/resource/cec105cc-14c8-4eab-b525-c0a0a5831cf0</foaf:page>
+    </NamedIndividual>
+    
+
+
+    <!-- https://data.gov.bf/dataset/nombre-de-permis-d%C3%A9livr%C3%A9s-par-substance -->
+
+    <NamedIndividual rdf:about="https://data.gov.bf/dataset/nombre-de-permis-d%C3%A9livr%C3%A9s-par-substance">
+        <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Dataset"/>
+        <dcterms:description>&lt;p&gt;Nombre de permis délivrés par substance&lt;/p&gt;</dcterms:description>
+        <dcterms:identifier>9ef2b146-f451-456e-897b-c91d799f9788</dcterms:identifier>
+        <dcterms:issued>2019-04-22T17:02:46+00:00</dcterms:issued>
+        <dcterms:modified>2020-04-04T10:14:27+00:00</dcterms:modified>
+        <dcterms:publisher>Ministère des Mines et des Carrières</dcterms:publisher>
+        <dcterms:title>Nombre de permis délivrés par substance</dcterms:title>
+        <dcat:distribution rdf:resource="https://data.gov.bf/dataset/nombre-de-permis-d%C3%A9livr%C3%A9s-par-substance/resource/7168d43d-9808-414a-9cf6-ffd241692248"/>
+        <dcat:theme>Mines et carrières</dcat:theme>
+    </NamedIndividual>
+    
+
+
+    <!-- https://data.gov.bf/dataset/nombre-de-permis-d%C3%A9livr%C3%A9s-par-substance/resource/7168d43d-9808-414a-9cf6-ffd241692248 -->
+
+    <NamedIndividual rdf:about="https://data.gov.bf/dataset/nombre-de-permis-d%C3%A9livr%C3%A9s-par-substance/resource/7168d43d-9808-414a-9cf6-ffd241692248">
+        <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Distribution"/>
+        <dcterms:description>&lt;p&gt;ce ficher contient des données de permis d&apos;exploitation minière de 2008-2017&lt;/p&gt;</dcterms:description>
+        <dcterms:format>csv</dcterms:format>
+        <dcterms:issued>2019-04-22T17:15:49+00:00</dcterms:issued>
+        <dcterms:modified>2020-04-04T07:39:50+00:00</dcterms:modified>
+        <dcterms:title>Nombre de permis délivrés par substance de 2008-2017</dcterms:title>
+        <dcat:accessURL rdf:resource="file:/home/issouf/Documents/Protege/TP/FasoDBpedia.xml"/>
+        <dcat:byteSize>682</dcat:byteSize>
+        <dcat:downloadURL rdf:resource="https://data.gov.bf/sites/default/files/nombredepermisdelivresparsubstancede2008a2017.csv"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <foaf:page>https://data.gov.bf/dataset/nombre-de-permis-d%C3%A9livr%C3%A9s-par-substance/resource/7168d43d-9808-414a-9cf6-ffd241692248</foaf:page>
+    </NamedIndividual>
+    
+
+
+    <!-- https://data.gov.bf/dataset/situation-des-avortements-par-structure/resource/741dfaa3-69f4-4e44-8b3a-fc46961aab99 -->
+
+    <NamedIndividual rdf:about="https://data.gov.bf/dataset/situation-des-avortements-par-structure/resource/741dfaa3-69f4-4e44-8b3a-fc46961aab99">
+        <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Distribution"/>
+        <dcterms:description></dcterms:description>
+        <dcterms:format>xls</dcterms:format>
+        <dcterms:issued>2019-05-29T10:26:39+00:00</dcterms:issued>
+        <dcterms:modified>2019-05-29T10:26:39+00:00</dcterms:modified>
+        <dcterms:title>Nombre d&apos;avortements spontanés, Nombre d&apos;avortements clandestins, Nombre d&apos;avortements thérapeutiques par structure et par région / district.</dcterms:title>
+        <dcat:accessURL rdf:resource="file:/home/issouf/Documents/Protege/TP/FasoDBpedia.xml"/>
+        <dcat:byteSize>67072</dcat:byteSize>
+        <dcat:downloadURL rdf:resource="https://data.gov.bf/sites/default/files/situationdesavortementsparstructureselonletypeen2012.xls"/>
+        <dcat:mediaType>application/vnd.ms-excel</dcat:mediaType>
+        <foaf:page>https://data.gov.bf/dataset/situation-des-avortements-par-structure/resource/741dfaa3-69f4-4e44-8b3a-fc46961aab99</foaf:page>
+    </NamedIndividual>
+    
+
+
+    <!-- https://data.gov.bf/dataset/taux-de-possession-des-animaux-de-traits/resource/238f91ad-5201-4ca0-aa8e-275425ab6089 -->
+
+    <NamedIndividual rdf:about="https://data.gov.bf/dataset/taux-de-possession-des-animaux-de-traits/resource/238f91ad-5201-4ca0-aa8e-275425ab6089">
+        <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Distribution"/>
+        <dcterms:description></dcterms:description>
+        <dcterms:format>xlsx</dcterms:format>
+        <dcterms:issued>2019-05-22T08:02:27+00:00</dcterms:issued>
+        <dcterms:modified>2019-05-22T08:02:27+00:00</dcterms:modified>
+        <dcterms:title>taux de possession des animaux de traits des ménages agricoles de 2008 à 2018</dcterms:title>
+        <dcat:accessURL rdf:resource="file:/home/issouf/Documents/Protege/TP/FasoDBpedia.xml"/>
+        <dcat:byteSize>10951</dcat:byteSize>
+        <dcat:downloadURL rdf:resource="https://data.gov.bf/sites/default/files/agrijeu137.xlsx"/>
+        <dcat:mediaType>application/vnd.openxmlformats-officedocument.spreadsheetml.sheet</dcat:mediaType>
+        <foaf:page>https://data.gov.bf/dataset/taux-de-possession-des-animaux-de-traits/resource/238f91ad-5201-4ca0-aa8e-275425ab6089</foaf:page>
+    </NamedIndividual>
+    
+
+
+    <!-- https://data.gov.bf/dataset/taux-de-possession-des-animaux-de-traits/resource/7f5c3917-7aab-4332-ae8e-8e8cebef80b0 -->
+
+    <NamedIndividual rdf:about="https://data.gov.bf/dataset/taux-de-possession-des-animaux-de-traits/resource/7f5c3917-7aab-4332-ae8e-8e8cebef80b0">
+        <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Distribution"/>
+        <dcterms:description></dcterms:description>
+        <dcterms:format>csv</dcterms:format>
+        <dcterms:issued>2019-05-22T08:03:06+00:00</dcterms:issued>
+        <dcterms:modified>2019-05-22T08:03:06+00:00</dcterms:modified>
+        <dcterms:title>taux de possession des animaux de traits des ménages agricoles de 2008 à 2018</dcterms:title>
+        <dcat:accessURL rdf:resource="file:/home/issouf/Documents/Protege/TP/FasoDBpedia.xml"/>
+        <dcat:byteSize>2184</dcat:byteSize>
+        <dcat:downloadURL rdf:resource="https://data.gov.bf/sites/default/files/agrijeu137.csv"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <foaf:page>https://data.gov.bf/dataset/taux-de-possession-des-animaux-de-traits/resource/7f5c3917-7aab-4332-ae8e-8e8cebef80b0</foaf:page>
+    </NamedIndividual>
+    
+
+
+    <!-- https://data.gov.bf/dataset/taux-dexploitation-des-asins/resource/1203d5d9-7af9-40ff-a512-5cdfa0045885 -->
+
+    <NamedIndividual rdf:about="https://data.gov.bf/dataset/taux-dexploitation-des-asins/resource/1203d5d9-7af9-40ff-a512-5cdfa0045885">
+        <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Distribution"/>
+        <dcterms:description></dcterms:description>
+        <dcterms:format>xlsx</dcterms:format>
+        <dcterms:issued>2019-05-22T08:51:55+00:00</dcterms:issued>
+        <dcterms:modified>2019-05-22T08:51:55+00:00</dcterms:modified>
+        <dcterms:title>Pourcentage d&apos;exploitation des Asins</dcterms:title>
+        <dcat:accessURL rdf:resource="file:/home/issouf/Documents/Protege/TP/FasoDBpedia.xml"/>
+        <dcat:byteSize>11077</dcat:byteSize>
+        <dcat:downloadURL rdf:resource="https://data.gov.bf/sites/default/files/agrijeu159.xlsx"/>
+        <dcat:mediaType>application/vnd.openxmlformats-officedocument.spreadsheetml.sheet</dcat:mediaType>
+        <foaf:page>https://data.gov.bf/dataset/taux-dexploitation-des-asins/resource/1203d5d9-7af9-40ff-a512-5cdfa0045885</foaf:page>
+    </NamedIndividual>
+    
+
+
+    <!-- https://data.gov.bf/dataset/taux-dexploitation-des-asins/resource/553a90a1-df2b-45c7-91db-d3fca9c4f3b7 -->
+
+    <NamedIndividual rdf:about="https://data.gov.bf/dataset/taux-dexploitation-des-asins/resource/553a90a1-df2b-45c7-91db-d3fca9c4f3b7">
+        <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Distribution"/>
+        <dcterms:description></dcterms:description>
+        <dcterms:format>csv</dcterms:format>
+        <dcterms:issued>2019-05-22T08:52:40+00:00</dcterms:issued>
+        <dcterms:modified>2019-05-22T08:52:40+00:00</dcterms:modified>
+        <dcterms:title>Pourcentage d&apos;exploitation des Asins</dcterms:title>
+        <dcat:accessURL rdf:resource="file:/home/issouf/Documents/Protege/TP/FasoDBpedia.xml"/>
+        <dcat:byteSize>1823</dcat:byteSize>
+        <dcat:downloadURL rdf:resource="https://data.gov.bf/sites/default/files/agrijeu159.csv"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <foaf:page>https://data.gov.bf/dataset/taux-dexploitation-des-asins/resource/553a90a1-df2b-45c7-91db-d3fca9c4f3b7</foaf:page>
+    </NamedIndividual>
+    
+
+
+    <!-- https://data.gov.bf/dataset/taux-dexploitation-des-bovins-de-2008-%C3%A0-2017 -->
+
+    <NamedIndividual rdf:about="https://data.gov.bf/dataset/taux-dexploitation-des-bovins-de-2008-%C3%A0-2017">
+        <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Dataset"/>
+        <dcterms:identifier>4b1c96d3-76e0-48f0-948a-3f56affcf7ae</dcterms:identifier>
+        <dcterms:issued>2019-05-22T09:04:14+00:00</dcterms:issued>
+        <dcterms:modified>2019-05-22T11:41:53+00:00</dcterms:modified>
+        <dcterms:publisher>Ministère de l&apos;Agriculture et des Aménagements Hydro-agricoles</dcterms:publisher>
+        <dcterms:title>Taux (%) d&apos;exploitation des Bovins de 2008 à 2017</dcterms:title>
+        <dcat:distribution rdf:resource="https://data.gov.bf/dataset/taux-dexploitation-des-bovins-de-2008-%C3%A0-2017/resource/4b8bb0d5-e34e-447d-a735-050637d3341f"/>
+        <dcat:distribution rdf:resource="https://data.gov.bf/dataset/taux-dexploitation-des-bovins-de-2008-%C3%A0-2017/resource/865a247e-8ed2-4945-aac2-9c58dae93c62"/>
+        <dcat:theme>Agriculture, Elevage</dcat:theme>
+    </NamedIndividual>
+    
+
+
+    <!-- https://data.gov.bf/dataset/taux-dexploitation-des-bovins-de-2008-%C3%A0-2017/resource/4b8bb0d5-e34e-447d-a735-050637d3341f -->
+
+    <NamedIndividual rdf:about="https://data.gov.bf/dataset/taux-dexploitation-des-bovins-de-2008-%C3%A0-2017/resource/4b8bb0d5-e34e-447d-a735-050637d3341f">
+        <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Distribution"/>
+        <dcterms:description></dcterms:description>
+        <dcterms:format>xlsx</dcterms:format>
+        <dcterms:issued>2019-05-22T09:05:18+00:00</dcterms:issued>
+        <dcterms:modified>2019-05-22T09:05:18+00:00</dcterms:modified>
+        <dcterms:title>Pourcentage d&apos;exploitation des Bovins de 2008 à 2017</dcterms:title>
+        <dcat:accessURL rdf:resource="file:/home/issouf/Documents/Protege/TP/FasoDBpedia.xml"/>
+        <dcat:byteSize>11218</dcat:byteSize>
+        <dcat:downloadURL rdf:resource="https://data.gov.bf/sites/default/files/agrijeu156.xlsx"/>
+        <dcat:mediaType>application/vnd.openxmlformats-officedocument.spreadsheetml.sheet</dcat:mediaType>
+        <foaf:page>https://data.gov.bf/dataset/taux-dexploitation-des-bovins-de-2008-%C3%A0-2017/resource/4b8bb0d5-e34e-447d-a735-050637d3341f</foaf:page>
+    </NamedIndividual>
+    
+
+
+    <!-- https://data.gov.bf/dataset/taux-dexploitation-des-bovins-de-2008-%C3%A0-2017/resource/865a247e-8ed2-4945-aac2-9c58dae93c62 -->
+
+    <NamedIndividual rdf:about="https://data.gov.bf/dataset/taux-dexploitation-des-bovins-de-2008-%C3%A0-2017/resource/865a247e-8ed2-4945-aac2-9c58dae93c62">
+        <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Distribution"/>
+        <dcterms:description></dcterms:description>
+        <dcterms:format>csv</dcterms:format>
+        <dcterms:issued>2019-05-22T09:05:58+00:00</dcterms:issued>
+        <dcterms:modified>2019-05-22T09:05:58+00:00</dcterms:modified>
+        <dcterms:title>Pourcentage d&apos;exploitation des Bovins de 2008 à 2017</dcterms:title>
+        <dcat:accessURL rdf:resource="file:/home/issouf/Documents/Protege/TP/FasoDBpedia.xml"/>
+        <dcat:byteSize>1940</dcat:byteSize>
+        <dcat:downloadURL rdf:resource="https://data.gov.bf/sites/default/files/agrijeu156.csv"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <foaf:page>https://data.gov.bf/dataset/taux-dexploitation-des-bovins-de-2008-%C3%A0-2017/resource/865a247e-8ed2-4945-aac2-9c58dae93c62</foaf:page>
+    </NamedIndividual>
+    
+
+
+    <!-- https://data.gov.bf/dataset/taux-dexploitation-des-ovins/resource/5a320fd5-ebd5-4df9-aa15-462c8b9b6230 -->
+
+    <NamedIndividual rdf:about="https://data.gov.bf/dataset/taux-dexploitation-des-ovins/resource/5a320fd5-ebd5-4df9-aa15-462c8b9b6230">
+        <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Distribution"/>
+        <dcterms:description></dcterms:description>
+        <dcterms:format>csv</dcterms:format>
+        <dcterms:issued>2019-05-22T09:03:10+00:00</dcterms:issued>
+        <dcterms:modified>2019-05-22T09:03:10+00:00</dcterms:modified>
+        <dcterms:title>Pourcentage d&apos;exploitation des Ovins</dcterms:title>
+        <dcat:accessURL rdf:resource="file:/home/issouf/Documents/Protege/TP/FasoDBpedia.xml"/>
+        <dcat:byteSize>2311</dcat:byteSize>
+        <dcat:downloadURL rdf:resource="https://data.gov.bf/sites/default/files/agrijeu157.csv"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <foaf:page>https://data.gov.bf/dataset/taux-dexploitation-des-ovins/resource/5a320fd5-ebd5-4df9-aa15-462c8b9b6230</foaf:page>
+    </NamedIndividual>
+    
+
+
+    <!-- https://data.gov.bf/dataset/taux-dexploitation-des-ovins/resource/8edbc94f-096d-4d9a-af80-6ce2a1f85bb0 -->
+
+    <NamedIndividual rdf:about="https://data.gov.bf/dataset/taux-dexploitation-des-ovins/resource/8edbc94f-096d-4d9a-af80-6ce2a1f85bb0">
+        <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Distribution"/>
+        <dcterms:description></dcterms:description>
+        <dcterms:format>xlsx</dcterms:format>
+        <dcterms:issued>2019-05-22T09:02:20+00:00</dcterms:issued>
+        <dcterms:modified>2019-05-22T09:02:20+00:00</dcterms:modified>
+        <dcterms:title>Pourcentage d&apos;exploitation des Ovins</dcterms:title>
+        <dcat:accessURL rdf:resource="file:/home/issouf/Documents/Protege/TP/FasoDBpedia.xml"/>
+        <dcat:byteSize>11281</dcat:byteSize>
+        <dcat:downloadURL rdf:resource="https://data.gov.bf/sites/default/files/agrijeu157.xlsx"/>
+        <dcat:mediaType>application/vnd.openxmlformats-officedocument.spreadsheetml.sheet</dcat:mediaType>
+        <foaf:page>https://data.gov.bf/dataset/taux-dexploitation-des-ovins/resource/8edbc94f-096d-4d9a-af80-6ce2a1f85bb0</foaf:page>
+    </NamedIndividual>
+    
+
+
+    <!-- https://data.gov.bf/dataset/taux-dexploitation-des-poules-locales/resource/ac00d8bf-e70e-43fe-b49e-014c742113b4 -->
+
+    <NamedIndividual rdf:about="https://data.gov.bf/dataset/taux-dexploitation-des-poules-locales/resource/ac00d8bf-e70e-43fe-b49e-014c742113b4">
+        <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Distribution"/>
+        <dcterms:description></dcterms:description>
+        <dcterms:format>csv</dcterms:format>
+        <dcterms:issued>2019-05-22T08:46:56+00:00</dcterms:issued>
+        <dcterms:modified>2019-05-22T08:46:56+00:00</dcterms:modified>
+        <dcterms:title>Taux (%) d&apos;exploitation des Poules locales</dcterms:title>
+        <dcat:accessURL rdf:resource="file:/home/issouf/Documents/Protege/TP/FasoDBpedia.xml"/>
+        <dcat:byteSize>2396</dcat:byteSize>
+        <dcat:downloadURL rdf:resource="https://data.gov.bf/sites/default/files/agrijeu160.csv"/>
+        <dcat:mediaType>text/csv</dcat:mediaType>
+        <foaf:page>https://data.gov.bf/dataset/taux-dexploitation-des-poules-locales/resource/ac00d8bf-e70e-43fe-b49e-014c742113b4</foaf:page>
+    </NamedIndividual>
+    
+
+
+    <!-- https://data.gov.bf/dataset/taux-dexploitation-des-poules-locales/resource/ff294adb-1c3a-40b8-a840-72b8072b74d3 -->
+
+    <NamedIndividual rdf:about="https://data.gov.bf/dataset/taux-dexploitation-des-poules-locales/resource/ff294adb-1c3a-40b8-a840-72b8072b74d3">
+        <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Distribution"/>
+        <dcterms:description></dcterms:description>
+        <dcterms:format>csv</dcterms:format>
+        <dcterms:issued>2019-05-22T08:46:16+00:00</dcterms:issued>
+        <dcterms:modified>2019-05-22T08:46:16+00:00</dcterms:modified>
+        <dcterms:title>Taux (%) d&apos;exploitation des Poules locales</dcterms:title>
+        <dcat:accessURL rdf:resource="file:/home/issouf/Documents/Protege/TP/FasoDBpedia.xml"/>
+        <dcat:byteSize>11332</dcat:byteSize>
+        <dcat:downloadURL rdf:resource="https://data.gov.bf/sites/default/files/agrijeu160.xlsx"/>
+        <dcat:mediaType>application/vnd.openxmlformats-officedocument.spreadsheetml.sheet</dcat:mediaType>
+        <foaf:page>https://data.gov.bf/dataset/taux-dexploitation-des-poules-locales/resource/ff294adb-1c3a-40b8-a840-72b8072b74d3</foaf:page>
+    </NamedIndividual>
+    
+
+
+    <!-- https://data.gov.bf/publisher/n0 -->
+
+    <NamedIndividual rdf:about="https://data.gov.bf/publisher/n0">
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Agent"/>
+        <dcterms:type rdf:resource="http://purl.org/adms/publishertype/NonProfitOrganisation"/>
+        <foaf:homepage>https://data.gov.bf</foaf:homepage>
+        <foaf:name>DKAN</foaf:name>
+    </NamedIndividual>
+</rdf:RDF>
+
+
+
+<!-- Generated by the OWL API (version 4.5.9.2019-02-01T07:24:44Z) https://github.com/owlcs/owlapi -->
+

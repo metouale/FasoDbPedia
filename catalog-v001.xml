@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<catalog prefer="public" xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog">
+    <group id="Folder Repository, directory=, recursive=true, Auto-Update=true, version=2" prefer="public" xml:base="">
+        <uri id="Automatically generated entry, Timestamp=1613387888661" name="http://www.w3.org/2002/07/owl" uri="FasoDBpedia.xml"/>
+        <uri id="Automatically generated entry, Timestamp=1613387888661" name="http://www.w3.org/2002/07/owl#" uri="importer/importowl.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1613387888661" name="shadowed:http://www.w3.org/2002/07/owl" uri="importer/evolution-des-principaux-produits-importés.xml"/>
+        <uri id="Automatically generated entry, Timestamp=1613387888661" name="shadowed:http://www.w3.org/2002/07/owl" uri="exportations/evolution-des-principaux-produits-exportés.xml"/>
+        <uri id="Automatically generated entry, Timestamp=1613387888661" name="shadowed:http://www.w3.org/2002/07/owl" uri="recettes-budgtaires-de-2008-2016/recettes-budgétaires-de-2008-à-2016-en-milliards-fcfa.xml"/>
+        <uri id="Automatically generated entry, Timestamp=1613387888661" name="shadowed:http://www.w3.org/2002/07/owl" uri="evolution-du-nombre-annuel-de-jours-de-pluie/evolution-du-nombre-annuel-de-jours-de-pluie-dans-les-principales-stations.xml"/>
+        <uri id="Automatically generated entry, Timestamp=1613387888661" name="shadowed:http://www.w3.org/2002/07/owl" uri="prescolarisation/evolution-du-taux-brut-de-préscolarisation.xml"/>
+    </group>
+</catalog>
